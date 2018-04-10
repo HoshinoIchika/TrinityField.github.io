@@ -6,7 +6,7 @@ layout: post
 
 <p>No,とめないで あなたから熱くなれ</p>
 
-<p>【<font color="cyan">绘</font><font color="darkgray">鸟</font><font color="lime">花</font>】「まだ夢を見てるの あどけない夢」<br />
+<p>【<font color="cyan">绘</font><font color="silver">鸟</font><font color="lime">花</font>】「まだ夢を見てるの あどけない夢」<br />
 　　　　　耳にささやいたら<br />
 【<font color="darkorange">果</font><font color="red">姬</font><font color="purple">希</font>】目を閉じて溜息 あなたのせいよ<br />
 　　　　　海にとける ムーンライトあびて</p>
@@ -24,7 +24,7 @@ layout: post
 <p><font color="darkorange">動揺してるの?</font><br />
 <font color="purple">緊張してるの?</font><br />
 <font color="hotpink">なんだかわかる</font><br />
-<font color="darkgray">振りむいたらわかる</font><br />
+<font color="silver">振りむいたらわかる</font><br />
 <font color="red">あなたから</font><br />
 熱くなれ</p>
 
@@ -33,9 +33,9 @@ layout: post
 【<font color="blue">海</font><font color="yellow">凛</font><font color="hotpink">妮</font>】苦しげな言い訳が あなたらしくて<br />
 　　　　　さらに心 テンションあがる</p>
 
-<p>【<font color="cyan">绘</font><font color="darkgray">鸟</font><font color="lime">花</font>】裸足で書いた砂の記号<br />
+<p>【<font color="cyan">绘</font><font color="silver">鸟</font><font color="lime">花</font>】裸足で書いた砂の記号<br />
 　　　　　さかさまにすれば I love you<br />
-<font color="darkgray">気づいた時はどうするの</font><br />
+<font color="silver">気づいた時はどうするの</font><br />
 わたしを見ているの</p>
 
 <p>つぎは抱きしめて<br />
@@ -57,7 +57,7 @@ layout: post
 <font color="lime">寂しいよ…</font><br />
 <font color="red">これっきり、かもね</font><br />
 <font color="cyan">ダ スヴィダーニァ</font><br />
-<font color="darkgray">もう会えないの…</font><br />
+<font color="silver">もう会えないの…</font><br />
 <font color="hotpink">じゃあね</font></p>
 
 <p>波が連れてきた<br />
@@ -69,7 +69,7 @@ layout: post
 
 <p><font color="blue">動揺してるの?</font><br />
 <font color="red">緊張してるの?</font><br />
-<font color="darkgray">なんだかわかる</font><br />
+<font color="silver">なんだかわかる</font><br />
 <font color="lime">振りむいたらわかる</font><br />
 <font color="cyan">鳴らしてよ</font><br />
 夏の恋<br />

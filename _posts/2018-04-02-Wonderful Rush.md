@@ -7,7 +7,7 @@ layout: post
 <p>Dan-dan ココロ Dan-dan アツク<br />
 夢いっぱい叶えてみせる<br />
 Dan-dan ススム Dan-dan ハジケル<br />
-<font color="darkgray">未来をしっかり見て!</font><br />
+<font color="silver">未来をしっかり見て!</font><br />
 (Hi hi,ススメ!まだまだLet's go!!　Hi hi,ススメ!ほらほらLet's go!!)</p>
 
 <p>【<font color="darkorange">果</font><font color="blue">海</font><font color="cyan">绘</font>】大事なことはなんだっけ?【其余6人】(なんだっけ?)<br />
@@ -16,10 +16,10 @@ Dan-dan ススム Dan-dan ハジケル<br />
 　　　　　そんな勢いでずっと一生懸命なんだよって<br />
 【其余6人】(一生懸命なんだよずっと!)</p>
 
-<p>【<font color="darkgray">鸟</font><font color="hotpink">妮</font><font color="red">姬</font>】もっと近くで語りあいたいな<br />
+<p>【<font color="silver">鸟</font><font color="hotpink">妮</font><font color="red">姬</font>】もっと近くで語りあいたいな<br />
 　　　　　頷いた君とどこまで<br />
 【<font color="darkorange">果</font><font color="blue">海</font><font color="cyan">绘</font>】走ろうか【<font color="lime">花</font><font color="yellow">凛</font><font color="purple">希</font>】(果てまで)<br />
-【<font color="darkgray">鸟</font><font color="hotpink">妮</font><font color="red">姬</font>】走ればいいさ<br />
+【<font color="silver">鸟</font><font color="hotpink">妮</font><font color="red">姬</font>】走ればいいさ<br />
 【其余6人】(限界しらない All right?)</p>
 
 <p>【9人】これからの Wonderful Rush<br />
@@ -31,9 +31,9 @@ Dan-dan ススム Dan-dan ハジケル<br />
 
 <p>【<font color="lime">花</font><font color="yellow">凛</font><font color="purple">希</font>】Dan-dan ココロ Dan-dan アツク<br />
 【<font color="darkorange">果</font><font color="blue">海</font><font color="cyan">绘</font>】夢いっぱい叶えてみせる<br />
-【<font color="darkgray">鸟</font><font color="hotpink">妮</font><font color="red">姬</font>】Dan-dan ススム Dan-dan ハジケル<br />
+【<font color="silver">鸟</font><font color="hotpink">妮</font><font color="red">姬</font>】Dan-dan ススム Dan-dan ハジケル<br />
 【其余6人】(Hi hi,ススメ!まだまだLet's go!!　Hi hi,ススムヨ!)<br />
-<font color="darkgray">未来をつかまえて!</font><br />
+<font color="silver">未来をつかまえて!</font><br />
 <font color="hotpink">人生気分で上下左右</font><br />
 <font color="red">運命ときに急展開</font><br />
 <font color="lime">最低↓</font><font color="darkorange">最高↑</font><font color="purple">最大↑</font><font color="blue">最新↑</font><br />
@@ -47,10 +47,10 @@ Dan-da-Dan-Dan!</p>
 
 <p><font color="blue">大事だよ</font>【<font color="darkorange">果</font><font color="cyan">绘</font>】(なんだっけ?)<br />
 <font color="lime">ちいさな努力</font>【<font color="yellow">凛</font><font color="purple">希</font>】(そうだった!)<br />
-<font color="hotpink">いまが好きで</font>【<font color="darkgray">鸟</font><font color="red">姬</font>】(愛なんだ?)<br />
+<font color="hotpink">いまが好きで</font>【<font color="silver">鸟</font><font color="red">姬</font>】(愛なんだ?)<br />
 <font color="darkorange">ぶつかるんだ</font>【<font color="blue">海</font><font color="cyan">绘</font>】(そうなんだ!)<br />
 <font color="purple">勢いよくね</font>【<font color="yellow">凛</font><font color="lime">花</font>】(大胆に?)<br />
-<font color="red">一生懸命</font>【<font color="darkgray">鸟</font><font color="hotpink">妮</font>】(そうだった!)<br />
+<font color="red">一生懸命</font>【<font color="silver">鸟</font><font color="hotpink">妮</font>】(そうだった!)<br />
 <font color="cyan">勢いつけて</font>【<font color="darkorange">果</font><font color="blue">海</font>】(大胆に?)<br />
 【9人】一生懸命だ!</p>
 
@@ -77,13 +77,13 @@ Three, two, one, ZERO!!</p>
 <p>Hi hi, Super jump! Oh yeah, Super jump!!<br />
 Life is wonder まだまだ Let's go!!<br />
 Hi hi, Super jump! Oh yeah, Super jump!!<br />
-【<font color="darkgray">鸟</font><font color="hotpink">妮</font><font color="red">姬</font>】Life is wonder Wonderful Rush</p>
+【<font color="silver">鸟</font><font color="hotpink">妮</font><font color="red">姬</font>】Life is wonder Wonderful Rush</p>
 
-<p><font color="darkgray">もっと近くで語りあいたいな<br />
+<p><font color="silver">もっと近くで語りあいたいな<br />
 頷いた君とどこまで走ろうか</font><font color="red">(果てまで)<br />
 走ればいいさ</font><br />
 <font color="hotpink">(限界それなに? No thank you, OK!)</font><br />
-<font color="darkgray">Oh yeah</font><br />
+<font color="silver">Oh yeah</font><br />
 【其余6人】(心配いらない All right!!)</p>
 
 <p>【9人】これからの Wonderful Rush<br />
