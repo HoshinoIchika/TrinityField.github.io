@@ -32,7 +32,7 @@ layout: post
 Hi Hi Hi 壊せるものさ Hi Hi Hi 倒せるものさ<br />
 勇気で未来を見せて<br />
 (Oh yeah! Oh yeah! Oh yeah!)<br />
-(うん負けないから!</p>)
+(うん負けないから!)</p>
 
 <p><font color="purple">傷つけあっちゃ No good</font><br />
 <font color="blue">仲<u>違（たが）</u>いは No good</font><br />
