@@ -1,6 +1,7 @@
 ---
 title: Snow halation
 layout: post
+categories: ll
 ---
 歌：μ's
 
