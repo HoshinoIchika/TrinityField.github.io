@@ -5,7 +5,7 @@ order: 2
 ---
 
 <h2>μ's（全115曲）</h2>
-<table width=75% align=center>
+<table width=75%>
 <tr>
 	<th>第一章 序号单曲</th>
 </tr>
