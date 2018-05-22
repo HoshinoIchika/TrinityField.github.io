@@ -11,9 +11,9 @@ layout: post
 <font color="lime">君と</font><font color="yellow">(僕の)</font><font color="lime">キセキ</font><br />
 始まるよおいで Listen to my heart!!</p>
 
-<p><font color="hotpink">今日は今日の<b>にっこにこ</b>で</font><br />
-<font color="yellow">大興奮のココロ<b>りんりん</b></font><br />
-<font color="lime"><b>はなばな</b>しいこんなミッション</font><br />
+<p><font color="hotpink">今日は今日の<strong>にっこにこ</strong>で</font><br />
+<font color="yellow">大興奮のココロ<strong>りんりん</strong></font><br />
+<font color="lime"><strong>はなばな</strong>しいこんなミッション</font><br />
 お届けます!</p>
 
 <p><font color="hotpink">みんなはなにを聴きたい?</font><br />
@@ -26,9 +26,9 @@ layout: post
 <font color="hotpink">笑い飛ばす場所にしたい</font><br />
 <font color="yellow">おしゃべりはクスリ</font>【<font color="yellow">凛</font><font color="lime">花</font>】かもよ?</p>
 
-<p><font color="hotpink">今日は今日の<b>青いお空</b></font><br />
-<font color="yellow">大興奮で語れ<b>りっぴー</b></font><br />
-<font color="lime"><b>しか</b>めっつらなんてバイバイ</font><br />
+<p><font color="hotpink">今日は今日の<strong>青いお空</strong></font><br />
+<font color="yellow">大興奮で語れ<strong>りっぴー</strong></font><br />
+<font color="lime"><strong>しか</strong>めっつらなんてバイバイ</font><br />
 止まりません!</p>
 
 <p>強き想いは 口にすればかなう<br />
@@ -47,9 +47,9 @@ layout: post
 <font color="hotpink">君と</font><font color="lime">(僕の)</font><font color="hotpink">キセキ</font><br />
 始まるよおいで Listen to my heart!!</p>
 
-<p><font color="hotpink">今日は今日の<b>にっこにこ</b>で</font><br />
-<font color="yellow">大興奮のココロ<b>りんりん</b></font><br />
-<font color="lime"><b>はなばな</b>しいこんなミッション</font><br />
+<p><font color="hotpink">今日は今日の<strong>にっこにこ</strong>で</font><br />
+<font color="yellow">大興奮のココロ<strong>りんりん</strong></font><br />
+<font color="lime"><strong>はなばな</strong>しいこんなミッション</font><br />
 お届けます!</p>
 
 <p><font color="lime">みんなはどこか行きたい?</font><br />
@@ -62,9 +62,9 @@ layout: post
 <font color="lime">音がたくさん光の中</font><br />
 <font color="hotpink">しあわせがあふれ</font>出すよ</p>
 
-<p><font color="hotpink">明日は明日の<b>青いお空</b></font><br />
-<font color="yellow">開放感を語れ<b>りっぴー</b></font><br />
-<font color="lime"><b>ゆりか</b>もめ乗ってゴーゴー!</font><br />
+<p><font color="hotpink">明日は明日の<strong>青いお空</strong></font><br />
+<font color="yellow">開放感を語れ<strong>りっぴー</strong></font><br />
+<font color="lime"><strong>ゆりか</strong>もめ乗ってゴーゴー!</font><br />
 止まれません!</p>
 
 <p><font color="lime">熱き理想が 胸をこがす時は</font><br />
@@ -83,7 +83,7 @@ layout: post
 <font color="lime">君と</font><font color="yellow">(僕の)</font><font color="lime">キセキ</font><br />
 始まるよおいで Listen to my heart!!</p>
 
-<p><font color="hotpink">明日は明日で<b>にっこにこ</b>だ</font><br />
-<font color="yellow">開放感でココロ<b>りんりん</b></font><br />
-<font color="lime"><b>ゆりゆり</b>の元気ミッション</font><br />
+<p><font color="hotpink">明日は明日で<strong>にっこにこ</strong>だ</font><br />
+<font color="yellow">開放感でココロ<strong>りんりん</strong></font><br />
+<font color="lime"><strong>ゆりゆり</strong>の元気ミッション</font><br />
 お届けます!</p>
