@@ -22,11 +22,11 @@ layout: post
 感じてることだと知ってるよ<br />
 だけど人は迷いたがるね?</p>
 
-<p><font color="orange">どこを目指すの？ もっと遠くへと！<br />
+<p><font color="darkorange">どこを目指すの？ もっと遠くへと！<br />
 答えが空を指差してた</font><br />
-【<font color="orange">千</font><font color="deepskyblue">曜</font>】君と<br />
+【<font color="darkorange">千</font><font color="deepskyblue">曜</font>】君と<br />
 <font color="deepskyblue">まだ見ぬ場所について話してみたい</font><br />
-【<font color="orange">千</font><font color="deepskyblue">曜</font>】心踊る未来の鼓動</p>
+【<font color="darkorange">千</font><font color="deepskyblue">曜</font>】心踊る未来の鼓動</p>
 
 <p><font color="pink">すぐにここから<br />
 次へと旅立つだろう</font><br />

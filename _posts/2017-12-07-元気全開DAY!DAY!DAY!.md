@@ -8,17 +8,17 @@ layout: post
 ねえねえ みんなもね爽快？<br />
 やあやあ なんでもできそうだ！？</p>
 
-<p><font color="orange">思いついたことがあるから<br />
+<p><font color="darkorange">思いついたことがあるから<br />
 早く会いたいな 話したいな<br />
 待ちきれなくて早起きだ</font><br />
 <font color="deepskyblue">朝の空気は緑と潮の香り<br />
 うんとうんと吸いこんで</font></p>
 
-<p>【<font color="orange">千</font><font color="magenta">露</font>】坂道駆け足<br />
+<p>【<font color="darkorange">千</font><font color="magenta">露</font>】坂道駆け足<br />
 <font color="deepskyblue">ああ誰かの背中が</font><br />
-【<font color="orange">千</font><font color="magenta">露</font>】遠くに見えるよ おはよう！<br />
+【<font color="darkorange">千</font><font color="magenta">露</font>】遠くに見えるよ おはよう！<br />
 <font color="deepskyblue">(おはヨーソロー！)</font><br />
-【<font color="orange">千</font><font color="magenta">露</font>】手を上げたらダッシュだ 気づいてるね？</p>
+【<font color="darkorange">千</font><font color="magenta">露</font>】手を上げたらダッシュだ 気づいてるね？</p>
 
 <p>今日はどんな日かな<br />
 (どんな日だ？)<br />
@@ -41,13 +41,13 @@ layout: post
 …なんだなんだ起きなきゃ</font></p>
 
 <p>【<font color="deepskyblue">曜</font><font color="magenta">露</font>】伸び～した後ろで　<br />
-<font color="orange">ああ誰かが呼んでる</font><br />
+<font color="darkorange">ああ誰かが呼んでる</font><br />
 【<font color="deepskyblue">曜</font><font color="magenta">露</font>】寝ぐせをこまかす こんちわ！<br />
-<font color="orange">(こんちか！)</font><br />
+<font color="darkorange">(こんちか！)</font><br />
 【<font color="deepskyblue">曜</font><font color="magenta">露</font>】照れ笑いでピンチだ<br />
 【3人】気づかれたか？</p>
 
-<p><font color="orange">なにから話そうか</font><br />
+<p><font color="darkorange">なにから話そうか</font><br />
 <font color="magenta">(なにから)</font><br />
 <font color="deepskyblue">その時に決めよう</font><br />
 <font color="magenta">(話そう？)</font></p>

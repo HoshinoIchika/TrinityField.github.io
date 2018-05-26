@@ -33,7 +33,7 @@ HAPPY HAPPY TRAIN to go!<br />
 ひとりでも行かなくちゃ</font><br />
 【二年生】思い出をくちずさんで <font color="saddlebrown">//巧合，二年生正好分在一起</font></p>
 
-<p><font color="orange">気にしないちいさなことは</font><br />
+<p><font color="darkorange">気にしないちいさなことは</font><br />
 <font color="red">いつでも笑顔でいたいから</font><br />
 <font color="purple">終わらない旅をしよう人生ってば…</font><br />
 <font color="magenta">溜息もたまに出ちゃうよ</font><br />

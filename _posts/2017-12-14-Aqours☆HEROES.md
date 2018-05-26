@@ -22,9 +22,9 @@ Yaa-Yaa!!</p>
 　　　　　待ってて</p>
 
 <p>【二年生】無敵だって信じたくなって<br />
-<font color="pink">いきおいで</font> <font color="orange">We are HEROES</font><br />
+<font color="pink">いきおいで</font> <font color="darkorange">We are HEROES</font><br />
 【二年生】おかしいなヒロインでしょ？って<br />
-<font color="deepskyblue">つっこんで</font> 【+<font color="pink">梨子</font>】つっこんで 【+<font color="orange">千歌</font>】つっこんでね<br />
+<font color="deepskyblue">つっこんで</font> 【+<font color="pink">梨子</font>】つっこんで 【+<font color="darkorange">千歌</font>】つっこんでね<br />
 【9人】(Wao!)</p>
 
 <p>悩みをぶっ飛ばすような<br />
@@ -55,7 +55,7 @@ Yaa-Yaa!!</p>
 【<font color="magenta">露</font><font color="gold">丸</font>】踏んばってね</p>
 
 <p><font color="red">ためいきに流されないで</font><br />
-【<font color="orange">千</font><font color="pink">梨</font>】(つかまってよ私の手に)<br />
+【<font color="darkorange">千</font><font color="pink">梨</font>】(つかまってよ私の手に)<br />
 <font color="purple">これからだよ ついておいでよ</font><br />
 【一年生】もっと前に(So!)<br />
 【二年生】ぐっと前に(So!)<br />
