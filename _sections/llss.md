@@ -41,8 +41,8 @@ order: 3
 |-|
 |Pops heartで踊るんだもん！ · 空も心も晴れるから · Waku-Waku-Week! · Daydream Warrior · G線上のシンデレラ · スリリング·ワンウェイ · 太陽を追いかけろ！|
 |P.S.の向こう側 · LONELY TUNING · Guilty Eyes Fever|
-|One More Sunshine Story · おやすみなさん！ · in this unstable world · Pianoforte Monologue ·Beginner's Sailing · RED GEM WINK · WHITE FIRST LOVE · New winding road · さかなかなんだか? · キセキヒカル|
-|サクラバイバイ · 卒業ですね · Guilty!? Farewell party|
+|One More Sunshine Story · おやすみなさん！ · in this unstable world · Pianoforte Monologue ·Beginner's Sailing · RED GEM WINK · WHITE FIRST LOVE · New winding road · さかなかなんだか? · キセキヒカル(尚未发售)|
+|サクラバイバイ(尚未发售) · 卒業ですね(尚未发售) · Guilty!? Farewell party(尚未发售)|
 
 |第五章 2人/3人组合曲|
 |-|
