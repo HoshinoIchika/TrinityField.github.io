@@ -1,0 +1,54 @@
+---
+title: Aqours
+icon: fa-th
+order: 3
+---
+
+|第一章 序号单曲|
+|-|
+|<a href="2017/12/16/君のこころは輝いてるかい.html">君のこころは輝いてるかい？</a> · <a href="2017/12/15/Step!-ZERO-to-ONE.html">Step! ZERO to ONE</a> · <a href="2017/12/14/Aqours-HEROES.html">Aqours☆HEROES</a>|
+|<a href="2017/12/13/恋になりたいAQUARIUM.html">恋になりたいAQUARIUM</a> · <a href="2017/12/12/待ってて愛のうた.html">待ってて愛のうた</a> · 届かない星だとしても|
+|<a href="2017/12/10/HAPPY-PARTY-TRAIN.html">HAPPY PARTY TRAIN</a> · <a href="2017/12/09/SKY-JOURNEY.html">SKY JOURNEY</a> · <a href="2017/12/08/少女以上の恋がしたい.html">少女以上の恋がしたい</a>|
+
+|第二章 小队曲|
+|-|
+|上篇：CYaRon!|
+|<a href="2017/12/07/元気全開DAY!DAY!DAY!.html">元気全開DAY!DAY!DAY!</a> · <a href="2017/12/06/夜空はなんでも知ってるの.html">夜空はなんでも知ってるの？</a>|
+|<a href="2017/12/05/近未来ハッピーエンド.html">近未来ハッピーエンド</a> · 海岸通りで待ってるよ|
+|中篇：AZALEA|
+|トリコリコPLEASE!! · ときめき分類学|
+|GALAXY HidE and SeeK · INNOCENT BIRD|
+|下篇：Guilty Kiss|
+|Strawberry Trapper · Guilty Night, Guilty Kiss!|
+|コワレヤスキ · Shadow gate to love|
+
+|第三章 TV动画相关|
+|-|
+|上篇：第一季|
+|青空Jumping Heart · ハミングフレンド|
+|ユメ語るよりユメ歌おう · サンシャインぴっかぴか音頭|
+|決めたよHand In Hand · ダイスキだったらダイジョウブ！|
+|夢で夜空を照らしたい · 未熟DREAMER|
+|想いよひとつになれ · MIRAI TICKET|
+|下篇：第二季|
+|未来の僕らは知ってるよ · 君の瞳を巡る冒険|
+|勇気はどこに？君の胸に！ · “MY LIST” to you!|
+|MY舞☆TONIGHT · MIRACLE WAVE|
+|Awaken the power|
+|WONDERFUL STORIES · WATER BLUE NEW WORLD|
+
+|第四章 动画BD特典|
+|-|
+|Pops heartで踊るんだもん！ · 空も心も晴れるから · Waku-Waku-Week! · Daydream Warrior · G線上のシンデレラ · スリリング·ワンウェイ · 太陽を追いかけろ！|
+|P.S.の向こう側 · LONELY TUNING · Guilty Eyes Fever|
+|One More Sunshine Story · おやすみなさん！ · in this unstable world · Pianoforte Monologue ·Beginner's Sailing · RED GEM WINK · WHITE FIRST LOVE · New winding road · さかなかなんだか? · キセキヒカル|
+|サクラバイバイ · 卒業ですね · Guilty!? Farewell party|
+
+|第五章 2人/3人组合曲|
+|-|
+|夏への扉 Never end ver. · 真夏は誰のモノ？ · 地元愛♡満タン☆サマーライフ · 夏の終わりの雨音が|
+
+|第六章 其他|
+|-|
+|ジングルベルがとまらない · 聖なる日の祈り|
+|Landing action Yeah!!|
