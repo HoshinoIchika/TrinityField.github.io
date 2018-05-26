@@ -17,7 +17,7 @@ layout: post
 
 <p><font color="purple">楽しいよでも No brand</font>(Do you know?)<br />
 <font color="blue">張りきってるんだ No brand</font>(Do you know?)<br />
-<font color="yellow">だから</font>(おいで) <font color="yellow">ここで出会うために</font>(Yes,I know!)</p>
+<font color="gold">だから</font>(おいで) <font color="gold">ここで出会うために</font>(Yes,I know!)</p>
 
 <p><font color="lime">目指す場所は</font><font color="darkorange">(高い)</font><br />
 <font color="cyan">いまより高く</font><font color="lime">(どこまで?)</font><br />
@@ -36,7 +36,7 @@ Hi Hi Hi 壊せるものさ Hi Hi Hi 倒せるものさ<br />
 
 <p><font color="purple">傷つけあっちゃ No good</font><br />
 <font color="blue">仲<u>違（たが）</u>いは No good</font><br />
-<font color="yellow">だいすきの誤解は つらい気分</font></p>
+<font color="gold">だいすきの誤解は つらい気分</font></p>
 
 <p><font color="lime">苦しい胸は No good</font>(hurry-up!)<br />
 <font color="cyan">あきらめたら No good</font>(hurry-up!)<br />

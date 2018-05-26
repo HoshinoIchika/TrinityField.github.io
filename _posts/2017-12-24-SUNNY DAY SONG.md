@@ -7,7 +7,7 @@ layout: post
 <p>【<font color="blue">海</font><font color="lime">花</font><font color="cyan">绘</font>】楽しいねこんな夢<br />
 　　　　　えがおで喜び歌おうよ<br />
 　　　　　それが始まりの合図<br />
-【<font color="yellow">凛</font><font color="red">姬</font><font color="purple">希</font>】一歩ずつ君から 一歩ずつ僕から<br />
+【<font color="gold">凛</font><font color="red">姬</font><font color="purple">希</font>】一歩ずつ君から 一歩ずつ僕から<br />
 　　　　　どこかへ行きたい心のステップ</p>
 
 <p>【<font color="darkorange">果</font><font color="silver">鸟</font><font color="hotpink">妮</font>】受けとめてあげるここで<br />
@@ -25,7 +25,7 @@ SUNNY DAY SONG 口ずさむ時は<br />
 <p>SUNNY DAY Wow! Sun power!<br />
 SUNNY DAY Wow! Song power!</p>
 
-<p>【<font color="yellow">凛</font><font color="red">姬</font><font color="purple">希</font>】元気でるこんな夢<br />
+<p>【<font color="gold">凛</font><font color="red">姬</font><font color="purple">希</font>】元気でるこんな夢<br />
 　　　　　あれこれみんなで語ろうよ<br />
 　　　　　それは繋がりのサイン<br />
 【<font color="darkorange">果</font><font color="silver">鸟</font><font color="hotpink">妮</font>】二歩目はしっかりと 三歩目は大胆に<br />

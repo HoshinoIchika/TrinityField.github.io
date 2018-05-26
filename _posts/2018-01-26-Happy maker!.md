@@ -9,7 +9,7 @@ layout: post
 【<font color="silver">鸟</font><font color="blue">海</font>】僕は信じてるよ</p>
 
 <p><font color="lime">安心より</font> <font color="red">冒険だと</font><br />
-<font color="yellow">笑いながら Jumping high</font><br />
+<font color="gold">笑いながら Jumping high</font><br />
 <font color="hotpink">とまらない</font> <font color="purple">時間の中</font><br />
 <font color="cyan">輝きを求め続けてる</font></p>
 
@@ -28,7 +28,7 @@ I'm OK, I'm OK! 叫びたい<br />
 
 <p><font color="silver">発見へと</font> <font color="blue">旅立ちへと</font><br />
 <font color="darkorange">希望が燃える Brand new day</font><br />
-<font color="yellow">おもしろい</font> <font color="red">場所に立とう</font><br />
+<font color="gold">おもしろい</font> <font color="red">場所に立とう</font><br />
 <font color="lime">消えないねときめきの予報が</font></p>
 
 <p>だいじょうぶだいじょうぶ楽しもう<br />

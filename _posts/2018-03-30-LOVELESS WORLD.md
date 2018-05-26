@@ -46,10 +46,10 @@ LOVELESS WORLD</p>
 
 <p>【<font color="hotpink">妮</font><font color="purple">希</font>】消えない 消えないこの炎<br />
 【<font color="silver">鸟</font><font color="blue">海</font>】私の中燃える<br />
-【<font color="yellow">凛</font><font color="lime">花</font>】今も<br />
+【<font color="gold">凛</font><font color="lime">花</font>】今も<br />
 【<font color="hotpink">妮</font><font color="purple">希</font>】(消せないから)<br />
 【<font color="silver">鸟</font><font color="blue">海</font>】ここで抱きしめたい<br />
-【<font color="yellow">凛</font><font color="lime">花</font>】みんなみんな忘れたい<br />
+【<font color="gold">凛</font><font color="lime">花</font>】みんなみんな忘れたい<br />
 【<font color="hotpink">妮</font><font color="purple">希</font>】(愛なの)</p>
 
 <p><font color="cyan">忘れてよ…忘れないで…<br />
@@ -65,9 +65,9 @@ LOVELESS WORLD</p>
 見つめてよ…見つめないで…<br />
 どちらも私なの<br />
 さよならのKissして<br />
-【<font color="silver">鸟</font><font color="blue">海</font><font color="yellow">凛</font><font color="lime">花</font><font color="hotpink">妮</font><font color="purple">希</font>】幸せを願う<br />
+【<font color="silver">鸟</font><font color="blue">海</font><font color="gold">凛</font><font color="lime">花</font><font color="hotpink">妮</font><font color="purple">希</font>】幸せを願う<br />
 【<font color="cyan">绘</font><font color="red">姬</font><font color="darkorange">果</font>】(愛してると)<br />
-【<font color="silver">鸟</font><font color="blue">海</font><font color="yellow">凛</font><font color="lime">花</font><font color="hotpink">妮</font><font color="purple">希</font>】私は独りで<br />
+【<font color="silver">鸟</font><font color="blue">海</font><font color="gold">凛</font><font color="lime">花</font><font color="hotpink">妮</font><font color="purple">希</font>】私は独りで<br />
 【<font color="cyan">绘</font><font color="red">姬</font><font color="darkorange">果</font>】(愛してると)<br />
-【<font color="silver">鸟</font><font color="blue">海</font><font color="yellow">凛</font><font color="lime">花</font><font color="hotpink">妮</font><font color="purple">希</font>】悲しみの国へ<br />
+【<font color="silver">鸟</font><font color="blue">海</font><font color="gold">凛</font><font color="lime">花</font><font color="hotpink">妮</font><font color="purple">希</font>】悲しみの国へ<br />
 【9人】LOVELESS WORLD</p>

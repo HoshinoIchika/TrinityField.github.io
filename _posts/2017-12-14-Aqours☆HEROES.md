@@ -51,8 +51,8 @@ Yaa-Yaa!!</p>
 　　　　　　　　　すぐに…すぐに呼びなよ！【二年生】(呼んでよ)<br />
 　　　　　　　　　ショックでダウンで泣きそうなときは<br />
 <font color="magenta">もー</font>【一年生、三年生】(Yaa!)<br />
-<font color="yellow">ちょい</font>【一年生、三年生】(Yaa!)<br />
-【<font color="magenta">露</font><font color="yellow">丸</font>】踏んばってね</p>
+<font color="gold">ちょい</font>【一年生、三年生】(Yaa!)<br />
+【<font color="magenta">露</font><font color="gold">丸</font>】踏んばってね</p>
 
 <p><font color="red">ためいきに流されないで</font><br />
 【<font color="orange">千</font><font color="pink">梨</font>】(つかまってよ私の手に)<br />

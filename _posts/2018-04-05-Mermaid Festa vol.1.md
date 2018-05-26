@@ -11,7 +11,7 @@ layout: post
 【<font color="darkorange">果</font><font color="red">姬</font><font color="purple">希</font>】目を閉じて溜息 あなたのせいよ<br />
 　　　　　海にとける ムーンライトあびて</p>
 
-<p>【<font color="blue">海</font><font color="yellow">凛</font><font color="hotpink">妮</font>】飛びこむ前の愛しさは<br />
+<p>【<font color="blue">海</font><font color="gold">凛</font><font color="hotpink">妮</font>】飛びこむ前の愛しさは<br />
 　　　　　伝えたりしない…ひ·み·つ<br />
 <font color="lime">話せば泡となるような</font><br />
 わたしは人魚なの</p>
@@ -30,7 +30,7 @@ layout: post
 
 <p>【<font color="darkorange">果</font><font color="red">姬</font><font color="purple">希</font>】「なぜこっちに来ないの 意識してるの」<br />
 　　　　　少しいじめてみる<br />
-【<font color="blue">海</font><font color="yellow">凛</font><font color="hotpink">妮</font>】苦しげな言い訳が あなたらしくて<br />
+【<font color="blue">海</font><font color="gold">凛</font><font color="hotpink">妮</font>】苦しげな言い訳が あなたらしくて<br />
 　　　　　さらに心 テンションあがる</p>
 
 <p>【<font color="cyan">绘</font><font color="silver">鸟</font><font color="lime">花</font>】裸足で書いた砂の記号<br />
@@ -43,7 +43,7 @@ layout: post
 つぎに抱きしめて欲しいの<br />
 優しいのね 知りたいのは強引なしぐさ</p>
 
-<p><font color="yellow">動揺してるよ?</font><br />
+<p><font color="gold">動揺してるよ?</font><br />
 <font color="hotpink">緊張してるよ?</font><br />
 <font color="purple">なんどもすねる</font><br />
 <font color="lime">寄りそってもすねる</font><br />
@@ -53,7 +53,7 @@ layout: post
 <p><font color="blue">ごきげんよう</font><br />
 <font color="purple">楽しかったよ！</font><br />
 <font color="darkorange">ありがとう！</font><br />
-<font color="yellow">また、会えるよね？</font><br />
+<font color="gold">また、会えるよね？</font><br />
 <font color="lime">寂しいよ…</font><br />
 <font color="red">これっきり、かもね</font><br />
 <font color="cyan">ダ スヴィダーニァ</font><br />

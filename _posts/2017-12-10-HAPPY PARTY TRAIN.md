@@ -17,7 +17,7 @@ layout: post
 軽やかに行きたいね<br />
 思い出はポケットの中</font></p>
 
-<p><font color="yellow">ステキな 旅に出よう<br />
+<p><font color="gold">ステキな 旅に出よう<br />
 人生ってさ… たくさんの場所へ続いてる？<br />
 わくわくだらけさ！</font></p>
 

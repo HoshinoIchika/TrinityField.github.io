@@ -15,7 +15,7 @@ WILD STARS</p>
 <font color="red">突然の嵐は熱い野生の風だった</font></p>
 
 <p><font color="lime">出会うための場所を</font><br />
-<font color="yellow">ずっとずっと探してた</font><br />
+<font color="gold">ずっとずっと探してた</font><br />
 <font color="cyan">ここに君と</font> <font color="purple">私</font> 【<font color="cyan">绘</font><font color="purple">希</font>】来たよ<br />
 【9人】今からふたり 今から輝くよ</p>
 
@@ -31,7 +31,7 @@ WILD STARS</p>
 
 <p><font color="hotpink">出会いたいと願う</font><br />
 <font color="red">きっときっと伝わるさ</font><br />
-<font color="yellow">そして君と</font> <font color="lime">私</font> 【<font color="yellow">凛</font><font color="lime">花</font>】来たよ<br />
+<font color="gold">そして君と</font> <font color="lime">私</font> 【<font color="gold">凛</font><font color="lime">花</font>】来たよ<br />
 【9人】今だよふたり 今だよ輝いて</p>
 
 <p>動いて→開いて→動いて さあこれが恋になるの<br />
@@ -43,7 +43,7 @@ WILD LOVE</p>
 <font color="hotpink">あなたとならできると解る</font><br />
 <font color="red">闇は消えるよ</font><br />
 <font color="lime">闇の向こうに</font><br />
-<font color="yellow">眩しい場所がある</font> <font color="purple">ある</font> <font color="darkorange">ある</font><br />
+<font color="gold">眩しい場所がある</font> <font color="purple">ある</font> <font color="darkorange">ある</font><br />
 <font color="silver">見える</font></p>
 
 <p>動いて→開いて→動いて さあこれが恋になるの<br />

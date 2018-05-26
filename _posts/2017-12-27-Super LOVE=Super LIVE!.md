@@ -77,7 +77,7 @@ LIVE! Are you ready? Go!</p>
 <font color="silver">Super LOVE,Super LIVE!</font>(Come on!)<br />
 <font color="blue">Super LOVE,Super LIVE!</font>(Come on!)<br />
 <font color="lime">Super LOVE,Super LIVE!</font>(Come on!)<br />
-<font color="yellow">Super LOVE,Super LIVE!</font>(Come on!)<br />
+<font color="gold">Super LOVE,Super LIVE!</font>(Come on!)<br />
 <font color="red">Super LOVE,Super LIVE!</font>(Come on!)<br />
 <font color="hotpink">Super LOVE,Super LIVE!</font>(Come on!)<br />
 <font color="cyan">Super LOVE,Super LIVE!</font>(Come on!)<br />
@@ -86,7 +86,7 @@ Everybody jump!!</p>
 
 <p><font color="darkorange">愛するって歌うことかな<br />
 想いをみんなへ伝えたい願いのこと</font><br />
-<font color="yellow">いっぱい声をだすんだ</font><br />
+<font color="gold">いっぱい声をだすんだ</font><br />
 <font color="hotpink">大きな声だすんだ</font><br />
 <font color="darkorange">それが僕らの表現さ</font></p>
 

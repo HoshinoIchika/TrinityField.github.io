@@ -36,7 +36,7 @@ layout: post
 　　　　　アイスキャンディー買うよ 決めちゃえ! どの色?</p>
 
 <p><font color="lime">若葉萌ゆる緑の街</font><br />
-<font color="yellow">見守るYELLOW STAR</font><br />
+<font color="gold">見守るYELLOW STAR</font><br />
 <font color="red">照らせ情熱SUNSHINE RED…</font><br />
 【一年生】これが私達だもん!<br />
 　　　　　よろしくよろしくしましょうっ (ねっ!)</p>
@@ -62,7 +62,7 @@ layout: post
 【三年生】これが私達なの!<br />
 　　　　　よろしくよろしく<br />
 <font color="hotpink">(よろしくちゃーん)</font><br />
-<font color="yellow">(寒くないかにゃー？)</font><br />
+<font color="gold">(寒くないかにゃー？)</font><br />
 <font color="silver">(ちゅんちゅん)</font><br />
 【三年生】しましょうっ(ねっ!)</p>
 

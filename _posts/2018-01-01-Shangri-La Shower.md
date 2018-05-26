@@ -14,7 +14,7 @@ Shangri-La from stage,on stage!</p>
 　　  Shangri-La Shower</p>
 
 <p><font color="purple">夏はみんなの熱気でじりじり</font><br />
-<font color="yellow">声が大胆なファンファーレ奏でる</font><br />
+<font color="gold">声が大胆なファンファーレ奏でる</font><br />
 <font color="blue">作ろうね! 新規の</font><br />
 【L】素敵な思い出を…<br />
 【P&B】I wanna story!</p>

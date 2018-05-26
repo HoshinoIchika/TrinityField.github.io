@@ -11,13 +11,13 @@ layout: post
 　　　　　流れる星は味方なの<br />
 <font color="silver">願いましょう</font> <font color="red">願いましょう</font> <font color="blue">明日の奇跡を</font></p>
 
-<p>【<font color="purple">希</font><font color="darkorange">果</font><font color="yellow">凛</font>】Dancing stars on me!<br />
+<p>【<font color="purple">希</font><font color="darkorange">果</font><font color="gold">凛</font>】Dancing stars on me!<br />
 <font color="purple">手を伸ばしたら</font><br />
-【<font color="purple">希</font><font color="darkorange">果</font><font color="yellow">凛</font>】いつか<br />
-<font color="yellow">つかめそうだよ</font><br />
-【<font color="purple">希</font><font color="darkorange">果</font><font color="yellow">凛</font>】だから<br />
+【<font color="purple">希</font><font color="darkorange">果</font><font color="gold">凛</font>】いつか<br />
+<font color="gold">つかめそうだよ</font><br />
+【<font color="purple">希</font><font color="darkorange">果</font><font color="gold">凛</font>】だから<br />
 <font color="darkorange">果ての綺麗な</font><br />
-【<font color="purple">希</font><font color="darkorange">果</font><font color="yellow">凛</font>】輝きの空を<br />
+【<font color="purple">希</font><font color="darkorange">果</font><font color="gold">凛</font>】輝きの空を<br />
 　　　　　目指そう…目指そう！ <font color="saddlebrown">//原曲为上述3人，live为全员，请自行选择</font></p>
 
 <p>【9人】もっともっと踊らせて<br />
@@ -30,9 +30,9 @@ layout: post
 <p>【<font color="silver">鸟</font><font color="blue">海</font><font color="red">姬</font>】I'm in fantasy<br />
 　　　　　夜空を渡れスキップで<br />
 <font color="red">どこへでも</font> <font color="blue">どこへでも</font> <font color="silver">好きな場所へ行こう</font><br />
-【<font color="purple">希</font><font color="darkorange">果</font><font color="yellow">凛</font>】I'm in fantasy<br />
+【<font color="purple">希</font><font color="darkorange">果</font><font color="gold">凛</font>】I'm in fantasy<br />
 　　　　　瞬く星へ囁くの<br />
-<font color="darkorange">進みたい</font> <font color="purple">進みたい</font> <font color="yellow">私はいつでも</font></p>
+<font color="darkorange">進みたい</font> <font color="purple">進みたい</font> <font color="gold">私はいつでも</font></p>
 
 <p>【<font color="lime">花</font><font color="cyan">绘</font><font color="hotpink">妮</font>】Shining milky way!<br />
 <font color="lime">不安なときも</font><br />

@@ -19,7 +19,7 @@ layout: post
 だから本当に今を楽しんで<br />
 みんなで叶える物語 夢のStory<br />
 <font color="blue">「まぶしいな！」</font><font color="red">「いいな！」</font><font color="purple">「おいでよ！」</font><br />
-<font color="lime">「うれしいな！」</font><font color="hotpink">「いいな！」</font><font color="yellow">「もっとね！」</font><br />
+<font color="lime">「うれしいな！」</font><font color="hotpink">「いいな！」</font><font color="gold">「もっとね！」</font><br />
 ひとつになれこころ…KiRa-KiRa!!</p>
 
 <p>今日も応援を感謝してるよ！ってね<br />
@@ -28,7 +28,7 @@ layout: post
 <font color="silver">(こんなとき)</font>歌うよ歌うしかない</p>
 
 <p><font color="lime">一人ずつ</font> <font color="purple">飛び出して</font><br />
-<font color="hotpink">二度とない</font> <font color="yellow">瞬間をつかまえる</font><br />
+<font color="hotpink">二度とない</font> <font color="gold">瞬間をつかまえる</font><br />
 <font color="red">いつかの</font> <font color="blue">願いごと憶えてる？</font><br />
 光の中で踊ろうよ Sensation!</p>
 
@@ -36,8 +36,8 @@ layout: post
 みんなの想いが届いたよありがとう<br />
 ついに一緒に来たよ楽しもう<br />
 みんなで叶える物語 本気Story<br />
-【<font color="darkorange">果</font><font color="lime">花</font><font color="purple">希</font>】「まぶしいね！」【<font color="blue">海</font><font color="cyan">绘</font><font color="red">姬</font>】「いいね！」【<font color="silver">鸟</font><font color="yellow">凛</font><font color="hotpink">妮</font>】「こっちだ！」<br />
-【<font color="silver">鸟</font><font color="yellow">凛</font><font color="hotpink">妮</font>】「うれしいね！」【<font color="blue">海</font><font color="cyan">绘</font><font color="red">姬</font>】「いいね！」【<font color="darkorange">果</font><font color="lime">花</font><font color="purple">希</font>】「もっとだ！」<br />
+【<font color="darkorange">果</font><font color="lime">花</font><font color="purple">希</font>】「まぶしいね！」【<font color="blue">海</font><font color="cyan">绘</font><font color="red">姬</font>】「いいね！」【<font color="silver">鸟</font><font color="gold">凛</font><font color="hotpink">妮</font>】「こっちだ！」<br />
+【<font color="silver">鸟</font><font color="gold">凛</font><font color="hotpink">妮</font>】「うれしいね！」【<font color="blue">海</font><font color="cyan">绘</font><font color="red">姬</font>】「いいね！」【<font color="darkorange">果</font><font color="lime">花</font><font color="purple">希</font>】「もっとだ！」<br />
 【9人】終わらないで夢は<br />
 …KiRa-KiRa…KiRa-KiRa!!!</p>
 
@@ -45,7 +45,7 @@ layout: post
 
 <p>【<font color="lime">花</font><font color="purple">希</font>】一人ずつ <font color="darkorange">飛び出して</font><br />
 【<font color="blue">海</font><font color="cyan">绘</font><font color="red">姬</font>】二度とない <font color="darkorange">瞬間をつかまえる</font><br />
-【<font color="silver">鸟</font><font color="yellow">凛</font><font color="hotpink">妮</font>】いつかの <font color="darkorange">願いごと憶えてる？</font><br />
+【<font color="silver">鸟</font><font color="gold">凛</font><font color="hotpink">妮</font>】いつかの <font color="darkorange">願いごと憶えてる？</font><br />
 <font color="darkorange">光の中で踊ろうよ Sensation!</font><br />
 【9人】(Hi!Hi!)</p>
 

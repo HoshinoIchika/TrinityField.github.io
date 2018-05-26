@@ -9,7 +9,7 @@ layout: post
 【二年生、三年生】自由と勇気のルールを持ってるかい?</p>
 
 <p><font color="red">前進怖れずに</font><br />
-<font color="yellow">喜びを分かち合って</font><br />
+<font color="gold">喜びを分かち合って</font><br />
 <font color="lime">ふたつだけでも必ず守りたいね</font></p>
 
 <p>Oh,Love&Peace<br />

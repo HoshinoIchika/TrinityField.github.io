@@ -30,7 +30,7 @@ layout: post
 
 <p><font color="pink">すぐにここから<br />
 次へと旅立つだろう</font><br />
-<font color="yellow">その笑顔には</font><font color="silver">(ためらいがなくて)</font><br />
+<font color="gold">その笑顔には</font><font color="silver">(ためらいがなくて)</font><br />
 <font color="limegreen">羨ましくなるよ眩しい故に</font></p>
 
 <p>【9人】夢叶えたいからいつでも<br />

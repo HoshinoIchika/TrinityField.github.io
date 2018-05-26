@@ -10,9 +10,9 @@ layout: post
 <font color="blue">長いようで短かったね</font></p>
 
 <p><font color="lime">僕らが一緒に見た 光は銀河の海みたいだ</font><font color="red">(ね？)</font><br />
-<font color="yellow">心がときめいた</font><br />
+<font color="gold">心がときめいた</font><br />
 <font color="lime">Fantastic</font>【<font color="lime">花</font><font color="red">姬</font>】moment<br />
-<font color="red">叶えたい願いが物語を</font><font color="yellow">(招く)</font><br />
+<font color="red">叶えたい願いが物語を</font><font color="gold">(招く)</font><br />
 <font color="hotpink">叶う時がきたのさ</font><br />
 <font color="cyan">みんなの声が翼をくれたから</font><br />
 <font color="purple">飛べたんだ</font><br />
@@ -30,7 +30,7 @@ layout: post
 <p><font color="lime">会いたい そんな気分なら<br />
 …そうだねそうだねともに歌おう</font><br />
 <font color="red">遠くにいたってかまわない</font><br />
-<font color="yellow">胸の奥でわかりあえてる</font></p>
+<font color="gold">胸の奥でわかりあえてる</font></p>
 
 <p><font color="hotpink">君にはありがとうと なんども言ってもまだ足りない</font><font color="purple">(ね！)</font><br />
 <font color="cyan">すてきな経験だった</font><br />

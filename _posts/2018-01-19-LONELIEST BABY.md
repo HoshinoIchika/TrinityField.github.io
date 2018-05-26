@@ -13,9 +13,9 @@ layout: post
 
 <p><font color="red">なんだかつらいone day</font><br />
 <font color="hotpink">孤独に揺れるone day</font><br />
-【<font color="yellow">凛</font><font color="hotpink">妮</font><font color="red">姬</font>】Oh yeah, oh yeah! 教えてmy boy<br />
-<font color="yellow">待ってるの 夜空に向けて</font><br />
-【<font color="yellow">凛</font><font color="hotpink">妮</font><font color="red">姬</font>】Call me, call me!! 飛ばして合図は“L.O.V.E”</p>
+【<font color="gold">凛</font><font color="hotpink">妮</font><font color="red">姬</font>】Oh yeah, oh yeah! 教えてmy boy<br />
+<font color="gold">待ってるの 夜空に向けて</font><br />
+【<font color="gold">凛</font><font color="hotpink">妮</font><font color="red">姬</font>】Call me, call me!! 飛ばして合図は“L.O.V.E”</p>
 
 <p><font color="lime">恋してる気持ちで抱きしめたいから</font><br />
 <font color="purple">ここで</font> <font color="darkorange">私は</font><br />
@@ -33,9 +33,9 @@ layout: post
 
 <p><font color="red">本気を宿す誓い</font><br />
 <font color="hotpink">誰にも告げないのね</font><br />
-<font color="yellow">So, goin' goin' now!<br />
+<font color="gold">So, goin' goin' now!<br />
 無口すぎて</font><br />
-【<font color="yellow">凛</font><font color="hotpink">妮</font><font color="red">姬</font>】誤解されちゃうよ?<br />
+【<font color="gold">凛</font><font color="hotpink">妮</font><font color="red">姬</font>】誤解されちゃうよ?<br />
 　　　　　なんか言って…お願い!</p>
 
 <p><font color="darkorange">雨に泣けるone day</font><br />
@@ -54,13 +54,13 @@ layout: post
 愛しいの Ah…! (I know!)<br />
 アイラブアイラブ<br />
 <font color="hotpink">(Love you love you)</font>アイラブアイラブユー<br />
-愛しいから休みたい時には<font color="yellow">(Call me!)</font><br />
+愛しいから休みたい時には<font color="gold">(Call me!)</font><br />
 そっとキミを守りたいの<br />
 I wanna hold you, Baby!</p>
 
 <p><font color="lime">Hi! (Hi!) Hi! (Hi!) どうしてなんだろう?</font><br />
 【<font color="darkorange">果</font><font color="purple">希</font>】強気なトコも弱気なトコも<br />
-<font color="yellow">Hi! (Hi!) Hi! (Hi!) ダイスキなんだよ!</font><br />
+<font color="gold">Hi! (Hi!) Hi! (Hi!) ダイスキなんだよ!</font><br />
 【<font color="hotpink">妮</font><font color="red">姬</font>】全部スキだ 孤独なmy boy<br />
 <font color="blue">キミの誓いキミの心 キミはキミはLonely boy</font><br />
 <font color="silver">熱いキミが熱くキミが 目指す場所どこだろう?</font></p>

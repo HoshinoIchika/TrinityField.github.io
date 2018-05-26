@@ -15,10 +15,10 @@ layout: post
 　　　　忘れないで私のメロディー【Cool】(私を!)</p>
 
 <p><font color="hotpink">一緒に Yeah! Yeah! Yeah!</font><br />
-<font color="yellow">キミも Yeah! Yeah! Yeah!</font><br />
+<font color="gold">キミも Yeah! Yeah! Yeah!</font><br />
 <font color="darkorange">叫びながら We are happy</font><br />
 <font color="hotpink">一緒に Yeah! Yeah! Yeah!</font><br />
-<font color="yellow">キミも Yeah! Yeah! Yeah!</font> <font color="saddlebrown">//以上5句，Pure和Cool组均要喊出每一句的“Yeah! Yeah! Yeah!”以及“We are happy”</font><br />
+<font color="gold">キミも Yeah! Yeah! Yeah!</font> <font color="saddlebrown">//以上5句，Pure和Cool组均要喊出每一句的“Yeah! Yeah! Yeah!”以及“We are happy”</font><br />
 <font color="darkorange">私とParadise Live</font><br />
 【Pure、Cool】(Three, Two, Three, Two, One, Live!)</p>
 
