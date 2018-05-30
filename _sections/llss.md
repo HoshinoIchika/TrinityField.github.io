@@ -1,5 +1,5 @@
 ---
-title: Aqours
+title: Aqours（70曲，已发售66曲）
 icon: fa-th
 order: 3
 ---
@@ -16,8 +16,8 @@ order: 3
 |<a href="2017/12/07/元気全開DAY!DAY!DAY!.html">元気全開DAY!DAY!DAY!</a> · <a href="2017/12/06/夜空はなんでも知ってるの.html">夜空はなんでも知ってるの？</a>|
 |<a href="2017/12/05/近未来ハッピーエンド.html">近未来ハッピーエンド</a> · <a href="2017/12/04/海岸通りで待ってるよ.html">海岸通りで待ってるよ</a>|
 |中篇：AZALEA|
-|トリコリコPLEASE!! · ときめき分類学|
-|GALAXY HidE and SeeK · INNOCENT BIRD|
+|<a href="2017/12/03/トリコリコPLEASE!!.html">トリコリコPLEASE!!</a> · <a href="2017/12/02/ときめき分類学.html">ときめき分類学</a>|
+|<a href="2017/12/01/GALAXY-HidE-and-SeeK.html">GALAXY HidE and SeeK</a> · <a href="2017/11/30/INNOCENT-BIRD.html">INNOCENT BIRD</a>|
 |下篇：Guilty Kiss|
 |Strawberry Trapper · Guilty Night, Guilty Kiss!|
 |コワレヤスキ · Shadow gate to love|
