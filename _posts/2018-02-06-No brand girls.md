@@ -4,7 +4,7 @@ layout: post
 ---
 歌：μ's
 
-<p><font color="saddlebrown">//若无特殊说明，本曲所有未标颜色的括号内的内容均由该行的其余所有人演唱</font></p>
+<p><font color="saddlebrown">//若无特殊说明，本曲所有未标注演唱者的括号内的内容均由该行的其余所有人演唱</font></p>
 
 <p>(Oh yeah! Oh yeah! Oh yeah!)<br />
 (一進一跳!)<br />

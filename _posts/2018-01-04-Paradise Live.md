@@ -7,8 +7,8 @@ layout: post
 <p>Three, Two, One, Live!</p>
 
 <p>【Cool】Dance party,dance party<br />
-　　　　 そろそろ お別れのパレード<br />
-　　　　 気合い入れて高く跳ぶよ せーの!で<br />
+　　　　そろそろ お別れのパレード<br />
+　　　　気合い入れて高く跳ぶよ せーの!で<br />
 【Smile】(Jumpin' Jumpin' high!)<br />
 【Pure】Dance party,dance party<br />
 　　　　でもでも また会いましょう【Smile】(会いましょう)<br />
@@ -38,8 +38,8 @@ layout: post
 　　　　  明日からの ときめきが欲しいね<br />
 【Pure】(Searchin' Searchin' heart!)<br />
 【Cool】Don't worry,don't worry<br />
-　　　　 まだまだ 高まるちから【Pure】(ちからは)<br />
-　　　　 止まらないよみんなのメロディー【Smile】(みんなで!)</p>
+　　　　まだまだ 高まるちから【Pure】(ちからは)<br />
+　　　　止まらないよみんなのメロディー【Smile】(みんなで!)</p>
 
 <p><font color="purple">胸は Yeah! Yeah! Yeah!</font><br />
 <font color="lime">アツく Yeah! Yeah! Yeah!</font><br />

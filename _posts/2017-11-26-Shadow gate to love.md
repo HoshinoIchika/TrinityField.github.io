@@ -70,7 +70,7 @@ Oh baby shadow gate<br />
 　　　　矛盾をかかえて<br />
 【3人】恋に変わるのよ<br />
 (Shadow gate, Shadow gate)<br />
-綺麗な嘘なら 許される筈 //此处善子会从上句“変わるのよ”一直接下来一个长音，此句到下句“貴方も”为止为梨子和鞠莉演唱，具体请听原曲，难度较高，是否进行此种处理请自行选择<br />
+綺麗な嘘なら 許される筈 <font color="saddlebrown">//此处善子会从上句“変わるのよ”一直接下来一个长音，此句到下句“貴方も”为止为梨子和鞠莉演唱，具体请听原曲，难度较高，是否进行此种处理请自行选择</font><br />
 だから貴方も <font color="pink">私が</font><font color="purple">夢見る</font><font color="silver">愛を</font>囁いて</p>
 
 <p>(Shadow gate, Shadow gate)<br />

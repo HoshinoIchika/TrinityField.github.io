@@ -8,7 +8,7 @@ layout: post
 【<font color="silver">鸟</font><font color="lime">花</font>】(Morning!)</p>
 
 <p>【3人】Let's go!(Let's go!) 今日も今日も楽し～っ<br />
-Let's go!(Let's go!) WAO-WAO WAO-WAO 楽し～っ　Yeah!<br />
+Let's go!(Let's go!) WAO-WAO WAO-WAO 楽し～っ Yeah!<br />
 (WAO-WAO)</p>
 
 <p><font color="lime">しっかり目が覚めたら</font>(WAO-WAO)<br />
@@ -53,5 +53,5 @@ Let's go!(Let's go!) WAO-WAO WAO-WAO 楽し～っ　Yeah!<br />
 (全力で)Go!</p>
 
 <p>Let's go!(Let's go!) 今日も今日も楽し～っ<br />
-Let's go!(Let's go!) WAO-WAO WAO-WAO 楽し～っ　Yeah!<br />
+Let's go!(Let's go!) WAO-WAO WAO-WAO 楽し～っ Yeah!<br />
 おはよう!!</p>

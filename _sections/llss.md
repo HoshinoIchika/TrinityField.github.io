@@ -1,5 +1,5 @@
 ---
-title: Aqours（70曲，已发售66曲）
+title: Aqours（71曲，已发售66曲）
 icon: fa-th
 order: 3
 ---
@@ -19,15 +19,15 @@ order: 3
 |<a href="2017/12/03/トリコリコPLEASE!!.html">トリコリコPLEASE!!</a> · <a href="2017/12/02/ときめき分類学.html">ときめき分類学</a>|
 |<a href="2017/12/01/GALAXY-HidE-and-SeeK.html">GALAXY HidE and SeeK</a> · <a href="2017/11/30/INNOCENT-BIRD.html">INNOCENT BIRD</a>|
 |下篇：Guilty Kiss|
-|Strawberry Trapper · Guilty Night, Guilty Kiss!|
-|コワレヤスキ · Shadow gate to love|
+|<a href="2017/11/29/Strawberry-Trapper.html">Strawberry Trapper</a> · <a href="2017/11/28/Guilty-Night,-Guilty-Kiss!.html">Guilty Night, Guilty Kiss!</a>|
+|<a href="2017/11/27/コワレヤスキ.html">コワレヤスキ</a> · <a href="2017/11/26/Shadow-gate-to-love.html">Shadow gate to love</a>|
 
 |第三章 TV动画相关|
 |-|
 |上篇：第一季|
-|青空Jumping Heart · ハミングフレンド|
-|ユメ語るよりユメ歌おう · サンシャインぴっかぴか音頭|
-|決めたよHand In Hand · ダイスキだったらダイジョウブ！|
+|<a href="2017/11/25/青空Jumping-Heart.html">青空Jumping Heart</a> · <a href="2017/11/24/ハミングフレンド.html">ハミングフレンド</a>|
+|<a href="2017/11/23/ユメ語るよりユメ歌おう.html">ユメ語るよりユメ歌おう</a> · <a href="2017/11/22/サンシャインぴっかぴか音頭.html">サンシャインぴっかぴか音頭</a>|
+|<a href="2017/11/21/決めたよHand-In-Hand.html">決めたよHand In Hand</a> · ダイスキだったらダイジョウブ！|
 |夢で夜空を照らしたい · 未熟DREAMER|
 |想いよひとつになれ · MIRAI TICKET|
 |下篇：第二季|
@@ -52,3 +52,4 @@ order: 3
 |-|
 |ジングルベルがとまらない · 聖なる日の祈り|
 |Landing action Yeah!!|
+|HOP·STEP·WAI！|

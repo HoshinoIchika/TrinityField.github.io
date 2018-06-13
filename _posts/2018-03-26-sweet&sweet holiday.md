@@ -25,7 +25,7 @@ I say happy holiday, happy holiday<br />
 <p>I know happy holiday, happy holiday<br />
 <font color="darkorange">楽しくなれるよ集まれっ</font><br />
 I say happy holiday, happy holiday<br />
-<font color="silver">みんなの声で shiny day</font>br />
+<font color="silver">みんなの声で shiny day</font><br />
 I know happy holiday, happy holiday<br />
 <font color="lime">素直に心がはじける</font><br />
 I say happy holiday, happy holiday<br />

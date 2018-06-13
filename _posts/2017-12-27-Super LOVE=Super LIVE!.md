@@ -39,7 +39,7 @@ LIVE! Are you ready? Go!</p>
 泣いたあとには軽くなるこころだから<br />
 いっぱい汗をかくんだ いろんな汗をかくんだ<br />
 そして最後はすっきりと 笑顔になれるそんな気がするよ<br />
-からだ動かそうよ　Super LOVE=Super LIVE!</p>
+からだ動かそうよ Super LOVE=Super LIVE!</p>
 
 <p>【一年生】Super LOVE! 始まった(Come on!)<br />
 【二年生】Super LIVE! 声だして(Come on!)<br />
