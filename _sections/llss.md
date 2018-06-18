@@ -27,9 +27,9 @@ order: 3
 |上篇：第一季|
 |<a href="2017/11/25/青空Jumping-Heart.html">青空Jumping Heart</a> · <a href="2017/11/24/ハミングフレンド.html">ハミングフレンド</a>|
 |<a href="2017/11/23/ユメ語るよりユメ歌おう.html">ユメ語るよりユメ歌おう</a> · <a href="2017/11/22/サンシャインぴっかぴか音頭.html">サンシャインぴっかぴか音頭</a>|
-|<a href="2017/11/21/決めたよHand-In-Hand.html">決めたよHand In Hand</a> · ダイスキだったらダイジョウブ！|
-|夢で夜空を照らしたい · 未熟DREAMER|
-|想いよひとつになれ · MIRAI TICKET|
+|<a href="2017/11/21/決めたよHand-In-Hand.html">決めたよHand In Hand</a> · <a href="2017/11/20/ダイスキだったらダイジョウブ.html">ダイスキだったらダイジョウブ！</a>|
+|<a href="2017/11/19/夢で夜空を照らしたい.html">夢で夜空を照らしたい</a> · <a href="2017/11/18/未熟DREAMER.html">未熟DREAMER</a>|
+|想いよひとつになれ · <a href="2017/11/16/MIRAI-TICKET.html">MIRAI TICKET</a>|
 |下篇：第二季|
 |未来の僕らは知ってるよ · 君の瞳を巡る冒険|
 |勇気はどこに？君の胸に！ · “MY LIST” to you!|
@@ -39,7 +39,7 @@ order: 3
 
 |第四章 动画BD特典|
 |-|
-|Pops heartで踊るんだもん！ · 空も心も晴れるから · Waku-Waku-Week! · Daydream Warrior · G線上のシンデレラ · スリリング·ワンウェイ · 太陽を追いかけろ！|
+|Pops heartで踊るんだもん！ · <a href="2017/11/05/空も心も晴れるから.html">空も心も晴れるから</a> · Waku-Waku-Week! · <a href="2017/11/03/Daydream-Warrior.html">Daydream Warrior</a> · <a href="2017/11/02/G線上のシンデレラ.html">G線上のシンデレラ</a> · スリリング·ワンウェイ · 太陽を追いかけろ！|
 |P.S.の向こう側 · LONELY TUNING · Guilty Eyes Fever|
 |One More Sunshine Story · おやすみなさん！ · in this unstable world · Pianoforte Monologue ·Beginner's Sailing · RED GEM WINK · WHITE FIRST LOVE · New winding road · さかなかなんだか? · キセキヒカル(尚未发售)|
 |サクラバイバイ(尚未发售) · 卒業ですね(尚未发售) · Guilty!? Farewell party(尚未发售)|
