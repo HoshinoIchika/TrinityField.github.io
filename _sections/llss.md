@@ -41,8 +41,8 @@ order: 3
 |-|
 |Pops heartで踊るんだもん！ · <a href="2017/11/05/空も心も晴れるから.html">空も心も晴れるから</a> · Waku-Waku-Week! · <a href="2017/11/03/Daydream-Warrior.html">Daydream Warrior</a> · <a href="2017/11/02/G線上のシンデレラ.html">G線上のシンデレラ</a> · <a href="2017/11/01/スリリング-ワンウェイ.html">スリリング·ワンウェイ</a> · 太陽を追いかけろ！|
 |<a href="2017/10/30/P.S.の向こう側.html">P.S.の向こう側</a> · <a href="2017/10/29/LONELY-TUNING.html">LONELY TUNING</a> · <a href="2017/10/28/Guilty-Eyes-Fever.html">Guilty Eyes Fever</a>|
-|<a href="2017/10/27/One-More-Sunshine-Story.html">One More Sunshine Story</a> · <a href="2017/10/26/おやすみなさん.html">おやすみなさん！</a> · <a href="2017/10/25/in-this-unstable-world.html">in this unstable world</a> · Pianoforte Monologue ·Beginner's Sailing · RED GEM WINK · WHITE FIRST LOVE · New winding road · さかなかなんだか? · キセキヒカル(尚未发售)|
-|サクラバイバイ(尚未发售) · 卒業ですね(尚未发售) · Guilty!? Farewell party(尚未发售)|
+|<a href="2017/10/27/One-More-Sunshine-Story.html">One More Sunshine Story</a> · <a href="2017/10/26/おやすみなさん.html">おやすみなさん！</a> · <a href="2017/10/25/in-this-unstable-world.html">in this unstable world</a> · Pianoforte Monologue ·Beginner's Sailing · RED GEM WINK · WHITE FIRST LOVE · New winding road · さかなかなんだか? · キセキヒカル|
+|サクラバイバイ · 卒業ですね · Guilty!? Farewell party|
 
 |第五章 2人/3人组合曲|
 |-|
