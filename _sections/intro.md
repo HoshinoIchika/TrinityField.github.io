@@ -1,5 +1,8 @@
 ---
 title: 使用说明
+cover-photo: assets/images/banner.jpg
+cover-photo-alt: example cover photo
+auto-header: none
 icon: fa-check
 order: 1
 ---
