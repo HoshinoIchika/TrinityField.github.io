@@ -49,34 +49,16 @@ order: 4
 |-|
 |上篇：第一季|
 |ススメ☆オトメ ~jewel parade~(Cinderella Project ver.)|
-|Star!!|
-|Memories|
-|-LEGNE-仇なす剣 光の旋律|
-|Happy×2 Days|
-|LET'S GO HAPPY!!|
-|ØωØver!!|
-|できたてEvo! Revo! Generation!|
-|GOIN'!!! · 夕映えプレゼント|
+|Star!! · Memories · -LEGNE-仇なす剣 光の旋律 · Happy×2 Days · LET'S GO HAPPY!! · ØωØver!! · できたてEvo! Revo! Generation! · GOIN'!!! · 夕映えプレゼント|
 |中篇：第二季|
-|Shine!! · とどけ! アイドル|
-|私色ギフト · Heart Voice|
-|Wonder goes on!! · Rockin' Emotion|
-|この空の下|
-|Trancing Pulse · Nebula Sky|
-|流れ星キセキ · 心もよう|
-|M@GIC☆ · 夢色ハーモニー|
+|Shine!! · とどけ! アイドル · 私色ギフト · Heart Voice · Wonder goes on!! · Rockin' Emotion · この空の下 · Trancing Pulse · Nebula Sky · 流れ星キセキ · 心もよう · M@GIC☆ · 夢色ハーモニー|
 |STORY|
 |下篇：BD特典曲|
 |Nocturne · shabon song · あいくるしい · Lunatic Show · Flip Flop|
 
 |第六章 小剧场收录曲|
 |-|
-|キラッ！満開スマイル|
-|エチュードは1曲だけ|
-|SUN♡FLOWER|
-|Blooming Days|
-|秋めいて Ding Dong Dang!|
-|Snow＊Love|
+|キラッ！満開スマイル · エチュードは1曲だけ · SUN♡FLOWER · Blooming Days · 秋めいて Ding Dong Dang! · Snow * Love|
 
 |第七章 其他|
 |-|
