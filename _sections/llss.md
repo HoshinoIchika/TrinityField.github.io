@@ -35,7 +35,7 @@ order: 3
 |勇気はどこに？君の胸に！ · “MY LIST” to you!|
 |MY舞☆TONIGHT · MIRACLE WAVE|
 |Awaken the power|
-|WONDERFUL STORIES · WATER BLUE NEW WORLD|
+|WATER BLUE NEW WORLD · WONDERFUL STORIES|
 
 |第四章 动画BD特典|
 |-|
@@ -53,3 +53,4 @@ order: 3
 |ジングルベルがとまらない · 聖なる日の祈り|
 |Landing action Yeah!!|
 |ホップ·ステップ·ワーイ！|
+|Thank you, FRIENDS!! · No.10|

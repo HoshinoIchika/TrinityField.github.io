@@ -65,8 +65,8 @@ Oh baby shadow gate<br />
 溜息の中 罠を仕掛けた<br />
 たぶん効いてるの しびれてきたでしょ?</p>
 
-<p>【<font color="pink">梨</font><font color="purple">鞠</font>】私と貴方<font color="silver">(Oh baby~)</font>
-　　　　裏と表の<font color="silver">(Shadow gate, Shadow gate)</font>
+<p>【<font color="pink">梨</font><font color="purple">鞠</font>】私と貴方<font color="silver">(Oh baby~)</font><br />
+　　　　裏と表の<font color="silver">(Shadow gate, Shadow gate)</font><br />
 　　　　矛盾をかかえて<br />
 【3人】恋に変わるのよ<br />
 (Shadow gate, Shadow gate)<br />

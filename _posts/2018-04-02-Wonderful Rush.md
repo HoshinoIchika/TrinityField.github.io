@@ -11,7 +11,7 @@ Dan-dan ススム Dan-dan ハジケル<br />
 (Hi hi,ススメ!まだまだLet's go!! Hi hi,ススメ!ほらほらLet's go!!)</p>
 
 <p>【<font color="darkorange">果</font><font color="blue">海</font><font color="cyan">绘</font>】大事なことはなんだっけ?【其余6人】(なんだっけ?)<br />
-　　　　　ちいさな努力が<u>明日（あす）</u>を作るんだ<br />
+　　　　　ちいさな努力が<u>明日[あす]</u>を作るんだ<br />
 【<font color="lime">花</font><font color="gold">凛</font><font color="purple">希</font>】いまを愛してぶつかろう!【其余6人】(ぶつかろう!)<br />
 　　　　　そんな勢いでずっと一生懸命なんだよって<br />
 【其余6人】(一生懸命なんだよずっと!)</p>

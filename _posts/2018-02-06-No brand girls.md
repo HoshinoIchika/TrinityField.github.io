@@ -35,7 +35,7 @@ Hi Hi Hi 壊せるものさ Hi Hi Hi 倒せるものさ<br />
 (うん負けないから!)</p>
 
 <p><font color="purple">傷つけあっちゃ No good</font><br />
-<font color="blue">仲<u>違（たが）</u>いは No good</font><br />
+<font color="blue">仲<u>違[たが]</u>いは No good</font><br />
 <font color="gold">だいすきの誤解は つらい気分</font></p>
 
 <p><font color="lime">苦しい胸は No good</font>(hurry-up!)<br />

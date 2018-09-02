@@ -22,7 +22,7 @@ layout: post
 【<font color="cyan">绘</font><font color="red">姬</font>】Hi,hi!<font color="hotpink">(抵抗するならしてごらん!)</font><br />
 <font color="cyan">いがいと</font><br />
 <font color="hotpink">我が儘だと知ってるけれど<br />
-私の方が<u>上手（うわて）</u>なようね</font><br />
+私の方が<u>上手[うわて]</u>なようね</font><br />
 <font color="cyan">冷たい言葉</font><br />
 <font color="red">優しい視線</font><br />
 獲物は…君だよ!</p>

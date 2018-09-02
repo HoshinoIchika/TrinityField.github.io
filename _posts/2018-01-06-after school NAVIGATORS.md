@@ -4,9 +4,9 @@ layout: post
 ---
 歌：<font color="hotpink">にこ</font><font color="gold">りん</font><font color="lime">ぱな</font>
 
-<p><font color="hotpink">帰りにチーズバーガー<u>mgmg（もぐもぐ）</u></font><br />
-<font color="gold">それよりラーメン!<u>trtr（つるつる）</u></font><br />
-<font color="lime">女子ならワッフル<u>mfmf（もふもふ）</u></font><br />
+<p><font color="hotpink">帰りにチーズバーガー<u>mgmg[もぐもぐ]</u></font><br />
+<font color="gold">それよりラーメン!<u>trtr[つるつる]</u></font><br />
+<font color="lime">女子ならワッフル<u>mfmf[もふもふ]</u></font><br />
 どーしようどーしよう?迷うよね?はいっ!</p>
 
 <p><font color="hotpink">行ってみるかな 行きたいな<br />
@@ -33,8 +33,8 @@ after school, after school</font></p>
 楽しいなって毎日言いたいね<br />
 なかよしだから分かち合える「とってもおいしい!」<br />
 <font color="hotpink">mgmgとまらないんだもん</font><br />
-<font color="gold"><u>pkpk（ぱくぱく）</u>おかわりでしょ</font><br />
-<font color="lime"><u>gkgk（ごくごく）</u>同じタイミング</font><br />
+<font color="gold"><u>pkpk[ぱくぱく]</u>おかわりでしょ</font><br />
+<font color="lime"><u>gkgk[ごくごく]</u>同じタイミング</font><br />
 after school, We are NAVIGATORS!</p>
 
 <p>はいっ!<br />
@@ -43,7 +43,7 @@ after school, We are NAVIGATORS!</p>
 <font color="hotpink">笑ってー!</font></p>
 
 <p><font color="hotpink">mgmgのあと喉がかわいちゃう</font><br />
-<font color="gold">trtrしたらおでこ<u>tktk（てかてか）</u>だよ～</font><br />
+<font color="gold">trtrしたらおでこ<u>tktk[てかてか]</u>だよ～</font><br />
 <font color="lime">mfmfこのままふぉえばーmfmf</font><br />
 どーしようどーしよう?まんぞくね?はいっ!</p>
 

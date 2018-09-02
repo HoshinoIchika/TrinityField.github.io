@@ -38,12 +38,16 @@ order: 4
 
 |第四章 Starlight系列|
 |-|
-|1-5：Snow Wings · Tulip · ハイファイ☆デイズ · 生存本能ヴァルキュリア · 純情Midnight伝説|
-|6-10：Love∞Destiny · サマカニ！！ · BEYOND THE STARLIGHT · ラブレター · Jet to the Future · Flip Flop(Event ver.)|
-|11-15：あんきら！？狂騒曲 · あいくるしい(Event ver.) · 命燃やして恋せよ乙女 · Lunatic Show(Event ver.) · Sweet Witches' Night ~6人目はだぁれ~ · shabon song(Event ver.) · 情熱ファンファンファーレ · Nocturne(Event ver.) · 桜の頃|
-|16-20：∀NSWER · Nothing but You · モーレツ★世直しギルティ！ · With Love(7月18日发售) · リトルリドル(预计8月发售)|
-|21-25(尚未发售)：Kawaii make MY day! · 双翼の独奏歌 · Twin☆くるっ★テール · Trinity Field · Happy New Yeah!|
-|26-27(尚未发售)：美に入り彩を穿つ · Vast world|
+|2016上半年：Snow Wings · Tulip · ハイファイ☆デイズ|
+|2016下半年：生存本能ヴァルキュリア · 純情Midnight伝説 · Love∞Destiny · サマカニ！！|
+|2017 Q1：BEYOND THE STARLIGHT · ラブレター|
+|2017 Q2：Jet to the Future · Flip Flop(Event ver.) · あんきら！？狂騒曲 · あいくるしい(Event ver.)|
+|2017 Q3：命燃やして恋せよ乙女 · Lunatic Show(Event ver.) · Sweet Witches' Night ~6人目はだぁれ~ · shabon song(Event ver.)|
+|2017 Q4：情熱ファンファンファーレ · Nocturne(Event ver.)|
+|2018 Q1：桜の頃 · キミのそばでずっと(Event ver.)|
+|2018 Q2：∀NSWER · Nothing but You · モーレツ★世直しギルティ！|
+|2018 Q3：With Love · リトルリドル · Kawaii make MY day!(9月19日发售)|
+|尚未发售：双翼の独奏歌 · Twin☆くるっ★テール · Trinity Field · Happy New Yeah! · 美に入り彩を穿つ · Vast world · 凸凹スピードスター · クレイジークレイジー · ガールズ·イン·ザ·フロンティア|
 
 |第五章 动画曲|
 |-|
