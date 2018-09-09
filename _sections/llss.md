@@ -31,11 +31,11 @@ order: 3
 |<a href="2017/11/19/夢で夜空を照らしたい.html">夢で夜空を照らしたい</a> · <a href="2017/11/18/未熟DREAMER.html">未熟DREAMER</a>|
 |想いよひとつになれ · <a href="2017/11/16/MIRAI-TICKET.html">MIRAI TICKET</a>|
 |下篇：第二季|
-|未来の僕らは知ってるよ · 君の瞳を巡る冒険|
-|勇気はどこに？君の胸に！ · “MY LIST” to you!|
-|MY舞☆TONIGHT · MIRACLE WAVE|
-|Awaken the power|
-|WATER BLUE NEW WORLD · WONDERFUL STORIES|
+|<a href="2017/11/15/未来の僕らは知ってるよ.html">未来の僕らは知ってるよ</a> · <a href="2017/11/14/君の瞳を巡る冒険.html">君の瞳を巡る冒険</a>|
+|勇気はどこに？君の胸に！ · <a href="2017/11/12/MY-LIST-to-you!.html">“MY LIST” to you!</a>|
+|<a href="2017/11/11/MY舞-TONIGHT.html">MY舞☆TONIGHT</a> · <a href="2017/11/10/MIRACLE-WAVE.html">MIRACLE WAVE</a>|
+|<a href="2017/11/09/Awaken-the-power.html">Awaken the power</a>|
+|<a href="2017/11/08/WATER-BLUE-NEW-WORLD.html">WATER BLUE NEW WORLD</a> · WONDERFUL STORIES|
 
 |第四章 动画BD特典|
 |-|
@@ -51,6 +51,6 @@ order: 3
 |第六章 其他|
 |-|
 |ジングルベルがとまらない · 聖なる日の祈り|
-|Landing action Yeah!!|
+|<a href="2017/10/07/Landing-action-Yeah!!.html">Landing action Yeah!!</a>|
 |ホップ·ステップ·ワーイ！|
 |Thank you, FRIENDS!! · No.10|
