@@ -26,7 +26,7 @@ layout: post
 つないでくれるから笑って行こう<br />
 <font color="darkorange">イマを重ね そして</font> ミライへ向かおう！﻿</p>
 
-<p><u>時代[とき]</u>は今日も過ぎてく とめられないと</font><br />
+<p><font color="silver"><u>時代[とき]</u>は今日も過ぎてく とめられないと</font><br />
 <font color="pink">気がついた僕らは どこへ向かうの？</font><br />
 <font color="purple">大丈夫！ いつだって思い出せるよ</font><br />
 【G】駆け抜けてきた すばらしい季節を</p>
