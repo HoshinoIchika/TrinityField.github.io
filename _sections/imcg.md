@@ -71,3 +71,4 @@ order: 4
 |イリュージョニスタ！ · Yes! Party Time!!(Event ver.)|
 |Treasure☆ · エンジェル ドリーム ~CINDERELLA GIRLS COLLABORATION MIX~|
 |キミとボクのミライ|
+|夏色 · サヨナラバス|
