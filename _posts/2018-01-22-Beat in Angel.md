@@ -18,7 +18,7 @@ I know!! 私が治してあげる</font></p>
 <font color="gold">恋に落ちたね</font></p>
 
 <p>やがて…<br />
-<font color="gold">「ふたりきりになりたい<br /> <font color="red">病気」になる<br /><br />
+<font color="gold">「ふたりきりになりたい<br /> <font color="red">病気」になる</font><br />
 <font color="gold">甘い</font> 薬をあげましょう</p>
 
 <p>Beat in Angel<br />
