@@ -1,5 +1,5 @@
 ---
-title: Aqours（71曲，已发售66曲）
+title: Aqours（73曲）
 icon: fa-th
 order: 3
 ---
