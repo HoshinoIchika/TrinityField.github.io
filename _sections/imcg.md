@@ -6,15 +6,15 @@ order: 4
 
 |封面|
 |-|
-|お願い！シンデレラ|
+|<a href="2017/10/04/お願い-シンデレラ.html">お願い！シンデレラ</a>|
 
 |第一章 总选曲|
 |-|
 |第2期：輝く世界の魔法|
-|第3期：We're the friends! · メッセージ|
+|第3期：<a href="2017/10/02/We're-the-friends!.html">We're the friends!</a> · <a href="2017/10/01/メッセージ.html">メッセージ</a>|
 |第4期：Absolute NIne · つぼみ|
 |第5期：Take me☆Take you · キミのそばでずっと|
-|第6期：恋が咲く季節 · always · こいかぜ -花葉- · こいかぜ -紺碧- · Tulip(SP ver.)|
+|第6期：<a href="2017/09/26/恋が咲く季節.html">恋が咲く季節</a> · always · こいかぜ -花葉- · こいかぜ -紺碧- · Tulip(SP ver.)|
 |第7期(10月31日发售)：Trust me · 君への詩|
 
 |第二章 Jewelries系列|
@@ -67,7 +67,7 @@ order: 4
 
 |第七章 其他|
 |-|
-|EVERMORE · ススメ☆オトメ ~jewel parade~(EVERMORE ver.) · ゴキゲンParty Night(EVERMORE ver.) · Near to You(EVERMORE ver.)|
+|<a href="2017/06/02/EVERMORE.html">EVERMORE</a> · ススメ☆オトメ ~jewel parade~(EVERMORE ver.) · ゴキゲンParty Night(EVERMORE ver.) · Near to You(EVERMORE ver.)|
 |Yes! Party Time!!|
 |イリュージョニスタ！ · Yes! Party Time!!(Event ver.)|
 |Treasure☆ · エンジェル ドリーム ~CINDERELLA GIRLS COLLABORATION MIX~|
