@@ -15,7 +15,7 @@ order: 4
 |第4期：Absolute NIne · つぼみ|
 |第5期：Take me☆Take you · キミのそばでずっと|
 |第6期：恋が咲く季節 · always · こいかぜ -花葉- · こいかぜ -紺碧- · Tulip(SP ver.)|
-|第7期总选cd预计2018年底发售|
+|第7期(10月31日发售)：Trust me · 君への詩|
 
 |第二章 Jewelries系列|
 |-|
@@ -46,8 +46,9 @@ order: 4
 |2017 Q4：情熱ファンファンファーレ · Nocturne(Event ver.)|
 |2018 Q1：桜の頃 · キミのそばでずっと(Event ver.)|
 |2018 Q2：∀NSWER · Nothing but You · モーレツ★世直しギルティ！|
-|2018 Q3：With Love · リトルリドル · Kawaii make MY day!(9月19日发售)|
-|尚未发售：双翼の独奏歌 · Twin☆くるっ★テール · Trinity Field · Happy New Yeah! · 美に入り彩を穿つ · Vast world · 凸凹スピードスター · クレイジークレイジー · ガールズ·イン·ザ·フロンティア|
+|2018 Q3：With Love · リトルリドル · Kawaii make MY day!|
+|2018 Q4：双翼の独奏歌(10月17日发售)|
+|尚未发售：Twin☆くるっ★テール · Trinity Field · Happy New Yeah! · 美に入り彩を穿つ · Vast world · 凸凹スピードスター · クレイジークレイジー · ガールズ·イン·ザ·フロンティア · Pretty Liar|
 
 |第五章 动画曲|
 |-|
@@ -62,7 +63,7 @@ order: 4
 
 |第六章 小剧场收录曲|
 |-|
-|キラッ！満開スマイル · エチュードは1曲だけ · SUN♡FLOWER · Blooming Days · 秋めいて Ding Dong Dang! · Snow * Love|
+|キラッ！満開スマイル · エチュードは1曲だけ · SUN♡FLOWER · Blooming Days · 秋めいて Ding Dong Dang! · Snow * Love · いとしーさー♥ · なつっこ音頭 · さよならアロハ|
 
 |第七章 其他|
 |-|
