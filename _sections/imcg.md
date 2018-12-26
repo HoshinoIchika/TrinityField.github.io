@@ -15,7 +15,7 @@ order: 4
 |第4期：Absolute NIne · つぼみ|
 |第5期：Take me☆Take you · キミのそばでずっと|
 |第6期：<a href="2017/09/26/恋が咲く季節.html">恋が咲く季節</a> · always · こいかぜ -花葉- · こいかぜ -紺碧- · Tulip(SP ver.)|
-|第7期(10月31日发售)：Trust me · 君への詩|
+|第7期：Trust me · 君への詩|
 
 |第二章 Jewelries系列|
 |-|
@@ -47,8 +47,8 @@ order: 4
 |2018 Q1：桜の頃 · キミのそばでずっと(Event ver.)|
 |2018 Q2：∀NSWER · Nothing but You · モーレツ★世直しギルティ！|
 |2018 Q3：With Love · リトルリドル · Kawaii make MY day!|
-|2018 Q4：双翼の独奏歌(10月17日发售)|
-|尚未发售：Twin☆くるっ★テール · Trinity Field · Happy New Yeah! · 美に入り彩を穿つ · Vast world · 凸凹スピードスター · クレイジークレイジー · ガールズ·イン·ザ·フロンティア · Pretty Liar|
+|2018 Q4：双翼の独奏歌 · Twin☆くるっ★テール(11月21日发售)|
+|尚未发售：Trinity Field · Happy New Yeah! · 美に入り彩を穿つ · Vast world · 凸凹スピードスター · クレイジークレイジー · ガールズ·イン·ザ·フロンティア · Pretty Liar · アンデッド·ダンスロック|
 
 |第五章 动画曲|
 |-|
@@ -73,3 +73,4 @@ order: 4
 |Treasure☆ · エンジェル ドリーム ~CINDERELLA GIRLS COLLABORATION MIX~|
 |キミとボクのミライ|
 |夏色 · サヨナラバス|
+|Starry-Go-Round|
