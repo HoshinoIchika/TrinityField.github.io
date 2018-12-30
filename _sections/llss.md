@@ -48,7 +48,11 @@ order: 3
 |-|
 |夏への扉 Never end ver. · <a href="2017/10/12/真夏は誰のモノ.html">真夏は誰のモノ？</a> · <a href="2017/10/11/地元愛-満タン-サマーライフ.html">地元愛♡満タン☆サマーライフ</a> · <a href="2017/10/10/夏の終わりの雨音が.html">夏の終わりの雨音が</a>|
 
-|第六章 其他|
+|第六章 剧场版相关|
+|-|
+|Marine Border Parasol · ハジマリロード · 予測不可能Driving!|
+
+|第七章 其他|
 |-|
 |ジングルベルがとまらない · 聖なる日の祈り|
 |<a href="2017/10/07/Landing-action-Yeah!!.html">Landing action Yeah!!</a>|

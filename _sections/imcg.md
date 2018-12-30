@@ -39,16 +39,17 @@ order: 4
 |第四章 Starlight系列|
 |-|
 |2016上半年：Snow Wings · Tulip · ハイファイ☆デイズ|
-|2016下半年：生存本能ヴァルキュリア · 純情Midnight伝説 · Love∞Destiny · サマカニ！！|
+|2016下半年：<a href="2017/08/13/生存本能ヴァルキュリア.html">生存本能ヴァルキュリア</a> · 純情Midnight伝説 · Love∞Destiny · サマカニ！！|
 |2017 Q1：BEYOND THE STARLIGHT · ラブレター|
 |2017 Q2：Jet to the Future · Flip Flop(Event ver.) · あんきら！？狂騒曲 · あいくるしい(Event ver.)|
 |2017 Q3：命燃やして恋せよ乙女 · Lunatic Show(Event ver.) · Sweet Witches' Night ~6人目はだぁれ~ · shabon song(Event ver.)|
 |2017 Q4：情熱ファンファンファーレ · Nocturne(Event ver.)|
 |2018 Q1：桜の頃 · キミのそばでずっと(Event ver.)|
 |2018 Q2：∀NSWER · Nothing but You · モーレツ★世直しギルティ！|
-|2018 Q3：With Love · リトルリドル · Kawaii make MY day!|
-|2018 Q4：双翼の独奏歌 · Twin☆くるっ★テール(11月21日发售)|
-|尚未发售：Trinity Field · Happy New Yeah! · 美に入り彩を穿つ · Vast world · 凸凹スピードスター · クレイジークレイジー · ガールズ·イン·ザ·フロンティア · Pretty Liar · アンデッド·ダンスロック|
+|2018 Q3：With Love · リトルリドル · Kawaii make MY day! · Flip Flop ~For SS3A Rearrange Mix~|
+|2018 Q4：双翼の独奏歌 · shabon song ~For SS3A Rearrange Mix~ · Twin☆くるっ★テール · Lunatic Show ~For SS3A Rearrange Mix~ · Trinity Field|
+|2019 Q1：Happy New Yeah!(1月23日发售)|
+|尚未发售：美に入り彩を穿つ · Vast world · 凸凹スピードスター · クレイジークレイジー · ガールズ·イン·ザ·フロンティア · Pretty Liar · アンデッド·ダンスロック · Sunshine See May|
 
 |第五章 动画曲|
 |-|
@@ -72,5 +73,6 @@ order: 4
 |イリュージョニスタ！ · Yes! Party Time!!(Event ver.)|
 |Treasure☆ · エンジェル ドリーム ~CINDERELLA GIRLS COLLABORATION MIX~|
 |キミとボクのミライ|
-|夏色 · サヨナラバス|
+|夏色 · サヨナラバス · LOVE & PEACH|
+|HOT LIMIT · 行くぜっ!怪盗少女|
 |Starry-Go-Round|
