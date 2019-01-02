@@ -39,7 +39,7 @@ order: 4
 |第四章 Starlight系列|
 |-|
 |2016上半年：Snow Wings · Tulip · ハイファイ☆デイズ|
-|2016下半年：<a href="2017/08/13/生存本能ヴァルキュリア.html">生存本能ヴァルキュリア</a> · 純情Midnight伝説 · Love∞Destiny · サマカニ！！|
+|2016下半年：<a href="2017/09/19/生存本能ヴァルキュリア.html">生存本能ヴァルキュリア</a> · 純情Midnight伝説 · Love∞Destiny · サマカニ！！|
 |2017 Q1：BEYOND THE STARLIGHT · ラブレター|
 |2017 Q2：Jet to the Future · Flip Flop(Event ver.) · あんきら！？狂騒曲 · あいくるしい(Event ver.)|
 |2017 Q3：命燃やして恋せよ乙女 · Lunatic Show(Event ver.) · Sweet Witches' Night ~6人目はだぁれ~ · shabon song(Event ver.)|
@@ -68,7 +68,7 @@ order: 4
 
 |第七章 其他|
 |-|
-|<a href="2017/06/02/EVERMORE.html">EVERMORE</a> · ススメ☆オトメ ~jewel parade~(EVERMORE ver.) · ゴキゲンParty Night(EVERMORE ver.) · Near to You(EVERMORE ver.)|
+|<a href="2017/09/18/EVERMORE.html">EVERMORE</a> · ススメ☆オトメ ~jewel parade~(EVERMORE ver.) · ゴキゲンParty Night(EVERMORE ver.) · Near to You(EVERMORE ver.)|
 |Yes! Party Time!!|
 |イリュージョニスタ！ · Yes! Party Time!!(Event ver.)|
 |Treasure☆ · エンジェル ドリーム ~CINDERELLA GIRLS COLLABORATION MIX~|
