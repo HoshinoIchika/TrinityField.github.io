@@ -1,5 +1,5 @@
 ---
-title: 偶像大师 灰姑娘女孩
+title: 偶像大师 灰姑娘女孩（146曲）
 icon: fa-th
 order: 4
 ---
