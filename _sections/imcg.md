@@ -1,5 +1,5 @@
 ---
-title: 偶像大师 灰姑娘女孩（146曲）
+title: 偶像大师 灰姑娘女孩（148曲）
 icon: fa-th
 order: 4
 ---
@@ -48,8 +48,8 @@ order: 4
 |2018 Q2：∀NSWER · Nothing but You · モーレツ★世直しギルティ！|
 |2018 Q3：With Love · リトルリドル · Kawaii make MY day! · Flip Flop ~For SS3A Rearrange Mix~|
 |2018 Q4：双翼の独奏歌 · shabon song ~For SS3A Rearrange Mix~ · Twin☆くるっ★テール · Lunatic Show ~For SS3A Rearrange Mix~ · Trinity Field|
-|2019 Q1：Happy New Yeah!(1月23日发售)|
-|尚未发售：美に入り彩を穿つ · Vast world · 凸凹スピードスター · クレイジークレイジー · ガールズ·イン·ザ·フロンティア · Pretty Liar · アンデッド·ダンスロック · Sunshine See May|
+|2019 Q1：Happy New Yeah! · Nocturne ~For SS3A Rearrange Mix~|
+|尚未发售：美に入り彩を穿つ · Vast world · 凸凹スピードスター · クレイジークレイジー · ガールズ·イン·ザ·フロンティア · Pretty Liar · アンデッド·ダンスロック · Sunshine See May · Palette · スパイスパラダイス|
 
 |第五章 动画曲|
 |-|
@@ -75,4 +75,5 @@ order: 4
 |キミとボクのミライ|
 |夏色 · サヨナラバス · LOVE & PEACH|
 |HOT LIMIT · 行くぜっ!怪盗少女|
+|友達の唄 · 虹|
 |Starry-Go-Round|
