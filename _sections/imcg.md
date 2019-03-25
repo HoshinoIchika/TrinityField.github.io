@@ -14,7 +14,7 @@ order: 4
 |第3期：<a href="2017/10/02/We're-the-friends!.html">We're the friends!</a> · <a href="2017/10/01/メッセージ.html">メッセージ</a>|
 |第4期：Absolute NIne · つぼみ|
 |第5期：Take me☆Take you · キミのそばでずっと|
-|第6期：<a href="2017/09/26/恋が咲く季節.html">恋が咲く季節</a> · always · こいかぜ -花葉- · こいかぜ -紺碧- · Tulip(SP ver.)|
+|第6期：<a href="2017/09/26/恋が咲く季節.html">恋が咲く季節</a> · always · Tulip(SP ver.)|
 |第7期：Trust me · 君への詩|
 
 |第二章 Jewelries系列|
@@ -48,8 +48,8 @@ order: 4
 |2018 Q2：∀NSWER · Nothing but You · モーレツ★世直しギルティ！|
 |2018 Q3：With Love · リトルリドル · Kawaii make MY day! · Flip Flop ~For SS3A Rearrange Mix~|
 |2018 Q4：双翼の独奏歌 · shabon song ~For SS3A Rearrange Mix~ · Twin☆くるっ★テール · Lunatic Show ~For SS3A Rearrange Mix~ · Trinity Field|
-|2019 Q1：Happy New Yeah! · Nocturne ~For SS3A Rearrange Mix~|
-|尚未发售：美に入り彩を穿つ · Vast world · 凸凹スピードスター · クレイジークレイジー · ガールズ·イン·ザ·フロンティア · Pretty Liar · アンデッド·ダンスロック · Sunshine See May · Palette · スパイスパラダイス|
+|2019 Q1：Happy New Yeah! · Nocturne ~For SS3A Rearrange Mix~ · 美に入り彩を穿つ · あいくるしい ~For SS3A Rearrange Mix~ · Vast world · スパイスパラダイス|
+|尚未发售：凸凹スピードスター · クレイジークレイジー · ガールズ·イン·ザ·フロンティア · Pretty Liar · ドレミファクトリー！ · アンデッド·ダンスロック · Sunshine See May · Palette · 義勇忍侠花吹雪 · Needle Light · Fascinate|
 
 |第五章 动画曲|
 |-|
@@ -71,9 +71,10 @@ order: 4
 |<a href="2017/09/18/EVERMORE.html">EVERMORE</a> · ススメ☆オトメ ~jewel parade~(EVERMORE ver.) · ゴキゲンParty Night(EVERMORE ver.) · Near to You(EVERMORE ver.)|
 |Yes! Party Time!!|
 |イリュージョニスタ！ · Yes! Party Time!!(Event ver.)|
+|Starry-Go-Round|
 |Treasure☆ · エンジェル ドリーム ~CINDERELLA GIRLS COLLABORATION MIX~|
 |キミとボクのミライ|
 |夏色 · サヨナラバス · LOVE & PEACH|
 |HOT LIMIT · 行くぜっ!怪盗少女|
 |友達の唄 · 虹|
-|Starry-Go-Round|
+|スターラブレイション · ツバサ|
