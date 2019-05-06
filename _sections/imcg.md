@@ -49,7 +49,8 @@ order: 4
 |2018 Q3：With Love · リトルリドル · Kawaii make MY day! · Flip Flop ~For SS3A Rearrange Mix~|
 |2018 Q4：双翼の独奏歌 · shabon song ~For SS3A Rearrange Mix~ · Twin☆くるっ★テール · Lunatic Show ~For SS3A Rearrange Mix~ · Trinity Field|
 |2019 Q1：Happy New Yeah! · Nocturne ~For SS3A Rearrange Mix~ · 美に入り彩を穿つ · あいくるしい ~For SS3A Rearrange Mix~ · Vast world · スパイスパラダイス|
-|尚未发售：凸凹スピードスター · クレイジークレイジー · ガールズ·イン·ザ·フロンティア · Pretty Liar · ドレミファクトリー！ · アンデッド·ダンスロック · Sunshine See May · Palette · 義勇忍侠花吹雪 · Needle Light · Fascinate|
+|2019 Q2：凸凹スピードスター · キミとボクのミライ|
+|尚未发售：クレイジークレイジー · ガールズ·イン·ザ·フロンティア · Pretty Liar · ドレミファクトリー！ · アンデッド·ダンスロック · Sunshine See May · Palette · 義勇忍侠花吹雪 · Needle Light · Fascinate · O-Ku-Ri-Mo-No Sunday!|
 
 |第五章 动画曲|
 |-|
@@ -64,7 +65,7 @@ order: 4
 
 |第六章 小剧场收录曲|
 |-|
-|キラッ！満開スマイル · エチュードは1曲だけ · SUN♡FLOWER · Blooming Days · 秋めいて Ding Dong Dang! · Snow * Love · いとしーさー♥ · なつっこ音頭 · さよならアロハ|
+|キラッ！満開スマイル · エチュードは1曲だけ · SUN♡FLOWER · Blooming Days · 秋めいて Ding Dong Dang! · Snow * Love · いとしーさー♥ · なつっこ音頭 · さよならアロハ · きゅん·きゅん·まっくす|
 
 |第七章 其他|
 |-|
@@ -73,8 +74,8 @@ order: 4
 |イリュージョニスタ！ · Yes! Party Time!!(Event ver.)|
 |Starry-Go-Round|
 |Treasure☆ · エンジェル ドリーム ~CINDERELLA GIRLS COLLABORATION MIX~|
-|キミとボクのミライ|
 |夏色 · サヨナラバス · LOVE & PEACH|
 |HOT LIMIT · 行くぜっ!怪盗少女|
 |友達の唄 · 虹|
 |スターラブレイション · ツバサ|
+|LIFE · 無重力シャトル|
