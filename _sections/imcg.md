@@ -50,7 +50,7 @@ order: 4
 |2018 Q4：双翼の独奏歌 · shabon song ~For SS3A Rearrange Mix~ · Twin☆くるっ★テール · Lunatic Show ~For SS3A Rearrange Mix~ · Trinity Field|
 |2019 Q1：Happy New Yeah! · Nocturne ~For SS3A Rearrange Mix~ · 美に入り彩を穿つ · あいくるしい ~For SS3A Rearrange Mix~ · Vast world · スパイスパラダイス|
 |2019 Q2：凸凹スピードスター · キミとボクのミライ|
-|尚未发售：クレイジークレイジー · ガールズ·イン·ザ·フロンティア · Pretty Liar · ドレミファクトリー！ · アンデッド·ダンスロック · Sunshine See May · Palette · 義勇忍侠花吹雪 · Needle Light · Fascinate · O-Ku-Ri-Mo-No Sunday!|
+|尚未发售：クレイジークレイジー · ガールズ·イン·ザ·フロンティア · Pretty Liar · ドレミファクトリー！ · アンデッド·ダンスロック · Sunshine See May · Palette · 義勇忍侠花吹雪 · Needle Light · Fascinate · O-Ku-Ri-Mo-No Sunday! · 無重力シャトル|
 
 |第五章 动画曲|
 |-|
@@ -78,4 +78,4 @@ order: 4
 |HOT LIMIT · 行くぜっ!怪盗少女|
 |友達の唄 · 虹|
 |スターラブレイション · ツバサ|
-|LIFE · 無重力シャトル|
+|LIFE|
