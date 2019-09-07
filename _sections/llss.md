@@ -1,5 +1,5 @@
 ---
-title: Aqours（76曲）
+title: Aqours（87曲）
 icon: fa-th
 order: 3
 ---
@@ -9,6 +9,7 @@ order: 3
 |<a href="2017/12/16/君のこころは輝いてるかい.html">君のこころは輝いてるかい？</a> · <a href="2017/12/15/Step!-ZERO-to-ONE.html">Step! ZERO to ONE</a> · <a href="2017/12/14/Aqours-HEROES.html">Aqours☆HEROES</a>|
 |<a href="2017/12/13/恋になりたいAQUARIUM.html">恋になりたいAQUARIUM</a> · <a href="2017/12/12/待ってて愛のうた.html">待ってて愛のうた</a> · 届かない星だとしても|
 |<a href="2017/12/10/HAPPY-PARTY-TRAIN.html">HAPPY PARTY TRAIN</a> · <a href="2017/12/09/SKY-JOURNEY.html">SKY JOURNEY</a> · <a href="2017/12/08/少女以上の恋がしたい.html">少女以上の恋がしたい</a>|
+|未体験HORIZON · Deep Resonance · Dance with Minotaurus|
 
 |第二章 小队曲|
 |-|
@@ -50,11 +51,15 @@ order: 3
 
 |第六章 剧场版相关|
 |-|
+|僕らの走ってきた道は… · Next SPARKLING!!|
+|逃走迷走メビウスループ · Hop? Stop? Nonstop!|
+|Believe again · Brightest Melody · Over The Next Rainbow|
 |Marine Border Parasol · ハジマリロード · 予測不可能Driving!|
+|i-n-g, I TRY!!|
 
 |第七章 其他|
 |-|
 |ジングルベルがとまらない · 聖なる日の祈り|
-|<a href="2017/10/07/Landing-action-Yeah!!.html">Landing action Yeah!!</a>|
-|ホップ·ステップ·ワーイ！|
+|<a href="2017/10/07/Landing-action-Yeah!!.html">Landing action Yeah!!</a> · ホップ·ステップ·ワーイ！ · Jump up HIGH!!|
+|KOKORO Magic “A to Z”|
 |Thank you, FRIENDS!! · No.10|
