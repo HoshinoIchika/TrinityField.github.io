@@ -1,5 +1,5 @@
 ---
-title: 偶像大师 灰姑娘女孩（148曲）
+title: 偶像大师 灰姑娘女孩（169曲）
 icon: fa-th
 order: 4
 ---
@@ -49,8 +49,9 @@ order: 4
 |2018 Q3：With Love · リトルリドル · Kawaii make MY day! · Flip Flop ~For SS3A Rearrange Mix~|
 |2018 Q4：双翼の独奏歌 · shabon song ~For SS3A Rearrange Mix~ · Twin☆くるっ★テール · Lunatic Show ~For SS3A Rearrange Mix~ · Trinity Field|
 |2019 Q1：Happy New Yeah! · Nocturne ~For SS3A Rearrange Mix~ · 美に入り彩を穿つ · あいくるしい ~For SS3A Rearrange Mix~ · Vast world · スパイスパラダイス|
-|2019 Q2：凸凹スピードスター · キミとボクのミライ|
-|尚未发售：クレイジークレイジー · ガールズ·イン·ザ·フロンティア · Pretty Liar · ドレミファクトリー！ · アンデッド·ダンスロック · Sunshine See May · Palette · 義勇忍侠花吹雪 · Needle Light · Fascinate · O-Ku-Ri-Mo-No Sunday! · 無重力シャトル|
+|2019 Q2：凸凹スピードスター · キミとボクのミライ · クレイジークレイジー|
+|2019 Q3：ガールズ·イン·ザ·フロンティア · 青空エール · Pretty Liar · Stage bye Stage(Grand ver.) · アンデッド·ダンスロック(9月18日发售)|
+|尚未发售：ドレミファクトリー！ · Starry-Go-Round · Sunshine See May · Palette · 義勇忍侠花吹雪 · Needle Light · Fascinate · O-Ku-Ri-Mo-No Sunday! · 無重力シャトル · バベル · TRUE COLORS|
 
 |第五章 动画曲|
 |-|
@@ -65,17 +66,16 @@ order: 4
 
 |第六章 小剧场收录曲|
 |-|
-|キラッ！満開スマイル · エチュードは1曲だけ · SUN♡FLOWER · Blooming Days · 秋めいて Ding Dong Dang! · Snow * Love · いとしーさー♥ · なつっこ音頭 · さよならアロハ · きゅん·きゅん·まっくす|
+|キラッ！満開スマイル · エチュードは1曲だけ · SUN♡FLOWER · Blooming Days · 秋めいて Ding Dong Dang! · Snow * Love · いとしーさー♥ · なつっこ音頭 · さよならアロハ · きゅん·きゅん·まっくす · Max Beat · TAKAMARI☆CLIMAXXX!!!!!|
 
-|第七章 其他|
+|第七章 翻唱曲|
+|-|
+|夏色 · サヨナラバス · LOVE & PEACH · HOT LIMIT · 行くぜっ!怪盗少女 · 友達の唄 · 虹 · スターラブレイション · ツバサ · LIFE · 桃色片想い · Hello Especally · 全力☆Summer!|
+
+|第八章 其他|
 |-|
 |<a href="2017/09/18/EVERMORE.html">EVERMORE</a> · ススメ☆オトメ ~jewel parade~(EVERMORE ver.) · ゴキゲンParty Night(EVERMORE ver.) · Near to You(EVERMORE ver.)|
 |Yes! Party Time!!|
 |イリュージョニスタ！ · Yes! Party Time!!(Event ver.)|
-|Starry-Go-Round|
 |Treasure☆ · エンジェル ドリーム ~CINDERELLA GIRLS COLLABORATION MIX~|
-|夏色 · サヨナラバス · LOVE & PEACH|
-|HOT LIMIT · 行くぜっ!怪盗少女|
-|友達の唄 · 虹|
-|スターラブレイション · ツバサ|
-|LIFE|
+|Stage bye Stage|
