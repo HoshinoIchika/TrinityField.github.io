@@ -74,7 +74,7 @@ order: 4
 
 |第八章 其他|
 |-|
-|<a href="2017/09/18/EVERMORE.html">EVERMORE</a> · ススメ☆オトメ ~jewel parade~(EVERMORE ver.) · ゴキゲンParty Night(EVERMORE ver.) · Near to You(EVERMORE ver.)|
+|<a href="2017/09/18/EVERMORE.html">EVERMORE</a> · ススメ☆オトメ ~jewel parade~(15人ver.) · ゴキゲンParty Night(15人ver.) · Near to You(15人ver.)|
 |Yes! Party Time!!|
 |イリュージョニスタ！ · Yes! Party Time!!(Event ver.)|
 |Treasure☆ · エンジェル ドリーム ~CINDERELLA GIRLS COLLABORATION MIX~|
