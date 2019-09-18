@@ -15,7 +15,7 @@ order: 4
 |第4期：Absolute NIne · つぼみ|
 |第5期：Take me☆Take you · キミのそばでずっと|
 |第6期：<a href="2017/09/26/恋が咲く季節.html">恋が咲く季節</a> · always · Tulip(SP ver.)|
-|第7期：Trust me · 君への詩|
+|第7期：Trust me · <a href="2017/09/22/君への詩.html">君への詩</a>|
 
 |第二章 Jewelries系列|
 |-|
