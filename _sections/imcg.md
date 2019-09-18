@@ -50,7 +50,7 @@ order: 4
 |2018 Q4：双翼の独奏歌 · shabon song ~For SS3A Rearrange Mix~ · Twin☆くるっ★テール · Lunatic Show ~For SS3A Rearrange Mix~ · Trinity Field|
 |2019 Q1：Happy New Yeah! · Nocturne ~For SS3A Rearrange Mix~ · 美に入り彩を穿つ · あいくるしい ~For SS3A Rearrange Mix~ · Vast world · スパイスパラダイス|
 |2019 Q2：凸凹スピードスター · キミとボクのミライ · クレイジークレイジー|
-|2019 Q3：ガールズ·イン·ザ·フロンティア · 青空エール · Pretty Liar · Stage bye Stage(Grand ver.) · アンデッド·ダンスロック(9月18日发售)|
+|2019 Q3：ガールズ·イン·ザ·フロンティア · 青空エール · Pretty Liar · Stage bye Stage(Grand ver.) · アンデッド·ダンスロック|
 |尚未发售：ドレミファクトリー！ · Starry-Go-Round · Sunshine See May · Palette · 義勇忍侠花吹雪 · Needle Light · Fascinate · O-Ku-Ri-Mo-No Sunday! · 無重力シャトル · バベル · TRUE COLORS|
 
 |第五章 动画曲|
