@@ -1,5 +1,5 @@
 ---
-title: Aqours（87曲）
+title: Aqours（98曲）
 icon: fa-th
 order: 3
 ---
@@ -16,12 +16,15 @@ order: 3
 |上篇：CYaRon!|
 |<a href="2017/12/07/元気全開DAY!DAY!DAY!.html">元気全開DAY!DAY!DAY!</a> · <a href="2017/12/06/夜空はなんでも知ってるの.html">夜空はなんでも知ってるの？</a>|
 |<a href="2017/12/05/近未来ハッピーエンド.html">近未来ハッピーエンド</a> · <a href="2017/12/04/海岸通りで待ってるよ.html">海岸通りで待ってるよ</a>|
+|Braveheart Coaster · CHANGELESS · コドク·テレポート|
 |中篇：AZALEA|
 |<a href="2017/12/03/トリコリコPLEASE!!.html">トリコリコPLEASE!!</a> · <a href="2017/12/02/ときめき分類学.html">ときめき分類学</a>|
 |<a href="2017/12/01/GALAXY-HidE-and-SeeK.html">GALAXY HidE and SeeK</a> · <a href="2017/11/30/INNOCENT-BIRD.html">INNOCENT BIRD</a>|
+|Amazing Travel DNA · 空中恋愛論 · メイズセカイ|
 |下篇：Guilty Kiss|
 |<a href="2017/11/29/Strawberry-Trapper.html">Strawberry Trapper</a> · <a href="2017/11/28/Guilty-Night,-Guilty-Kiss!.html">Guilty Night, Guilty Kiss!</a>|
 |<a href="2017/11/27/コワレヤスキ.html">コワレヤスキ</a> · <a href="2017/11/26/Shadow-gate-to-love.html">Shadow gate to love</a>|
+|New Romantic Sailors · Love Pulsar · Phantom Rocket Adventure|
 
 |第三章 TV动画相关|
 |-|
@@ -61,5 +64,5 @@ order: 3
 |-|
 |ジングルベルがとまらない · 聖なる日の祈り|
 |<a href="2017/10/07/Landing-action-Yeah!!.html">Landing action Yeah!!</a> · ホップ·ステップ·ワーイ！ · Jump up HIGH!!|
-|KOKORO Magic “A to Z”|
+|KOKORO Magic “A to Z” · Wake up, Challenger!!|
 |Thank you, FRIENDS!! · No.10|

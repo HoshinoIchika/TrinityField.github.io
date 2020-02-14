@@ -1,5 +1,5 @@
 ---
-title: 偶像大师 灰姑娘女孩（169曲）
+title: 偶像大师 灰姑娘女孩（173+曲）
 icon: fa-th
 order: 4
 ---
@@ -16,7 +16,7 @@ order: 4
 |第5期：Take me☆Take you · キミのそばでずっと|
 |第6期：<a href="2017/09/26/恋が咲く季節.html">恋が咲く季節</a> · always · Tulip(SP ver.)|
 |第7期：Trust me · <a href="2017/09/22/君への詩.html">君への詩</a>|
-|第8期：预计2019年底发布|
+|第8期：夢をのぞいたら · Sun! High! Gold!|
 
 |第二章 Jewelries系列|
 |-|
@@ -52,12 +52,14 @@ order: 4
 |2019 Q1：Happy New Yeah! · Nocturne ~For SS3A Rearrange Mix~ · 美に入り彩を穿つ · あいくるしい ~For SS3A Rearrange Mix~ · Vast world · スパイスパラダイス|
 |2019 Q2：凸凹スピードスター · キミとボクのミライ · クレイジークレイジー|
 |2019 Q3：ガールズ·イン·ザ·フロンティア · 青空エール · Pretty Liar · Stage bye Stage(Grand ver.) · アンデッド·ダンスロック|
-|2019 Q4：Starry-Go-Round · 無重力シャトル|
-|尚未发售：ドレミファクトリー！ · Sunshine See May · Palette · 義勇忍侠花吹雪 · Needle Light · Fascinate · O-Ku-Ri-Mo-No Sunday! · バベル · comic cosmic · Gossip Club|
+|2019 Q4：Starry-Go-Round · 無重力シャトル · Sunshine See May|
+|2020 Q1：Palette|
+|尚未发售：ドレミファクトリー！ · 義勇忍侠花吹雪 · Needle Light · Fascinate · O-Ku-Ri-Mo-No Sunday! · バベル · ミラーボールラブ|
 
 |第五章 Next系列|
 |-|
-|2019 Q4：TRUE COLORS · ステップ&スキップ|
+|2019 Q4：TRUE COLORS · ステップ&スキップ · Gossip Club · Secret Daybreak|
+|2020 Q1：ギュっとMilky Way|
 
 |第五章 动画曲|
 |-|
@@ -76,7 +78,7 @@ order: 4
 
 |第七章 翻唱曲|
 |-|
-|夏色 · サヨナラバス · LOVE & PEACH · HOT LIMIT · 行くぜっ!怪盗少女 · 友達の唄 · 虹 · スターラブレイション · ツバサ · LIFE · 桃色片想い · Hello Especally · 全力☆Summer!|
+|夏色 · サヨナラバス · LOVE & PEACH · HOT LIMIT · 行くぜっ!怪盗少女 · 友達の唄 · 虹 · ツバサ · LIFE · Hello Especally · 全力☆Summer!|
 
 |第八章 其他|
 |-|
@@ -86,3 +88,4 @@ order: 4
 |Treasure☆ · エンジェル ドリーム ~CINDERELLA GIRLS COLLABORATION MIX~|
 |Stage bye Stage|
 |オウムアムアに幸運を|
+|不埒なCANVAS · 印象 · comic cosmic|
