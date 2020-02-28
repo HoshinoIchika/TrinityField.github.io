@@ -62,7 +62,7 @@ order: 3
 
 |第七章 其他|
 |-|
-|ジングルベルがとまらない · 聖なる日の祈り|
+|<a href="2017/09/16/ジングルベルがとまらない.html">ジングルベルがとまらない</a> · 聖なる日の祈り|
 |<a href="2017/10/07/Landing-action-Yeah!!.html">Landing action Yeah!!</a> · ホップ·ステップ·ワーイ！ · Jump up HIGH!!|
 |KOKORO Magic “A to Z” · Wake up, Challenger!!|
 |Thank you, FRIENDS!! · No.10|
