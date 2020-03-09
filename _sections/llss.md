@@ -54,7 +54,7 @@ order: 3
 
 |第六章 剧场版相关|
 |-|
-|僕らの走ってきた道は… · Next SPARKLING!!|
+|<a href="2017/09/13/僕らの走ってきた道は.html">僕らの走ってきた道は…</a> · <a href="2017/09/14/Next-SPARKLING!!.html">Next SPARKLING!!</a>|
 |逃走迷走メビウスループ · Hop? Stop? Nonstop!|
 |Believe again · Brightest Melody · Over The Next Rainbow|
 |Marine Border Parasol · ハジマリロード · 予測不可能Driving!|
