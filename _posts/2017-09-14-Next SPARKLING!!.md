@@ -21,7 +21,7 @@ layout: post
 　　　　　　　　　君も僕らもなれるんだ<br />
 　　　　　　　　　なりたい自分に<br />
 　　　　　　　　　忘れない 忘れない 夢見ること<br />
-<font color="darkorange">明日は今日より夢に【一年生、二年生】近いはずだよ</p>
+<font color="darkorange">明日は今日より夢に</font>【一年生、二年生】近いはずだよ</p>
 
 <p><font color="purple">ひとりひとりは違っていても<br />
 同じだったよ いまこの時を<br />
@@ -32,7 +32,7 @@ layout: post
 
 <p><font color="deepskyblue">会いたくなるんだ</font> 【三年生】わかってる<br />
 <font color="darkorange">みんなを</font><font color="pink">呼びたいよ</font> <font color="magenta">いつでも</font><br />
-<font color="gold">聞こえるよ <font color="silver">この歌が<br />
+<font color="gold">聞こえるよ</font> <font color="silver">この歌が</font><br />
 【三年生】まだ走れるね<br />
 【9人】一緒に行こう</p>
 
