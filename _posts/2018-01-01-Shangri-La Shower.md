@@ -8,10 +8,10 @@ layout: post
 Shangri-La from stage,on stage!</p>
 
 <p>【P】君の心がわかる もうとめられない今がすべて<br />
-　　   羽が生えたような自由をずっと求めてた<br />
+　　&nbsp;&nbsp;&nbsp;羽が生えたような自由をずっと求めてた<br />
 【B】私の胸が騒ぐ 鼓動とっくにピークを越えてる<br />
-　　   だからもっとね楽しもうよ<br />
-　　   Shangri-La Shower</p>
+　　&nbsp;&nbsp;&nbsp;だからもっとね楽しもうよ<br />
+　　&nbsp;&nbsp;&nbsp;Shangri-La Shower</p>
 
 <p><font color="purple">夏はみんなの熱気でじりじり</font><br />
 <font color="gold">声が大胆なファンファーレ奏でる</font><br />
@@ -31,10 +31,10 @@ Say yes,Come on!!</p>
 Shangri-La on stage!【B】(Shangri-La from stage,on stage!)</p>
 
 <p>【L】君の激しさ届く そうつながりたい今のすべて<br />
-　　   見つめ合った瞬間 熱い歌が鳴り響く<br />
+　　&nbsp;&nbsp;見つめ合った瞬間 熱い歌が鳴り響く<br />
 【P】私の中の星は 強い願望何でも叶える<br />
-　　   不思議パワーで盛りあがれ<br />
-　　   Shangri-La Shower</p>
+　　&nbsp;&nbsp;&nbsp;不思議パワーで盛りあがれ<br />
+　　&nbsp;&nbsp;&nbsp;Shangri-La Shower</p>
 
 <p><font color="red">夏はみんなと一緒にわくわく</font><br />
 <font color="hotpink">誰も明日のことは知らない</font><br />
