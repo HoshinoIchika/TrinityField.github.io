@@ -5,7 +5,7 @@ layout: post
 歌：μ's
 
 <p>【Smile】探すんだ夢のエリア<br />
-　　　　  笑いながらきみも走ってた<br />
+　　　　&nbsp;&nbsp;笑いながらきみも走ってた<br />
 【Pure】汗を拭いてあげようか<br />
 　　　　遠慮してもタオルを投げて</p>
 
@@ -29,7 +29,7 @@ Dreamin' Sensation!</p>
 　　　　ちっぽけな自分にさよなら</p>
 
 <p>【Smile】いつまでもずっと本気出してくよ<br />
-　　　　  手加減知らない性格さ</p>
+　　　　&nbsp;&nbsp;手加減知らない性格さ</p>
 
 <p>【9人】負けない Go!(Go!) Go!!(Go!!)<br />
 未来を捕まえたくて<br />
@@ -43,7 +43,7 @@ Smilin' 君なら<br />
 Smilin' わかるね</p>
 
 <p>【Smile】負けない Go! Go!!<br />
-　　　　  未来を捕まえたくて<br />
+　　　　&nbsp;&nbsp;未来を捕まえたくて<br />
 【Pure】Go! Go!!<br />
 　　　　勢いよく進むんだよ</p>
 

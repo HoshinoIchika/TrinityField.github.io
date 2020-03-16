@@ -34,8 +34,8 @@ layout: post
 【9人】もっと元気に I love you!</p>
 
 <p>【Smile】Don't worry,don't worry<br />
-　　　　  ときどき 素敵が見たい<br />
-　　　　  明日からの ときめきが欲しいね<br />
+　　　　&nbsp;&nbsp;ときどき 素敵が見たい<br />
+　　　　&nbsp;&nbsp;明日からの ときめきが欲しいね<br />
 【Pure】(Searchin' Searchin' heart!)<br />
 【Cool】Don't worry,don't worry<br />
 　　　　まだまだ 高まるちから【Pure】(ちからは)<br />
