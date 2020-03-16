@@ -4,6 +4,8 @@ layout: post
 ---
 歌：Saint Aqours Snow
 
+<p><font color="saddlebrown">//Saint Aqours Snow的曲目中，若无特殊说明，“一年生”包含<font color="indianred">鹿角理亚</font>，“三年生”包含<font color="blue">鹿角圣良</font></font></p>
+
 <p><font color="indianred">始まるときは 終わりのことなど<br />
 考えてないからずっと</font><br />
 <font color="magenta">続く気がして 前だけ見つめて<br />
@@ -24,12 +26,12 @@ Are you ready?</font> 【以上2人】Let's go!!</p>
 <font color="darkorange">自分のなか</font><font color="indianred">(Go!)</font><font color="blue">目覚めるのは</font><font color="indianred">(Go!)</font><br />
 【<font color="darkorange">千歌</font>&<font color="blue">圣良</font>】新しい<font color="indianred">(my power)</font>【除理亚外10人】チカラ<font color="indianred">(new power yeah!)</font></p>
 
-<p>【其余7人】セカイはきっと【一年生&<font color="indianred">理亚</font>】&nbsp;&nbsp;(Hi! Hi! Hi!)<br />
-　　　　　&nbsp;&nbsp;&nbsp;知らないパワーで　　　　　　　(Hi! Hi! Hi!)<br />
+<p>【其余7人】セカイはきっと【一年生】(Hi! Hi! Hi!)<br />
+　　　　　&nbsp;&nbsp;&nbsp;知らないパワーで　　　　(Hi! Hi! Hi!)<br />
 【11人】輝いてる だからいつまでも<br />
 ユメの途中<br />
-【其余7人】セカイはきっと【一年生&<font color="indianred">理亚</font>】&nbsp;&nbsp;(Hi! Hi! Hi!)<br />
-　　　　　&nbsp;&nbsp;&nbsp;知らないパワーで　　　　　　　(Hi! Hi! Hi!)<br />
+【其余7人】セカイはきっと【一年生】(Hi! Hi! Hi!)<br />
+　　　　　&nbsp;&nbsp;&nbsp;知らないパワーで　　　　(Hi! Hi! Hi!)<br />
 【11人】輝いてる なにを選ぶか<br />
 自分次第さ<br />
 【二年生】Wake up my new power<br />
@@ -53,12 +55,12 @@ Hi! Hi! Hi! Fighting fighting!!</p>
 【<font color="darkorange">千歌</font>&<font color="blue">圣良</font>】ミライを<font color="indianred">(my power)</font>【除理亚外10人】変えたい<font color="indianred">(new power)</font><br />
 <font color="indianred">(Fighting fighting! new power yeah!)</font></p>
 
-<p>【其余7人】セカイはきっと【一年生&<font color="indianred">理亚</font>】&nbsp;&nbsp;(Hi! Hi! Hi!)<br />
-　　　　　&nbsp;&nbsp;&nbsp;知らないパワーで　　　　　　　(Hi! Hi! Hi!)<br />
+<p>【其余7人】セカイはきっと【一年生】(Hi! Hi! Hi!)<br />
+　　　　　&nbsp;&nbsp;&nbsp;知らないパワーで　　　　(Hi! Hi! Hi!)<br />
 【11人】輝いてる だからいつまでも<br />
 ユメの途中<br />
-【其余7人】セカイはきっと【一年生&<font color="indianred">理亚</font>】&nbsp;&nbsp;(Hi! Hi! Hi!)<br />
-　　　　　&nbsp;&nbsp;&nbsp;知らないパワーで　　　　　　　(Hi! Hi! Hi!)<br />
+【其余7人】セカイはきっと【一年生】(Hi! Hi! Hi!)<br />
+　　　　　&nbsp;&nbsp;&nbsp;知らないパワーで　　　　(Hi! Hi! Hi!)<br />
 【11人】輝いてる なにを選ぶか<br />
 自分次第さ<br />
 【二年生】Wake up my new power<br />
