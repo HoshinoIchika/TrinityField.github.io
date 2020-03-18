@@ -4,7 +4,7 @@ layout: post
 ---
 歌：Saint Aqours Snow
 
-<p><font color="saddlebrown">//Saint Aqours Snow的曲目中，若无特殊说明，“一年生”包含<font color="indianred">鹿角理亚</font>，“三年生”包含<font color="blue">鹿角圣良</font></font></p>
+<p><font color="saddlebrown">//Saint Aqours Snow的曲目中，若无特殊说明，“一年生”均包含<font color="indianred">鹿角理亚</font>，“三年生”均包含<font color="blue">鹿角圣良</font></font></p>
 
 <p><font color="indianred">始まるときは 終わりのことなど<br />
 考えてないからずっと</font><br />
