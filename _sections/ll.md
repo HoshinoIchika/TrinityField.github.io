@@ -6,7 +6,7 @@ order: 2
 
 |第一章 序号单曲|
 |-|
-|<a href="2018/04/10/僕らのLIVE-君とのLIFE.html">僕らのLIVE 君とのLIFE</a> · <a href="2018/04/09/友情ノーチェンジ.html">友情ノーチェンジ</a>|
+|[僕らのLIVE 君とのLIFE](2018/04/10/僕らのLIVE-君とのLIFE.html) · <a href="2018/04/09/友情ノーチェンジ.html">友情ノーチェンジ</a>|
 |<a href="2018/04/08/Snow-halation.html">Snow halation</a> · <a href="2018/04/07/baby-maybe-恋のボタン.html">baby maybe 恋のボタン</a>|
 |<a href="2018/04/06/夏色えがおで-1,2,Jump!.html">夏色えがおで 1,2,Jump!</a> · <a href="2018/04/05/Mermaid-Festa-vol.1.html">Mermaid Festa vol.1</a>|
 |<a href="2018/04/04/もぎゅっと-love-で接近中.html">もぎゅっと“love”で接近中！</a> · <a href="2018/04/03/愛してるばんざーい.html">愛してるばんざーい！</a>|
