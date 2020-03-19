@@ -6,16 +6,16 @@ order: 4
 
 |封面|
 |-|
-|<a href="2017/10/04/お願い-シンデレラ.html">お願い！シンデレラ</a>|
+|[お願い！シンデレラ](2017/10/04/お願い-シンデレラ.html)|
 
 |第一章 总选曲|
 |-|
 |第2期：輝く世界の魔法|
-|第3期：<a href="2017/10/02/We're-the-friends!.html">We're the friends!</a> · <a href="2017/10/01/メッセージ.html">メッセージ</a>|
+|第3期：[We're the friends!](2017/10/02/We're-the-friends!.html) · [メッセージ](2017/10/01/メッセージ.html)|
 |第4期：Absolute NIne · つぼみ|
 |第5期：Take me☆Take you · キミのそばでずっと|
-|第6期：<a href="2017/09/26/恋が咲く季節.html">恋が咲く季節</a> · always · Tulip(SP ver.)|
-|第7期：Trust me · <a href="2017/09/22/君への詩.html">君への詩</a>|
+|第6期：[恋が咲く季節](2017/09/26/恋が咲く季節.html) · always · Tulip(SP ver.)|
+|第7期：Trust me · [君への詩](2017/09/22/君への詩.html)|
 |第8期：夢をのぞいたら · Sun! High! Gold!|
 
 |第二章 Jewelries系列|
@@ -40,7 +40,7 @@ order: 4
 |第四章 Starlight系列|
 |-|
 |2016上半年：Snow Wings · Tulip · ハイファイ☆デイズ|
-|2016下半年：<a href="2017/09/19/生存本能ヴァルキュリア.html">生存本能ヴァルキュリア</a> · 純情Midnight伝説 · Love∞Destiny · サマカニ！！|
+|2016下半年：[生存本能ヴァルキュリア](2017/09/19/生存本能ヴァルキュリア.html) · 純情Midnight伝説 · Love∞Destiny · サマカニ！！|
 |2017 Q1：BEYOND THE STARLIGHT · ラブレター|
 |2017 Q2：Jet to the Future · Flip Flop(Event ver.) · あんきら！？狂騒曲 · あいくるしい(Event ver.)|
 |2017 Q3：命燃やして恋せよ乙女 · Lunatic Show(Event ver.) · Sweet Witches' Night ~6人目はだぁれ~ · shabon song(Event ver.)|
@@ -54,7 +54,7 @@ order: 4
 |2019 Q3：ガールズ·イン·ザ·フロンティア · 青空エール · Pretty Liar · Stage bye Stage(Grand ver.) · アンデッド·ダンスロック|
 |2019 Q4：Starry-Go-Round · 無重力シャトル · Sunshine See May|
 |2020 Q1：Palette|
-|尚未发售：ドレミファクトリー！ · 義勇忍侠花吹雪 · Needle Light · Fascinate · O-Ku-Ri-Mo-No Sunday! · バベル · ミラーボールラブ|
+|尚未发售：ドレミファクトリー！ · 義勇忍侠花吹雪 · Needle Light · Fascinate · O-Ku-Ri-Mo-No Sunday! · バベル|
 
 |第五章 Next系列|
 |-|
@@ -82,10 +82,11 @@ order: 4
 
 |第八章 其他|
 |-|
-|<a href="2017/09/18/EVERMORE.html">EVERMORE</a> · ススメ☆オトメ ~jewel parade~(15人ver.) · ゴキゲンParty Night(15人ver.) · Near to You(15人ver.)|
+|[EVERMORE](2017/09/18/EVERMORE.html) · ススメ☆オトメ ~jewel parade~(15人ver.) · ゴキゲンParty Night(15人ver.) · Near to You(15人ver.)|
 |Yes! Party Time!!|
 |イリュージョニスタ！ · Yes! Party Time!!(Event ver.)|
 |Treasure☆ · エンジェル ドリーム ~CINDERELLA GIRLS COLLABORATION MIX~|
 |Stage bye Stage|
 |オウムアムアに幸運を|
 |不埒なCANVAS · 印象 · comic cosmic|
+|躍るFLAGSHIP · Athanasia · ミラーボール·ラブ|

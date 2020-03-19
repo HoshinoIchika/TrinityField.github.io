@@ -6,63 +6,63 @@ order: 3
 
 |第一章 序号单曲|
 |-|
-|<a href="2017/12/16/君のこころは輝いてるかい.html">君のこころは輝いてるかい？</a> · <a href="2017/12/15/Step!-ZERO-to-ONE.html">Step! ZERO to ONE</a> · <a href="2017/12/14/Aqours-HEROES.html">Aqours☆HEROES</a>|
-|<a href="2017/12/13/恋になりたいAQUARIUM.html">恋になりたいAQUARIUM</a> · <a href="2017/12/12/待ってて愛のうた.html">待ってて愛のうた</a> · 届かない星だとしても|
-|<a href="2017/12/10/HAPPY-PARTY-TRAIN.html">HAPPY PARTY TRAIN</a> · <a href="2017/12/09/SKY-JOURNEY.html">SKY JOURNEY</a> · <a href="2017/12/08/少女以上の恋がしたい.html">少女以上の恋がしたい</a>|
-|<a href="2017/09/15/未体験HORIZON.html">未体験HORIZON</a> · Deep Resonance · Dance with Minotaurus|
+|[君のこころは輝いてるかい？](2017/12/16/君のこころは輝いてるかい.html) · [Step! ZERO to ONE](2017/12/15/Step!-ZERO-to-ONE.html) · [Aqours☆HEROES](2017/12/14/Aqours-HEROES.html)|
+|[恋になりたいAQUARIUM](2017/12/13/恋になりたいAQUARIUM.html) · [待ってて愛のうた](2017/12/12/待ってて愛のうた.html) · 届かない星だとしても|
+|[HAPPY PARTY TRAIN](2017/12/10/HAPPY-PARTY-TRAIN.html) · [SKY JOURNEY](2017/12/09/SKY-JOURNEY.html) · [少女以上の恋がしたい](2017/12/08/少女以上の恋がしたい.html)|
+|[未体験HORIZON](2017/09/15/未体験HORIZON.html) · Deep Resonance · Dance with Minotaurus|
 
 |第二章 小队曲|
 |-|
 |上篇：CYaRon!|
-|<a href="2017/12/07/元気全開DAY!DAY!DAY!.html">元気全開DAY!DAY!DAY!</a> · <a href="2017/12/06/夜空はなんでも知ってるの.html">夜空はなんでも知ってるの？</a>|
-|<a href="2017/12/05/近未来ハッピーエンド.html">近未来ハッピーエンド</a> · <a href="2017/12/04/海岸通りで待ってるよ.html">海岸通りで待ってるよ</a>|
+|[元気全開DAY!DAY!DAY!](2017/12/07/元気全開DAY!DAY!DAY!.html) · [夜空はなんでも知ってるの？](2017/12/06/夜空はなんでも知ってるの.html)|
+|[近未来ハッピーエンド](2017/12/05/近未来ハッピーエンド.html) · [海岸通りで待ってるよ](2017/12/04/海岸通りで待ってるよ.html)|
 |Braveheart Coaster · CHANGELESS · コドク·テレポート|
 |中篇：AZALEA|
-|<a href="2017/12/03/トリコリコPLEASE!!.html">トリコリコPLEASE!!</a> · <a href="2017/12/02/ときめき分類学.html">ときめき分類学</a>|
-|<a href="2017/12/01/GALAXY-HidE-and-SeeK.html">GALAXY HidE and SeeK</a> · <a href="2017/11/30/INNOCENT-BIRD.html">INNOCENT BIRD</a>|
+|[トリコリコPLEASE!!](2017/12/03/トリコリコPLEASE!!.html) · [ときめき分類学](2017/12/02/ときめき分類学.html)|
+|[GALAXY HidE and SeeK](2017/12/01/GALAXY-HidE-and-SeeK.html) · [INNOCENT BIRD](2017/11/30/INNOCENT-BIRD.html)|
 |Amazing Travel DNA · 空中恋愛論 · メイズセカイ|
 |下篇：Guilty Kiss|
-|<a href="2017/11/29/Strawberry-Trapper.html">Strawberry Trapper</a> · <a href="2017/11/28/Guilty-Night,-Guilty-Kiss!.html">Guilty Night, Guilty Kiss!</a>|
-|<a href="2017/11/27/コワレヤスキ.html">コワレヤスキ</a> · <a href="2017/11/26/Shadow-gate-to-love.html">Shadow gate to love</a>|
+|[Strawberry Trapper](2017/11/29/Strawberry-Trapper.html) · [Guilty Night, Guilty Kiss!](2017/11/28/Guilty-Night,-Guilty-Kiss!.html)|
+|[コワレヤスキ](2017/11/27/コワレヤスキ.html) · [Shadow gate to love](2017/11/26/Shadow-gate-to-love.html)|
 |New Romantic Sailors · Love Pulsar · Phantom Rocket Adventure|
 
 |第三章 TV动画相关|
 |-|
 |上篇：第一季|
-|<a href="2017/11/25/青空Jumping-Heart.html">青空Jumping Heart</a> · <a href="2017/11/24/ハミングフレンド.html">ハミングフレンド</a>|
-|<a href="2017/11/23/ユメ語るよりユメ歌おう.html">ユメ語るよりユメ歌おう</a> · <a href="2017/11/22/サンシャインぴっかぴか音頭.html">サンシャインぴっかぴか音頭</a>|
-|<a href="2017/11/21/決めたよHand-In-Hand.html">決めたよHand In Hand</a> · <a href="2017/11/20/ダイスキだったらダイジョウブ.html">ダイスキだったらダイジョウブ！</a>|
-|<a href="2017/11/19/夢で夜空を照らしたい.html">夢で夜空を照らしたい</a> · <a href="2017/11/18/未熟DREAMER.html">未熟DREAMER</a>|
-|想いよひとつになれ · <a href="2017/11/16/MIRAI-TICKET.html">MIRAI TICKET</a>|
+|[青空Jumping Heart](2017/11/25/青空Jumping-Heart.html) · [ハミングフレンド](2017/11/24/ハミングフレンド.html)|
+|[ユメ語るよりユメ歌おう](2017/11/23/ユメ語るよりユメ歌おう.html) · [サンシャインぴっかぴか音頭](2017/11/22/サンシャインぴっかぴか音頭.html)|
+|[決めたよHand In Hand](2017/11/21/決めたよHand-In-Hand.html) · [ダイスキだったらダイジョウブ！](2017/11/20/ダイスキだったらダイジョウブ.html)|
+|[夢で夜空を照らしたい](2017/11/19/夢で夜空を照らしたい.html) · [未熟DREAMER](2017/11/18/未熟DREAMER.html)|
+|想いよひとつになれ · [MIRAI TICKET](2017/11/16/MIRAI-TICKET.html)|
 |下篇：第二季|
-|<a href="2017/11/15/未来の僕らは知ってるよ.html">未来の僕らは知ってるよ</a> · <a href="2017/11/14/君の瞳を巡る冒険.html">君の瞳を巡る冒険</a>|
-|勇気はどこに？君の胸に！ · <a href="2017/11/12/MY-LIST-to-you!.html">“MY LIST” to you!</a>|
-|<a href="2017/11/11/MY舞-TONIGHT.html">MY舞☆TONIGHT</a> · <a href="2017/11/10/MIRACLE-WAVE.html">MIRACLE WAVE</a>|
-|<a href="2017/11/09/Awaken-the-power.html">Awaken the power</a>|
-|<a href="2017/11/08/WATER-BLUE-NEW-WORLD.html">WATER BLUE NEW WORLD</a> · WONDERFUL STORIES|
+|[未来の僕らは知ってるよ](2017/11/15/未来の僕らは知ってるよ.html) · [君の瞳を巡る冒険](2017/11/14/君の瞳を巡る冒険.html)|
+|勇気はどこに？君の胸に！ · [“MY LIST” to you!](2017/11/12/MY-LIST-to-you!.html)|
+|[MY舞☆TONIGHT](2017/11/11/MY舞-TONIGHT.html) · [MIRACLE WAVE](2017/11/10/MIRACLE-WAVE.html)|
+|[Awaken the power](2017/11/09/Awaken-the-power.html)|
+|[WATER BLUE NEW WORLD](2017/11/08/WATER-BLUE-NEW-WORLD.html) · WONDERFUL STORIES|
 
 |第四章 动画BD特典|
 |-|
-|Pops heartで踊るんだもん！ · <a href="2017/11/05/空も心も晴れるから.html">空も心も晴れるから</a> · Waku-Waku-Week! · <a href="2017/11/02/Daydream-Warrior.html">Daydream Warrior</a> · <a href="2017/11/01/G線上のシンデレラ.html">G線上のシンデレラ</a> · <a href="2017/10/31/スリリング-ワンウェイ.html">スリリング·ワンウェイ</a> · 太陽を追いかけろ！|
-|<a href="2017/10/29/P.S.の向こう側.html">P.S.の向こう側</a> · <a href="2017/10/28/LONELY-TUNING.html">LONELY TUNING</a> · <a href="2017/10/27/Guilty-Eyes-Fever.html">Guilty Eyes Fever</a>|
-|<a href="2017/10/26/One-More-Sunshine-Story.html">One More Sunshine Story</a> · <a href="2017/10/25/おやすみなさん.html">おやすみなさん！</a> · <a href="2017/10/24/in-this-unstable-world.html">in this unstable world</a> · <a href="2017/10/23/Pianoforte-Monologue.html">Pianoforte Monologue</a> · <a href="2017/10/22/Beginner's-Sailing.html">Beginner's Sailing</a> · <a href="2017/10/21/RED-GEM-WINK.html">RED GEM WINK</a> · <a href="2017/10/20/WHITE-FIRST-LOVE.html">WHITE FIRST LOVE</a> · <a href="2017/10/19/New-winding-road.html">New winding road</a> · <a href="2017/10/18/さかなかなんだか.html">さかなかなんだか?</a> · キセキヒカル|
+|Pops heartで踊るんだもん！ · [空も心も晴れるから](2017/11/05/空も心も晴れるから.html) · Waku-Waku-Week! · [Daydream Warrior](2017/11/02/Daydream-Warrior.html) · [G線上のシンデレラ](2017/11/01/G線上のシンデレラ.html) · [スリリング·ワンウェイ](2017/10/31/スリリング-ワンウェイ.html) · 太陽を追いかけろ！|
+|[P.S.の向こう側](2017/10/29/P.S.の向こう側.html) · [LONELY TUNING](2017/10/28/LONELY-TUNING.html) · [Guilty Eyes Fever](2017/10/27/Guilty-Eyes-Fever.html)|
+|[One More Sunshine Story](2017/10/26/One-More-Sunshine-Story.html) · [おやすみなさん！](2017/10/25/おやすみなさん.html) · [in this unstable world](2017/10/24/in-this-unstable-world.html) · [Pianoforte Monologue](2017/10/23/Pianoforte-Monologue.html) · [Beginner's Sailing](2017/10/22/Beginner's-Sailing.html) · [RED GEM WINK](2017/10/21/RED-GEM-WINK.html) · [WHITE FIRST LOVE](2017/10/20/WHITE-FIRST-LOVE.html) · [New winding road](2017/10/19/New-winding-road.html) · [さかなかなんだか?](2017/10/18/さかなかなんだか.html) · キセキヒカル|
 |サクラバイバイ · 卒業ですね · Guilty!? Farewell party|
 
 |第五章 2人/3人组合曲|
 |-|
-|夏への扉 Never end ver. · <a href="2017/10/12/真夏は誰のモノ.html">真夏は誰のモノ？</a> · <a href="2017/10/11/地元愛-満タン-サマーライフ.html">地元愛♡満タン☆サマーライフ</a> · <a href="2017/10/10/夏の終わりの雨音が.html">夏の終わりの雨音が</a>|
+|夏への扉 Never end ver. · [真夏は誰のモノ？](2017/10/12/真夏は誰のモノ.html) · [地元愛♡満タン☆サマーライフ](2017/10/11/地元愛-満タン-サマーライフ.html) · [夏の終わりの雨音が](2017/10/10/夏の終わりの雨音が.html)|
 
 |第六章 剧场版相关|
 |-|
-|<a href="2017/09/13/僕らの走ってきた道は.html">僕らの走ってきた道は…</a> · <a href="2017/09/14/Next-SPARKLING!!.html">Next SPARKLING!!</a>|
-|<a href="2017/09/12/逃走迷走メビウスループ.html">逃走迷走メビウスループ</a> · <a href="2017/09/11/Hop-Stop-Nonstop!.html">Hop? Stop? Nonstop!</a>|
-|Believe again · <a href="2017/09/10/Brightest-Melody.html">Brightest Melody</a> · <a href="2017/09/09/Over-The-Next-Rainbow.html">Over The Next Rainbow</a>|
-|<a href="2017/09/08/Marine-Border-Parasol.html">Marine Border Parasol</a> · <a href="2017/09/07/ハジマリロード.html">ハジマリロード</a> · <a href="2017/09/06/予測不可能Driving!.html">予測不可能Driving!</a>|
+|[僕らの走ってきた道は…](2017/09/13/僕らの走ってきた道は.html) · [Next SPARKLING!!](2017/09/14/Next-SPARKLING!!.html)|
+|[逃走迷走メビウスループ](2017/09/12/逃走迷走メビウスループ.html) · [Hop? Stop? Nonstop!](2017/09/11/Hop-Stop-Nonstop!.html)|
+|Believe again · [Brightest Melody](2017/09/10/Brightest-Melody.html) · [Over The Next Rainbow](2017/09/09/Over-The-Next-Rainbow.html)|
+|[Marine Border Parasol](2017/09/08/Marine-Border-Parasol.html) · [ハジマリロード](2017/09/07/ハジマリロード.html) · [予測不可能Driving!](2017/09/06/予測不可能Driving!.html)|
 |i-n-g, I TRY!!|
 
 |第七章 其他|
 |-|
-|<a href="2017/09/16/ジングルベルがとまらない.html">ジングルベルがとまらない</a> · 聖なる日の祈り|
-|<a href="2017/10/07/Landing-action-Yeah!!.html">Landing action Yeah!!</a> · ホップ·ステップ·ワーイ！ · Jump up HIGH!!|
+|[ジングルベルがとまらない](2017/09/16/ジングルベルがとまらない.html) · 聖なる日の祈り|
+|[Landing action Yeah!!](2017/10/07/Landing-action-Yeah!!.html) · ホップ·ステップ·ワーイ！ · Jump up HIGH!!|
 |KOKORO Magic “A to Z” · Wake up, Challenger!!|
 |Thank you, FRIENDS!! · No.10|
