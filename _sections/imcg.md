@@ -53,8 +53,8 @@ order: 4
 |2019 Q2：凸凹スピードスター · キミとボクのミライ · クレイジークレイジー|
 |2019 Q3：ガールズ·イン·ザ·フロンティア · 青空エール · Pretty Liar · Stage bye Stage(Grand ver.) · アンデッド·ダンスロック|
 |2019 Q4：Starry-Go-Round · 無重力シャトル · Sunshine See May|
-|2020 Q1：Palette|
-|尚未发售：ドレミファクトリー！ · 義勇忍侠花吹雪 · Needle Light · Fascinate · O-Ku-Ri-Mo-No Sunday! · バベル|
+|2020 Q1：Palette · 義勇忍侠花吹雪 · Needle Light|
+|尚未发售：Fascinate · O-Ku-Ri-Mo-No Sunday! · バベル|
 
 |第五章 Next系列|
 |-|
@@ -86,6 +86,7 @@ order: 4
 |Yes! Party Time!!|
 |イリュージョニスタ！ · Yes! Party Time!!(Event ver.)|
 |Treasure☆ · エンジェル ドリーム ~CINDERELLA GIRLS COLLABORATION MIX~|
+|ドレミファクトリー！|
 |Stage bye Stage|
 |オウムアムアに幸運を|
 |不埒なCANVAS · 印象 · comic cosmic|
