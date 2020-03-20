@@ -1,5 +1,5 @@
 ---
-title: 偶像大师 灰姑娘女孩（173+曲）
+title: 偶像大师 灰姑娘女孩（182+曲）
 icon: fa-th
 order: 4
 ---
@@ -59,7 +59,8 @@ order: 4
 |第五章 Next系列|
 |-|
 |2019 Q4：TRUE COLORS · ステップ&スキップ · Gossip Club · Secret Daybreak|
-|2020 Q1：ギュっとMilky Way|
+|2020 Q1：ギュっとMilky Way · 幸せの法則 ~ルール~（3月25日发售）|
+|尚未发售：Unlock Starbeat · Gaze and Gaze|
 
 |第五章 动画曲|
 |-|
@@ -78,7 +79,7 @@ order: 4
 
 |第七章 翻唱曲|
 |-|
-|夏色 · サヨナラバス · LOVE & PEACH · HOT LIMIT · 行くぜっ!怪盗少女 · 友達の唄 · 虹 · ツバサ · LIFE · Hello Especally · 全力☆Summer! · COLORS · モザイクカケラ · O2 · Revive|
+|夏色 · サヨナラバス · LOVE & PEACH · HOT LIMIT · 行くぜっ!怪盗少女 · 友達の唄 · 虹 · ツバサ · LIFE · Hello Especally · 全力☆Summer! · COLORS · モザイクカケラ · O2 · Revive · タッタ · RAGE OF DUST|
 
 |第八章 其他|
 |-|
