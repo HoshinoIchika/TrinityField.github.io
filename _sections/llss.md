@@ -36,10 +36,10 @@ order: 3
 |想いよひとつになれ · [MIRAI TICKET](2017/11/16/MIRAI-TICKET.html)|
 |下篇：第二季|
 |[未来の僕らは知ってるよ](2017/11/15/未来の僕らは知ってるよ.html) · [君の瞳を巡る冒険](2017/11/14/君の瞳を巡る冒険.html)|
-|勇気はどこに？君の胸に！ · [“MY LIST” to you!](2017/11/12/MY-LIST-to-you!.html)|
+|[勇気はどこに？君の胸に！](2017/11/13/勇気はどこに-君の胸に.html) · [“MY LIST” to you!](2017/11/12/MY-LIST-to-you!.html)|
 |[MY舞☆TONIGHT](2017/11/11/MY舞-TONIGHT.html) · [MIRACLE WAVE](2017/11/10/MIRACLE-WAVE.html)|
 |[Awaken the power](2017/11/09/Awaken-the-power.html)|
-|[WATER BLUE NEW WORLD](2017/11/08/WATER-BLUE-NEW-WORLD.html) · WONDERFUL STORIES|
+|[WATER BLUE NEW WORLD](2017/11/08/WATER-BLUE-NEW-WORLD.html) · [WONDERFUL STORIES](2017/11/07/WONDERFUL-STORIES.html)|
 
 |第四章 动画BD特典|
 |-|
