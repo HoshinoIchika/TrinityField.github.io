@@ -51,7 +51,7 @@ layout: post
 あたらしい夢を呼んでるんだ<br />
 遠くでまた会おうよいつか</p>
 
-<p>//这一部分，未标注演唱者的均为其余所有人<br />
+<p><font color="saddlebrown">//这一部分，未标注演唱者的均为其余所有人</font><br />
 <font color="darkorange">青い鳥</font>(探してた)<br />
 <font color="darkorange">見つけたんだ</font>(でも)<br />
 <font color="darkorange">カゴにはね</font>(入れないで)<br />
