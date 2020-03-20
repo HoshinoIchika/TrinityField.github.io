@@ -78,7 +78,7 @@ order: 4
 
 |第七章 翻唱曲|
 |-|
-|夏色 · サヨナラバス · LOVE & PEACH · HOT LIMIT · 行くぜっ!怪盗少女 · 友達の唄 · 虹 · ツバサ · LIFE · Hello Especally · 全力☆Summer!|
+|夏色 · サヨナラバス · LOVE & PEACH · HOT LIMIT · 行くぜっ!怪盗少女 · 友達の唄 · 虹 · ツバサ · LIFE · Hello Especally · 全力☆Summer! · COLORS · モザイクカケラ · O2 · Revive|
 
 |第八章 其他|
 |-|
