@@ -4,7 +4,7 @@ icon: fa-th
 order: 3
 ---
 
-|第一章 序号单曲|
+|第一章 单曲|
 |-|
 |[君のこころは輝いてるかい？](2017/12/16/君のこころは輝いてるかい.html) · [Step! ZERO to ONE](2017/12/15/Step!-ZERO-to-ONE.html) · [Aqours☆HEROES](2017/12/14/Aqours-HEROES.html)|
 |[恋になりたいAQUARIUM](2017/12/13/恋になりたいAQUARIUM.html) · [待ってて愛のうた](2017/12/12/待ってて愛のうた.html) · 届かない星だとしても|

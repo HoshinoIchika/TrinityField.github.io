@@ -4,7 +4,7 @@ icon: fa-th
 order: 2
 ---
 
-|第一章 序号单曲|
+|第一章 单曲|
 |-|
 |[僕らのLIVE 君とのLIFE](2018/04/10/僕らのLIVE-君とのLIFE.html) · [友情ノーチェンジ](2018/04/09/友情ノーチェンジ.html)|
 |[Snow halation](2018/04/08/Snow-halation.html) · [baby maybe 恋のボタン](2018/04/07/baby-maybe-恋のボタン.html)|
@@ -13,6 +13,7 @@ order: 2
 |[Wonderful Rush](2018/04/02/Wonderful-Rush.html) · [Oh,Love&Peace!](2018/04/01/Oh,Love&Peace!.html)|
 |[Music S.T.A.R.T!!](2018/03/31/Music-S.T.A.R.T!!.html) · [LOVELESS WORLD](2018/03/30/LOVELESS-WORLD.html)|
 |[MOMENT RING](2018/03/29/MOMENT-RING.html) · [さようならへさよなら！](2018/03/28/さようならへさよなら.html)|
+|A song for You! You? You!! · なってしまった！|
 
 |第二章 小队曲|
 |-|
