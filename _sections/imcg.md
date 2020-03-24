@@ -60,7 +60,7 @@ order: 4
 |-|
 |2019 Q4：TRUE COLORS · ステップ&スキップ · Gossip Club · Secret Daybreak|
 |2020 Q1：ギュっとMilky Way · 幸せの法則 ~ルール~（3月25日发售）|
-|尚未发售：Unlock Starbeat · Gaze and Gaze|
+|尚未发售：Unlock Starbeat · Gaze and Gaze · 輝け！ビートシューター|
 
 |第五章 动画曲|
 |-|
