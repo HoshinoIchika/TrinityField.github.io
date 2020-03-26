@@ -48,7 +48,7 @@ layout: post
 
 <p>【二年生】出会い(出会い) 【<font color="hotpink">妮</font><font color="red">姬</font>】すてきな(すてきな)<br />
 【<font color="cyan">绘</font><font color="purple">希</font>】偶然かい? 【<font color="lime">花</font><font color="gold">凛</font>】必然? 【<font color="hotpink">妮</font><font color="red">姬</font>】いや当然かも(当然さ)<br />
-【<font color="cyan">绘</font><font color="purple">希</font>】熱いセカイ 【<font color="lime">花</font><font color="gold">凛</font>】未確定ミライ(やっほー) <font color="saddlebrown">//这部分我尽力了，我只能说尽量保证准确，但我也无法做到100%的确信；括号内的部分还请灵活安排，</font><br />
+【<font color="cyan">绘</font><font color="purple">希</font>】熱いセカイ 【<font color="lime">花</font><font color="gold">凛</font>】未確定ミライ(やっほー) <font color="saddlebrown">//这部分我尽力了，我只能说尽量保证准确，但我也无法做到100%的确信；括号内的部分还请灵活安排</font><br />
 【9人】楽しいね(Hi!) 楽しいね(Hi!)<br />
 また旅に出よう</p>
 
