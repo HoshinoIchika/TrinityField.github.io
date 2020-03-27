@@ -1,5 +1,5 @@
 ---
-title: μ's（全115曲）
+title: μ's（全117曲）
 icon: fa-th
 order: 2
 ---
@@ -13,7 +13,7 @@ order: 2
 |[Wonderful Rush](2018/04/02/Wonderful-Rush.html) · [Oh,Love&Peace!](2018/04/01/Oh,Love&Peace!.html)|
 |[Music S.T.A.R.T!!](2018/03/31/Music-S.T.A.R.T!!.html) · [LOVELESS WORLD](2018/03/30/LOVELESS-WORLD.html)|
 |[MOMENT RING](2018/03/29/MOMENT-RING.html) · [さようならへさよなら！](2018/03/28/さようならへさよなら.html)|
-|[A song for You! You? You!!](2017/09/05/A-song-for-You-You-You!!.html) · なってしまった！|
+|[A song for You! You? You!!](2017/09/05/A-song-for-You-You-You!!.html) · [なってしまった！](2017/09/04/なってしまった!.html)|
 
 |第二章 小队曲|
 |-|
