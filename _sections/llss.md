@@ -1,5 +1,5 @@
 ---
-title: Aqours（98曲）
+title: Aqours（99曲）
 icon: fa-th
 order: 3
 ---
