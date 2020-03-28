@@ -4,6 +4,8 @@ layout: post
 ---
 歌：μ's
 
+<p>分组速览：<font color="cyan">绘</font><font color="lime">花</font><font color="hotpink">妮</font> <font color="darkorange">果</font><font color="blue">海</font><font color="purple">希</font> <font color="silver">鸟</font><font color="gold">凛</font><font color="red">姬</font></p>
+
 <p>【<font color="darkorange">果</font><font color="blue">海</font><font color="purple">希</font>】不思議だね いまの気持ち<br />
 　　　　　空から降ってきたみたい<br />
 【<font color="cyan">绘</font><font color="lime">花</font><font color="hotpink">妮</font>】特別な季節の色が ときめきを見せるよ</p>
