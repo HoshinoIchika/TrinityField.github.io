@@ -55,6 +55,6 @@ layout: post
 
 <p><font color="deepskyblue">いつか<br />
 またいつか いつか</font><br />
-<font color="magenta">会えるからと呟いた さあ君は<br />
+<font color="magenta">会えるからと呟いた さあ君は</font><br />
 <font color="darkorange">新しい道へ</font><br />
 いつかまた会おうよ</p>
