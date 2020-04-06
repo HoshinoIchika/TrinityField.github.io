@@ -16,7 +16,7 @@ order: 3
 |上篇：CYaRon!|
 |[元気全開DAY!DAY!DAY!](2017/12/07/元気全開DAY!DAY!DAY!.html) · [夜空はなんでも知ってるの？](2017/12/06/夜空はなんでも知ってるの.html)|
 |[近未来ハッピーエンド](2017/12/05/近未来ハッピーエンド.html) · [海岸通りで待ってるよ](2017/12/04/海岸通りで待ってるよ.html)|
-|Braveheart Coaster · CHANGELESS · コドク·テレポート|
+|[Braveheart Coaster](2017/09/03/Braveheart-Coaster.html) · CHANGELESS · コドク·テレポート|
 |中篇：AZALEA|
 |[トリコリコPLEASE!!](2017/12/03/トリコリコPLEASE!!.html) · [ときめき分類学](2017/12/02/ときめき分類学.html)|
 |[GALAXY HidE and SeeK](2017/12/01/GALAXY-HidE-and-SeeK.html) · [INNOCENT BIRD](2017/11/30/INNOCENT-BIRD.html)|
@@ -43,7 +43,7 @@ order: 3
 
 |第四章 动画BD特典|
 |-|
-|Pops heartで踊るんだもん！ · [空も心も晴れるから](2017/11/05/空も心も晴れるから.html) · Waku-Waku-Week! · [Daydream Warrior](2017/11/02/Daydream-Warrior.html) · [G線上のシンデレラ](2017/11/01/G線上のシンデレラ.html) · [スリリング·ワンウェイ](2017/10/31/スリリング-ワンウェイ.html) · 太陽を追いかけろ！|
+|Pops heartで踊るんだもん！ · [空も心も晴れるから](2017/11/05/空も心も晴れるから.html) · [Waku-Waku-Week!](2017/11/04/Waku-Waku-Week!.html) · [Daydream Warrior](2017/11/02/Daydream-Warrior.html) · [G線上のシンデレラ](2017/11/01/G線上のシンデレラ.html) · [スリリング·ワンウェイ](2017/10/31/スリリング-ワンウェイ.html) · 太陽を追いかけろ！|
 |[P.S.の向こう側](2017/10/29/P.S.の向こう側.html) · [LONELY TUNING](2017/10/28/LONELY-TUNING.html) · [Guilty Eyes Fever](2017/10/27/Guilty-Eyes-Fever.html)|
 |[One More Sunshine Story](2017/10/26/One-More-Sunshine-Story.html) · [おやすみなさん！](2017/10/25/おやすみなさん.html) · [in this unstable world](2017/10/24/in-this-unstable-world.html) · [Pianoforte Monologue](2017/10/23/Pianoforte-Monologue.html) · [Beginner's Sailing](2017/10/22/Beginner's-Sailing.html) · [RED GEM WINK](2017/10/21/RED-GEM-WINK.html) · [WHITE FIRST LOVE](2017/10/20/WHITE-FIRST-LOVE.html) · [New winding road](2017/10/19/New-winding-road.html) · [さかなかなんだか?](2017/10/18/さかなかなんだか.html) · キセキヒカル|
 |サクラバイバイ · 卒業ですね · Guilty!? Farewell party|
