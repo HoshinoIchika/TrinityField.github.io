@@ -56,7 +56,7 @@ Amazing Transit 私達は<br />
 
 <p><font color="red">絶対がないセカイ<br />
 自分の“スキ”を探しに</font><br />
-<font color="gold">行きたいんですか<br />
+<font color="gold">行きたいんですか</font><br />
 <font color="limegreen">行きたいんですね</font><br />
 <font color="red">わかる</font> 私もです</p>
 

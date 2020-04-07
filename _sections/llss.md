@@ -16,11 +16,11 @@ order: 3
 |上篇：CYaRon!|
 |[元気全開DAY!DAY!DAY!](2017/12/07/元気全開DAY!DAY!DAY!.html) · [夜空はなんでも知ってるの？](2017/12/06/夜空はなんでも知ってるの.html)|
 |[近未来ハッピーエンド](2017/12/05/近未来ハッピーエンド.html) · [海岸通りで待ってるよ](2017/12/04/海岸通りで待ってるよ.html)|
-|[Braveheart Coaster](2017/09/03/Braveheart-Coaster.html) · CHANGELESS · コドク·テレポート|
+|[Braveheart Coaster](2017/09/03/Braveheart-Coaster.html) · [CHANGELESS](2017/09/02/CHANGELESS.html) · [コドク·テレポート](2017/09/01/コドク-テレポート.html)|
 |中篇：AZALEA|
 |[トリコリコPLEASE!!](2017/12/03/トリコリコPLEASE!!.html) · [ときめき分類学](2017/12/02/ときめき分類学.html)|
 |[GALAXY HidE and SeeK](2017/12/01/GALAXY-HidE-and-SeeK.html) · [INNOCENT BIRD](2017/11/30/INNOCENT-BIRD.html)|
-|Amazing Travel DNA · 空中恋愛論 · メイズセカイ|
+|[Amazing Travel DNA](2017/08/31/Amazing-Travel-DNA.html) · [空中恋愛論](2017/08/30/空中恋愛論.html) · メイズセカイ|
 |下篇：Guilty Kiss|
 |[Strawberry Trapper](2017/11/29/Strawberry-Trapper.html) · [Guilty Night, Guilty Kiss!](2017/11/28/Guilty-Night,-Guilty-Kiss!.html)|
 |[コワレヤスキ](2017/11/27/コワレヤスキ.html) · [Shadow gate to love](2017/11/26/Shadow-gate-to-love.html)|
