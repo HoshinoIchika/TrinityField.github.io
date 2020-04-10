@@ -20,11 +20,11 @@ order: 3
 |中篇：AZALEA|
 |[トリコリコPLEASE!!](2017/12/03/トリコリコPLEASE!!.html) · [ときめき分類学](2017/12/02/ときめき分類学.html)|
 |[GALAXY HidE and SeeK](2017/12/01/GALAXY-HidE-and-SeeK.html) · [INNOCENT BIRD](2017/11/30/INNOCENT-BIRD.html)|
-|[Amazing Travel DNA](2017/08/31/Amazing-Travel-DNA.html) · [空中恋愛論](2017/08/30/空中恋愛論.html) · メイズセカイ|
+|[Amazing Travel DNA](2017/08/31/Amazing-Travel-DNA.html) · [空中恋愛論](2017/08/30/空中恋愛論.html) · [メイズセカイ](2017/08/29/メイズセカイ.html)|
 |下篇：Guilty Kiss|
 |[Strawberry Trapper](2017/11/29/Strawberry-Trapper.html) · [Guilty Night, Guilty Kiss!](2017/11/28/Guilty-Night,-Guilty-Kiss!.html)|
 |[コワレヤスキ](2017/11/27/コワレヤスキ.html) · [Shadow gate to love](2017/11/26/Shadow-gate-to-love.html)|
-|New Romantic Sailors · Love Pulsar · Phantom Rocket Adventure|
+|[New Romantic Sailors](2017/08/28/New-Romantic-Sailors.html) · [Love Pulsar](2017/08/27/Love-Pulsar.html) · [Phantom Rocket Adventure](2017/08/26/Phantom-Rocket-Adventure.html)|
 
 |第三章 TV动画相关|
 |-|

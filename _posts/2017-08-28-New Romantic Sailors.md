@@ -60,7 +60,7 @@ New Romantic Sailors, Sailors!</p>
 【<font color="silver">善</font><font color="purple">鞠</font>】リリー、召喚！ <font color="pink">Yes<br />
 喰らえ、梨子ちゃんレーザービーム！</font></p>
 
-<font color="silver">Sailors</font>【<font color="pink">梨</font><font color="purple">鞠</font>】Let’s go!
+<p><font color="silver">Sailors</font>【<font color="pink">梨</font><font color="purple">鞠</font>】Let’s go!<br />
 <font color="silver">Sailors</font>　　　　Let’s go!<br />
 煌めきの彼方へ</p>
 
