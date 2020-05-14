@@ -62,9 +62,9 @@ order: 4
 |2019 Q4：TRUE COLORS · ステップ&スキップ · Gossip Club · Secret Daybreak|
 |2020 Q1：ギュっとMilky Way · 幸せの法則 ~ルール~|
 |2020 Q2：Gaze and Gaze · 輝け！ビートシューター|
-|尚未发售：Unlock Starbeat（预计可能会收录于3chord for the Rock） · Great Journey|
+|尚未发售：Unlock Starbeat（预计可能会收录于3chord for the Rock） · Great Journey · オタク is LOVE!|
 
-|第五章 动画曲|
+|第六章 动画曲|
 |-|
 |上篇：第一季|
 |ススメ☆オトメ ~jewel parade~(Cinderella Project ver.)|
@@ -75,15 +75,15 @@ order: 4
 |下篇：BD特典曲|
 |Nocturne · shabon song · あいくるしい · Lunatic Show · Flip Flop|
 
-|第六章 小剧场收录曲|
+|第七章 小剧场收录曲|
 |-|
 |キラッ！満開スマイル · エチュードは1曲だけ · SUN♡FLOWER · Blooming Days · 秋めいて Ding Dong Dang! · Snow * Love · いとしーさー♥ · なつっこ音頭 · さよならアロハ · きゅん·きゅん·まっくす · Max Beat · TAKAMARI☆CLIMAXXX!!!!!|
 
-|第七章 翻唱曲|
+|第八章 翻唱曲|
 |-|
 |夏色 · サヨナラバス · LOVE & PEACH · HOT LIMIT · 行くぜっ!怪盗少女 · 友達の唄 · 虹 · ツバサ · LIFE · Hello Especally · 全力☆Summer! · COLORS · モザイクカケラ · O2 · Revive · タッタ · RAGE OF DUST|
 
-|第八章 其他|
+|第九章 其他|
 |-|
 |[EVERMORE](2017/09/18/EVERMORE.html) · ススメ☆オトメ ~jewel parade~(15人ver.) · ゴキゲンParty Night(15人ver.) · Near to You(15人ver.)|
 |Yes! Party Time!!|
