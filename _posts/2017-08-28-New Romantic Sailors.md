@@ -77,7 +77,7 @@ New Romantic Sailors, Sailors!</p>
 <font color="pink">見慣れた街の Laser beam</font><br />
 戻らないよって囁いて<br />
 <font color="purple">肩抱いちゃおうかな</font><br />
-冒険がしたい 前例ないから<font color="purple">(Shoot~Fire!)</font> <font color="saddlebrown">//这两句喊的（以及上面的梨子laser beam）除非对自己十分有自信否则不建议尝试（笑）</font><br />
+冒険がしたい 前例ないから<font color="purple">(Shoot~Fire!)</font> <font color="saddlebrown">//这两句喊的（以及上面的梨子laser beaaaaaaaaaam）除非对自己十分有自信否则不建议尝试（笑）</font><br />
 <font color="silver">燃え上がるよ好奇心</font><br />
 だから君と 君と行きたい<br />
 白い彗星 黒い雪舞う中で踊ろう<br />
