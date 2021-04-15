@@ -1,22 +1,23 @@
 ---
-title: 偶像大师 灰姑娘女孩（182+曲）
+title: 偶像大师 灰姑娘女孩（349曲）
 icon: fa-th
 order: 4
 ---
 
 |封面|
 |-|
-|[お願い！シンデレラ](2017/10/04/お願い-シンデレラ.html)|
+|[お願い！シンデレラ](2013/04/10/お願い-シンデレラ.html)|
 
 |第一章 总选曲|
 |-|
 |第2期：輝く世界の魔法|
-|第3期：[We're the friends!](2017/10/02/We're-the-friends!.html) · [メッセージ](2017/10/01/メッセージ.html)|
+|第3期：[We're the friends!](2014/07/30/We're-the-friends!.html) · [メッセージ](2014/07/30/メッセージ.html)|
 |第4期：Absolute NIne · つぼみ|
 |第5期：Take me☆Take you · キミのそばでずっと|
-|第6期：[恋が咲く季節](2017/09/26/恋が咲く季節.html) · always · Tulip(SP ver.)|
-|第7期：Trust me · [君への詩](2017/09/22/君への詩.html)|
+|第6期：[恋が咲く季節](2017/12/13/恋が咲く季節.html) · always · Tulip(SP ver.)|
+|第7期：Trust me · [君への詩](2018/10/31/君への詩.html)|
 |第8期：夢をのぞいたら · Sun! High! Gold!|
+|第9期：Never ends · Brand new!|
 
 |第二章 Jewelries系列|
 |-|
@@ -40,7 +41,7 @@ order: 4
 |第四章 Starlight系列|
 |-|
 |2016上半年：Snow Wings · Tulip · ハイファイ☆デイズ|
-|2016下半年：[生存本能ヴァルキュリア](2017/09/19/生存本能ヴァルキュリア.html) · 純情Midnight伝説 · Love∞Destiny · サマカニ！！|
+|2016下半年：[生存本能ヴァルキュリア](2016/07/27/生存本能ヴァルキュリア.html) · 純情Midnight伝説 · Love∞Destiny · サマカニ！！|
 |2017 Q1：BEYOND THE STARLIGHT · ラブレター|
 |2017 Q2：Jet to the Future · Flip Flop(Event ver.) · あんきら！？狂騒曲 · あいくるしい(Event ver.)|
 |2017 Q3：命燃やして恋せよ乙女 · Lunatic Show(Event ver.) · Sweet Witches' Night ~6人目はだぁれ~ · shabon song(Event ver.)|
@@ -54,17 +55,23 @@ order: 4
 |2019 Q3：ガールズ·イン·ザ·フロンティア · 青空エール · Pretty Liar · Stage bye Stage(Grand ver.) · アンデッド·ダンスロック|
 |2019 Q4：Starry-Go-Round · 無重力シャトル · Sunshine See May|
 |2020 Q1：Palette · 義勇忍侠花吹雪 · Needle Light|
-|2020 Q2：Fascinate · O-Ku-Ri-Mo-No Sunday!（6月10日发售）|
-|尚未发售：バベル|
+|2020 Q2：Fascinate · O-Ku-Ri-Mo-No Sunday!|
+|2020 Q3：バベル|
 
 |第五章 Next系列|
 |-|
 |2019 Q4：TRUE COLORS · ステップ&スキップ · Gossip Club · Secret Daybreak|
 |2020 Q1：ギュっとMilky Way · 幸せの法則 ~ルール~|
 |2020 Q2：Gaze and Gaze · 輝け！ビートシューター|
-|尚未发售：Unlock Starbeat（预计可能会收录于3chord for the Rock） · Great Journey · オタク is LOVE!|
+|2020 Q3：オタク is LOVE! · ほほえみDiary|
 
-|第六章 动画曲|
+|第六章 Gold Rush系列|
+|-|
+|2020 Q3：Go Just Go!|
+|2020 Q4：太陽の絵の具箱 · Joker · ヒーローヴァーサスレイナンジョー · オレンジタイム|
+|2021 Q1：THE VILLAIN'S NIGHT|
+
+|第七章 动画曲|
 |-|
 |上篇：第一季|
 |ススメ☆オトメ ~jewel parade~(Cinderella Project ver.)|
@@ -75,22 +82,25 @@ order: 4
 |下篇：BD特典曲|
 |Nocturne · shabon song · あいくるしい · Lunatic Show · Flip Flop|
 
-|第七章 小剧场收录曲|
+|第八章 小剧场收录曲|
 |-|
-|キラッ！満開スマイル · エチュードは1曲だけ · SUN♡FLOWER · Blooming Days · 秋めいて Ding Dong Dang! · Snow * Love · いとしーさー♥ · なつっこ音頭 · さよならアロハ · きゅん·きゅん·まっくす · Max Beat · TAKAMARI☆CLIMAXXX!!!!!|
+|キラッ！満開スマイル · エチュードは1曲だけ · SUN♡FLOWER · Blooming Days · 秋めいて Ding Dong Dang! · Snow * Love · いとしーさー♥ · なつっこ音頭 · さよならアロハ · きゅん·きゅん·まっくす · Max Beat · TAKAMARI☆CLIMAXXX!!!!! · Sing the Prologue♪ · 君のステージ衣装、本当は…|
 
-|第八章 翻唱曲|
+|第九章 翻唱曲|
 |-|
 |夏色 · サヨナラバス · LOVE & PEACH · HOT LIMIT · 行くぜっ!怪盗少女 · 友達の唄 · 虹 · ツバサ · LIFE · Hello Especally · 全力☆Summer! · COLORS · モザイクカケラ · O2 · Revive · タッタ · RAGE OF DUST|
 
-|第九章 其他|
+|第十章 其他|
 |-|
-|[EVERMORE](2017/09/18/EVERMORE.html) · ススメ☆オトメ ~jewel parade~(15人ver.) · ゴキゲンParty Night(15人ver.) · Near to You(15人ver.)|
+|[EVERMORE](2017/02/08/EVERMORE.html) · ススメ☆オトメ ~jewel parade~(15人ver.) · ゴキゲンParty Night(15人ver.) · Near to You(15人ver.)|
 |Yes! Party Time!!|
 |イリュージョニスタ！ · Yes! Party Time!!(Event ver.)|
 |Treasure☆ · エンジェル ドリーム ~CINDERELLA GIRLS COLLABORATION MIX~|
 |ドレミファクトリー！|
 |Stage bye Stage|
+|青空エール|
 |オウムアムアに幸運を|
 |不埒なCANVAS · 印象 · comic cosmic|
 |躍るFLAGSHIP · Athanasia · ミラーボール·ラブ|
+|イケナイGO AHEAD · Driving My Way · Unlock Starbeat|
+|Great Journey|
