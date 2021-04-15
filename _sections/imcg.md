@@ -17,7 +17,7 @@ order: 4
 |第6期：[恋が咲く季節](2017/12/13/恋が咲く季節.html) · always · Tulip(SP ver.)|
 |第7期：Trust me · [君への詩](2018/10/31/君への詩.html)|
 |第8期：夢をのぞいたら · Sun! High! Gold!|
-|第9期：Never ends · Brand new!|
+|第9期：Never ends · [Brand new!](2020/12/02/Brand-new!.html)|
 
 |第二章 Jewelries系列|
 |-|
