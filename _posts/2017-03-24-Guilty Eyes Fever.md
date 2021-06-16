@@ -9,19 +9,19 @@ shutdown shutdown! Guilty fever<br />
 誰にもあげないの<br />
 shutdown shutdown! Guilty fever</p>
 
-<p><font color="purple">Yes/No ハッキリと決めないのね<br />
+<p><a class="mari">Yes/No ハッキリと決めないのね<br />
 笑いながら誤魔化すのは<br />
-悪いクセ 選びなよ みんな消えてしまうよ</font><br />
-【<font color="pink">梨</font><font color="silver">善</font>】(みんな みんな 消えちゃうよ)<br />
-<font color="silver">欲張りでも恥なくていい<br />
+悪いクセ 選びなよ みんな消えてしまうよ</a><br />
+【<a class="riko">梨</a><a class="yoshiko">善</a>】(みんな みんな 消えちゃうよ)<br />
+<a class="yoshiko">欲張りでも恥なくていい<br />
 嘘じゃないなら受け止めるよ<br />
-恐れずに さらけ出してよ ぶつかってきなよ</font><br />
-【<font color="pink">梨</font><font color="purple">鞠</font>】(もっと もっと 知りたいよ)</p>
+恐れずに さらけ出してよ ぶつかってきなよ</a><br />
+【<a class="riko">梨</a><a class="mari">鞠</a>】(もっと もっと 知りたいよ)</p>
 
-<p><font color="pink">ずっと狙ってた 私のGuilty Eyes<br />
-キミという人のこと 全て捕らえたい</font><br />
+<p><a class="riko">ずっと狙ってた 私のGuilty Eyes<br />
+キミという人のこと 全て捕らえたい</a><br />
 【3人】(You are my love)<br />
-<font color="purple">逃·が·さ·な·い</font></p>
+<a class="mari">逃·が·さ·な·い</a></p>
 
 <p>shutdown ふたりだけのセカイへ<br />
 他はいらないってくらい<br />
@@ -34,19 +34,19 @@ shutdown shutdown! Guilty fever<br />
 誰にもあげないの<br />
 shutdown shutdown! Guilty fever</p>
 
-<p><font color="purple">自分の胸が騒ぎたいなら<br />
+<p><a class="mari">自分の胸が騒ぎたいなら<br />
 認めなさい 火がついたと<br />
-良いコには ご褒美がきっと待ってるはずだよ</font><br />
-【<font color="pink">梨</font><font color="silver">善</font>】(あげる あげる 甘いキスを)<br />
-<font color="silver">本当の恋がしたかったんでしょ？<br />
+良いコには ご褒美がきっと待ってるはずだよ</a><br />
+【<a class="riko">梨</a><a class="yoshiko">善</a>】(あげる あげる 甘いキスを)<br />
+<a class="yoshiko">本当の恋がしたかったんでしょ？<br />
 優柔不断にはサヨナラして<br />
-私へと 投げてみせてよ ハートのinvitation</font><br />
-【<font color="pink">梨</font><font color="purple">鞠</font>】(あつい あつい 恋になれ)</p>
+私へと 投げてみせてよ ハートのinvitation</a><br />
+【<a class="riko">梨</a><a class="mari">鞠</a>】(あつい あつい 恋になれ)</p>
 
-<p><font color="pink">どんな夢の中 抱きしめあいたい<br />
-キミという人だから ためらいに揺れてる</font><br />
+<p><a class="riko">どんな夢の中 抱きしめあいたい<br />
+キミという人だから ためらいに揺れてる</a><br />
 【3人】(Let me love you)<br />
-<font color="pink">今</font> <font color="silver">ふ·れ·た·い·の</font></p>
+<a class="riko">今</a> <a class="yoshiko">ふ·れ·た·い·の</a></p>
 
 <p>Up down ふたりカオスに惹かれ<br />
 やがてひとつの Guilty soul<br />
@@ -54,18 +54,18 @@ shutdown shutdown! Guilty fever</p>
 なにもかも(Love is secret)<br />
 確かめたいの(Guilty secret)</p>
 
-<p><font color="pink">どんな夢にしよう 全然醒めない夢！<br />
-キミという人のこと</font><br />
-<font color="purple">知りたい</font> <font color="silver">知りたい</font> <font color="pink">そして捕らえたい</font><br />
+<p><a class="riko">どんな夢にしよう 全然醒めない夢！<br />
+キミという人のこと</a><br />
+<a class="mari">知りたい</a> <a class="yoshiko">知りたい</a> <a class="riko">そして捕らえたい</a><br />
 (You are my love)<br />
-<font color="pink">逃·が·さ·な·い</font></p>
+<a class="riko">逃·が·さ·な·い</a></p>
 
 <p>shutdown ふたりだけのセカイへ<br />
 他はいらないってくらい<br />
 好きだよと言わせてみたい 私は正直なの<br />
-<font color="purple">目を見なさい</font>【<font color="pink">梨</font><font color="silver">善</font>】(Love with Fever)<br />
-<font color="silver">強く愛させて</font>【<font color="pink">梨</font><font color="purple">鞠</font>】(Guilty fever)<br />
-<font color="pink">なにもかも</font>【<font color="silver">善</font><font color="purple">鞠</font>】(Love is secret)<br />
+<a class="mari">目を見なさい</a>【<a class="riko">梨</a><a class="yoshiko">善</a>】(Love with Fever)<br />
+<a class="yoshiko">強く愛させて</a>【<a class="riko">梨</a><a class="mari">鞠</a>】(Guilty fever)<br />
+<a class="riko">なにもかも</a>【<a class="yoshiko">善</a><a class="mari">鞠</a>】(Love is secret)<br />
 確かめたいのよ(Guilty secret)</p>
 
 <p>Guilty eyesで恋に落ちて<br />

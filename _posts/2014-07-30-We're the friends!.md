@@ -2,20 +2,20 @@
 title: We're the friends!
 layout: post
 ---
-歌：<font color="magenta">安部菜々 緒方智絵里 島村卯月</font> <font color="blue">渋谷凛 鷺沢文香 高垣楓</font> <font color="gold">本田未央 姫川友紀 高森藍子</font>
+歌：<a class="cute">安部菜々 緒方智絵里 島村卯月</a> <a class="cool">渋谷凛 鷺沢文香 高垣楓</a> <a class="passion">本田未央 姫川友紀 高森藍子</a>
 
 <p>You&me<br />
 好きなモノが違う<br />
 ひとりひとり違う<br />
 今日のコーデもほらね？<br />
-<font color="magenta">ミニワンピでPink</font><br />
-<font color="blue">デニム系のBlue</font><br />
-<font color="gold">キレイめですOrange</font><br />
+<a class="cute">ミニワンピでPink</a><br />
+<a class="cool">デニム系のBlue</a><br />
+<a class="passion">キレイめですOrange</a><br />
 笑っちゃうくらいだね</p>
 
-<p><font color="gold">目に見えるトコは似てない</font><br />
-<font color="blue">ぶつかる日もあるけど</font><br />
-<font color="magenta">目に見えない夢のベクトル</font><br />
+<p><a class="passion">目に見えるトコは似てない</a><br />
+<a class="cool">ぶつかる日もあるけど</a><br />
+<a class="cute">目に見えない夢のベクトル</a><br />
 同じ高い空</p>
 
 <p>We're the friends!<br />
@@ -31,14 +31,14 @@ We're the friends!<br />
 競い合える仲間<br />
 そんな誰かがいて<br />
 がんばれるよ みんな<br />
-<font color="magenta">ケンカしないことが</font><br />
-<font color="blue">友情じゃないよね？</font><br />
-<font color="gold">仲直りした時</font><br />
+<a class="cute">ケンカしないことが</a><br />
+<a class="cool">友情じゃないよね？</a><br />
+<a class="passion">仲直りした時</a><br />
 キズナは強くなる</p>
 
-<p><font color="gold">運命の赤い糸って</font><br />
-<font color="blue">仲間にまあるよね</font><br />
-<font color="magenta">カラフルな糸なつないで</font><br />
+<p><a class="passion">運命の赤い糸って</a><br />
+<a class="cool">仲間にまあるよね</a><br />
+<a class="cute">カラフルな糸なつないで</a><br />
 引き寄せた奇跡</p>
 
 <p>We're the friends!<br />
@@ -50,9 +50,9 @@ We're the friends!<br />
 心から<br />
 何度でも伝えたい</p>
 
-<p><font color="magenta">失敗した日の帰り道</font><br />
-<font color="blue">泣きじゃくる私 受け止めて</font><br />
-<font color="gold">一緒に泣いてた君がいて</font><br />
+<p><a class="cute">失敗した日の帰り道</a><br />
+<a class="cool">泣きじゃくる私 受け止めて</a><br />
+<a class="passion">一緒に泣いてた君がいて</a><br />
 今日がある<br />
 だから、ずっと</p>
 

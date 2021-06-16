@@ -12,7 +12,7 @@ Yaa-Yaa!!</p>
 忘れたふりは<br />
 【三年生】やだ【其余6人】(Yaa!)<br />
 　　　　　やだ【其余6人】(Yaa!)<br />
-　　　　　Aqours☆PUNCH!! <font color="saddlebrown">//此处的“PUNCH”由全员喊出</font></p>
+　　　　　Aqours☆PUNCH!! <a class="notation">//此处的“PUNCH”由全员喊出</a></p>
 
 <p>【一年生、三年生】やあやあやあ 相談があるなら【二年生】(あるなら)<br />
 　　　　　　　　　すぐに…すぐに呼びなよ【二年生】(呼んでよ！)<br />
@@ -22,9 +22,9 @@ Yaa-Yaa!!</p>
 　　　　　待ってて</p>
 
 <p>【二年生】無敵だって信じたくなって<br />
-<font color="pink">いきおいで</font> <font color="darkorange">We are HEROES</font><br />
+<a class="riko">いきおいで</a> <a class="chika">We are HEROES</a><br />
 【二年生】おかしいなヒロインでしょ？って<br />
-<font color="deepskyblue">つっこんで</font> 【+<font color="pink">梨子</font>】つっこんで 【+<font color="darkorange">千歌</font>】つっこんでね<br />
+<a class="you">つっこんで</a> 【+<a class="riko">梨子</a>】つっこんで 【+<a class="chika">千歌</a>】つっこんでね<br />
 【9人】(Wao!)</p>
 
 <p>悩みをぶっ飛ばすような<br />
@@ -44,22 +44,22 @@ Yaa-Yaa!!</p>
 本当は知ってるよ<br />
 【一年生】でも【其余6人】(Yaa!)<br />
 　　　　　でも【其余6人】(Yaa!)<br />
-　　　　　Aqours☆FLASH!! <font color="saddlebrown">//此处的“FLASH”由全员喊出</font><br />
-<font color="silver">ひみつなんだっ</font></p>
+　　　　　Aqours☆FLASH!! <a class="notation">//此处的“FLASH”由全员喊出</a><br />
+<a class="yoshiko">ひみつなんだっ</a></p>
 
 <p>【一年生、三年生】さあさあさあ 問題はなんだろ【二年生】(なんだろ)<br />
 　　　　　　　　　すぐに…すぐに呼びなよ！【二年生】(呼んでよ)<br />
 　　　　　　　　　ショックでダウンで泣きそうなときは<br />
-<font color="magenta">もー</font>【一年生、三年生】(Yaa!)<br />
-<font color="gold">ちょい</font>【一年生、三年生】(Yaa!)<br />
-【<font color="magenta">露</font><font color="gold">丸</font>】踏んばってね</p>
+<a class="ruby">もー</a>【一年生、三年生】(Yaa!)<br />
+<a class="hanamaru">ちょい</a>【一年生、三年生】(Yaa!)<br />
+【<a class="ruby">露</a><a class="hanamaru">丸</a>】踏んばってね</p>
 
-<p><font color="red">ためいきに流されないで</font><br />
-【<font color="darkorange">千</font><font color="pink">梨</font>】(つかまってよ私の手に)<br />
-<font color="purple">これからだよ ついておいでよ</font><br />
+<p><a class="dia">ためいきに流されないで</a><br />
+【<a class="chika">千</a><a class="riko">梨</a>】(つかまってよ私の手に)<br />
+<a class="mari">これからだよ ついておいでよ</a><br />
 【一年生】もっと前に(So!)<br />
 【二年生】ぐっと前に(So!)<br />
-【三年生】おいでおいでよ<font color="limegreen">(はやく)</font><br />
+【三年生】おいでおいでよ<a class="kanan">(はやく)</a><br />
 【9人】おいでよ(Yes!)</p>
 
 <p>願いは言ってみたくなる<br />

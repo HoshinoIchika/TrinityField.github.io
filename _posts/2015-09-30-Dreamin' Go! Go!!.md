@@ -50,7 +50,7 @@ Smilin' わかるね</p>
 <p>【Cool】誰より Go!(Go!) Go!!(Go!!)<br />
 　　　　遠くへ飛んでみようか<br />
 【Smile】Go!(Go!) Go!!(Go!!)<br />
-<font color="darkorange">無理なんて言わせないんだよ</font><br />
+<a class="honoka">無理なんて言わせないんだよ</a><br />
 【9人】Go!(Go!) Go!!(Go!!)<br />
 とにかく先を目指して<br />
 Go!(Go!) Go!!(Go!!)<br />

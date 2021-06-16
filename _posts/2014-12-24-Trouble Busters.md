@@ -6,43 +6,43 @@ layout: post
 
 <p>Hey,hey! Ah...we are Busters!</p>
 
-<p><font color="hotpink">トラブルが山積み仕方ない</font><br />
-<font color="cyan">(キライキライよやんなっちゃう)</font><br />
-<font color="hotpink">負けないよ大したことじゃないよ</font><br />
-<font color="red">(そうだそうだ)</font><br />
-<font color="hotpink">慌てずに Find a way,oh yeah!</font><br />
-【<font color="cyan">绘</font><font color="red">姬</font>】(Trouble Busters!ハラハラBusters!)</p>
+<p><a class="nico">トラブルが山積み仕方ない</a><br />
+<a class="eli">(キライキライよやんなっちゃう)</a><br />
+<a class="nico">負けないよ大したことじゃないよ</a><br />
+<a class="maki">(そうだそうだ)</a><br />
+<a class="nico">慌てずに Find a way,oh yeah!</a><br />
+【<a class="eli">绘</a><a class="maki">姬</a>】(Trouble Busters!ハラハラBusters!)</p>
 
-<p><font color="cyan">All right あんなヤツ</font><font color="hotpink">(Hey,you!)</font><br />
-<font color="red">All right 忘れるよ</font><font color="hotpink">(Good-bye!)</font><br />
-<font color="cyan">冗談じゃない私の前から</font><br />
-<font color="hotpink">(冗談じゃない)</font><br />
-<font color="red">Forever消えちゃえ！</font><br />
-【<font color="cyan">绘</font><font color="hotpink">妮</font>】(消えちゃいな！)</p>
+<p><a class="eli">All right あんなヤツ</a><a class="nico">(Hey,you!)</a><br />
+<a class="maki">All right 忘れるよ</a><a class="nico">(Good-bye!)</a><br />
+<a class="eli">冗談じゃない私の前から</a><br />
+<a class="nico">(冗談じゃない)</a><br />
+<a class="maki">Forever消えちゃえ！</a><br />
+【<a class="eli">绘</a><a class="nico">妮</a>】(消えちゃいな！)</p>
 
 <p>精一杯(Hey!)笑おうか(Hey!)<br />
 なんでもないさ これくらい！(Ah,so!)<br />
 精一杯(Hey!)笑おうか(Hey!)<br />
-なんでもないさ だからニコッ！<font color="hotpink">(Niko!)</font><br />
+なんでもないさ だからニコッ！<a class="nico">(Niko!)</a><br />
 ほらね(Hey!)元気出してるフリしたら(I love solitude)<br />
-いつの間にか湧いてきた Niko-Niko Smile<font color="hotpink">(Niko!)</font></p>
+いつの間にか湧いてきた Niko-Niko Smile<a class="nico">(Niko!)</a></p>
 
 <p>Hey,hey!Hey,Ah...we are Busters!</p>
 
-<p><font color="red">タメイキで乱れる感情</font><br />
-<font color="hotpink">(ツライツライは言いたくない)</font><br />
-<font color="red">経験値増えたと考えて</font><br />
-<font color="cyan">(そうだそうだ)</font><br />
-<font color="red">気にしない Find my love,oh yeah!</font><br />
-【<font color="cyan">绘</font><font color="hotpink">妮</font>】(Trouble Busters!イライラBusters!)</p>
+<p><a class="maki">タメイキで乱れる感情</a><br />
+<a class="nico">(ツライツライは言いたくない)</a><br />
+<a class="maki">経験値増えたと考えて</a><br />
+<a class="eli">(そうだそうだ)</a><br />
+<a class="maki">気にしない Find my love,oh yeah!</a><br />
+【<a class="eli">绘</a><a class="nico">妮</a>】(Trouble Busters!イライラBusters!)</p>
 
-<p><font color="hotpink">All right 男より</font><font color="red">(Hey,you!)</font><br />
-<font color="cyan">All right 友情Please!</font><font color="red">(Come on!)</font><br />
-<font color="hotpink">もう信じない甘い言葉は</font><br />
-<font color="red">(甘い言葉は)</font><br />
-<font color="cyan">NeverEverいらない</font><br />
-<font color="hotpink">NeverEverいらないよ！</font><br />
-【<font color="cyan">绘</font><font color="red">姬</font>】(いらないよ！)</p>
+<p><a class="nico">All right 男より</a><a class="maki">(Hey,you!)</a><br />
+<a class="eli">All right 友情Please!</a><a class="maki">(Come on!)</a><br />
+<a class="nico">もう信じない甘い言葉は</a><br />
+<a class="maki">(甘い言葉は)</a><br />
+<a class="eli">NeverEverいらない</a><br />
+<a class="nico">NeverEverいらないよ！</a><br />
+【<a class="eli">绘</a><a class="maki">姬</a>】(いらないよ！)</p>
 
 <p>手を取って(Hey!)走ろうか(Hey!)<br />
 なんともないさ 笑えるさ！(Ah,so!)<br />
@@ -51,26 +51,26 @@ layout: post
 じゃあね(Hey!)思い出達さようなら(You are phantom)<br />
 きっと次の風が吹く Niko-Niko Stage(Niko!)</p>
 
-<p><font color="hotpink">笑って忘れて笑って忘れて 明日は元気だニッコリ</font><br />
-【<font color="cyan">绘</font><font color="red">姬</font>】All right,all right!Good-bye,good-bye!<br />
-<font color="hotpink">笑って忘れて笑って忘れて 明日は元気だニッコリ</font><br />
-【<font color="cyan">绘</font><font color="red">姬</font>】All right,all right!Good-bye,good-bye!<br />
-<font color="hotpink">なんでもないからなんともないからなんでもなんともないから</font><br />
+<p><a class="nico">笑って忘れて笑って忘れて 明日は元気だニッコリ</a><br />
+【<a class="eli">绘</a><a class="maki">姬</a>】All right,all right!Good-bye,good-bye!<br />
+<a class="nico">笑って忘れて笑って忘れて 明日は元気だニッコリ</a><br />
+【<a class="eli">绘</a><a class="maki">姬</a>】All right,all right!Good-bye,good-bye!<br />
+<a class="nico">なんでもないからなんともないからなんでもなんともないから</a><br />
 そうだそうだ 笑って忘れて笑っちゃえ！</p>
 
-<p>【<font color="cyan">绘</font><font color="red">姬</font>】(Good-bye Baby)<font color="hotpink">だから</font><br />
-【<font color="hotpink">妮</font><font color="red">姬</font>】(Good-bye Baby)<font color="cyan">出会いたい</font><br />
-【<font color="cyan">绘</font><font color="hotpink">妮</font>】(Good-bye Baby)<font color="red">次は</font><br />
-【<font color="cyan">绘</font><font color="red">姬</font>】(泣いたりなんかしない)<font color="hotpink">私は負けない<br />
-悲しみなんて No more いらない</font><br />
-【<font color="cyan">绘</font><font color="red">姬</font>】(いらないよ！)</p>
+<p>【<a class="eli">绘</a><a class="maki">姬</a>】(Good-bye Baby)<a class="nico">だから</a><br />
+【<a class="nico">妮</a><a class="maki">姬</a>】(Good-bye Baby)<a class="eli">出会いたい</a><br />
+【<a class="eli">绘</a><a class="nico">妮</a>】(Good-bye Baby)<a class="maki">次は</a><br />
+【<a class="eli">绘</a><a class="maki">姬</a>】(泣いたりなんかしない)<a class="nico">私は負けない<br />
+悲しみなんて No more いらない</a><br />
+【<a class="eli">绘</a><a class="maki">姬</a>】(いらないよ！)</p>
 
-<p><font color="hotpink">手を取って走ろうか なんともないさ 笑えるさ！<br />
-手を取って走ろうか なんともないさ 今日もニコッ！(にこっ!)</font><br />
+<p><a class="nico">手を取って走ろうか なんともないさ 笑えるさ！<br />
+手を取って走ろうか なんともないさ 今日もニコッ！(にこっ!)</a><br />
 精一杯(Hey!)笑おうか(Hey!)<br />
 なんでもないさ これくらい！(Ah,so!)<br />
 精一杯(Hey!)笑おうか(Hey!)<br />
-なんでもないさ だからニコッ！<font color="hotpink">(Niko!)</font><br />
+なんでもないさ だからニコッ！<a class="nico">(Niko!)</a><br />
 ほらね(Hey!)元気出してるフリしたら(I love solitude)<br />
 いつの間にか湧いてきた Niko-Niko Smile<br />
 きっと次の風が吹く Niko-Niko Stage(Niko!)</p>

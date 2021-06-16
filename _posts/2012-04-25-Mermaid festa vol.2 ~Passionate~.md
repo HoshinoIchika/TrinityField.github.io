@@ -2,27 +2,27 @@
 title: Mermaid festa vol.2 ~Passionate~
 layout: post
 ---
-歌：<font color="darkorange">高坂穂乃果</font> <font color="gold">星空凛</font>
+歌：<a class="honoka">高坂穂乃果</a> <a class="rin">星空凛</a>
 
-<p><font color="darkorange">甘いFruits dance だんだんリズム変わる</font><br />
-<font color="gold">急いでよ<br />
-ねえ私のことを見てて</font><br />
-<font color="darkorange">つかまえなくちゃ振り向かないわ</font><br />
-<font color="gold">追いかけられたい</font><br />
-<font color="darkorange">だけど言わない</font><br />
-<font color="gold">だけど言えない</font></p>
+<p><a class="honoka">甘いFruits dance だんだんリズム変わる</a><br />
+<a class="rin">急いでよ<br />
+ねえ私のことを見てて</a><br />
+<a class="honoka">つかまえなくちゃ振り向かないわ</a><br />
+<a class="rin">追いかけられたい</a><br />
+<a class="honoka">だけど言わない</a><br />
+<a class="rin">だけど言えない</a></p>
 
 <p>じゃあ、ね?<br />
 くるっとくるっとくるっと回ろう<br />
 くるっとくるっと踊ろうよ</p>
 
-<p><font color="darkorange">なにもかも新鮮なことがしたい<br />
-するべきはおそらく微熱なLove</font><br />
-<font color="gold">知らないな? 誰が来るのかな?<br />
-果実なら取られるの待っちゃうの</font></p>
+<p><a class="honoka">なにもかも新鮮なことがしたい<br />
+するべきはおそらく微熱なLove</a><br />
+<a class="rin">知らないな? 誰が来るのかな?<br />
+果実なら取られるの待っちゃうの</a></p>
 
-<p><font color="darkorange">かたい</font> <font color="gold">きいろ</font>→ももいろに成長<br />
-<font color="gold">揺れて</font> <font color="darkorange">ふるえてる</font><br />
+<p><a class="honoka">かたい</a> <a class="rin">きいろ</a>→ももいろに成長<br />
+<a class="rin">揺れて</a> <a class="honoka">ふるえてる</a><br />
 さあ君が手を伸ばせば…Yes!!</p>
 
 <p>甘いFruits dance だんだんリズム変わる<br />
@@ -30,20 +30,20 @@ layout: post
 ねえ私のことを見てて<br />
 つかまえなくちゃ振り向かないわ<br />
 追いかけられたい<br />
-<font color="darkorange">だけど言わない</font><br />
-<font color="gold">だけど言えない</font></p>
+<a class="honoka">だけど言わない</a><br />
+<a class="rin">だけど言えない</a></p>
 
 <p>じゃあ、ね?<br />
 くるっとくるっとくるっと回ろう<br />
 くるっとくるっと踊ろうよ</p>
 
-<p><font color="gold">忘れない斬新な日々がほしい<br />
-のぞむならできるの秘密のkiss</font><br />
-<font color="darkorange">早すぎる? いいえちょっとならいい?<br />
-果実にも棘がある注意して</font></p>
+<p><a class="rin">忘れない斬新な日々がほしい<br />
+のぞむならできるの秘密のkiss</a><br />
+<a class="honoka">早すぎる? いいえちょっとならいい?<br />
+果実にも棘がある注意して</a></p>
 
-<p><font color="gold">あおい</font> <font color="darkorange">かおり</font>→たべごろに変身<br />
-<font color="darkorange">そっと</font> <font color="gold">触れてみて</font><br />
+<p><a class="rin">あおい</a> <a class="honoka">かおり</a>→たべごろに変身<br />
+<a class="honoka">そっと</a> <a class="rin">触れてみて</a><br />
 もう君は迷わないで…Please!!</p>
 
 <p>夏のPassionate じんじん熱く燃える<br />
@@ -51,16 +51,16 @@ layout: post
 ねえ私はじける季節<br />
 意外なほどに強気になって<br />
 抱きしめられたい<br />
-<font color="gold">でもね恥じらい</font><br />
-<font color="darkorange">でもね恥ずかしい</font></p>
+<a class="rin">でもね恥じらい</a><br />
+<a class="honoka">でもね恥ずかしい</a></p>
 
 <p>そう、ね?<br />
 くらっとくらっとくらっと激しい<br />
 くらっとくらっと負けそうよ</p>
 
-<p><font color="darkorange">渚をすべる白い船 通りすぎるまでに</font><br />
-<font color="gold">君との距離が縮むようにと</font><br />
-<font color="darkorange">瞼閉じましょう</font><br />
+<p><a class="honoka">渚をすべる白い船 通りすぎるまでに</a><br />
+<a class="rin">君との距離が縮むようにと</a><br />
+<a class="honoka">瞼閉じましょう</a><br />
 もうすこし…もうすこし…</p>
 
 <p>夏のPassionate じんじん熱く燃える<br />
@@ -68,8 +68,8 @@ layout: post
 ねえ私はじける季節<br />
 意外なほどに強気になって<br />
 抱きしめられたい<br />
-<font color="darkorange">でもね恥じらい</font><br />
-<font color="gold">でもね恥ずかしい</font></p>
+<a class="honoka">でもね恥じらい</a><br />
+<a class="rin">でもね恥ずかしい</a></p>
 
 <p>そう、ね?<br />
 くらっとくらっとくらっと激しい<br />

@@ -4,16 +4,16 @@ layout: post
 ---
 歌：Printemps
 
-<p><font color="darkorange">失敗も心配も話してみてごらん<br />
-でしょ?でしょ? 私たちには内緒にしちゃだめよ</font><br />
-<font color="silver">友情って言っちゃうの恥ずかしいな<br />
-でしょ?(でしょ?)でしょ?(でしょ?) いつでも側にいてくれるから</font></p>
+<p><a class="honoka">失敗も心配も話してみてごらん<br />
+でしょ?でしょ? 私たちには内緒にしちゃだめよ</a><br />
+<a class="kotori">友情って言っちゃうの恥ずかしいな<br />
+でしょ?(でしょ?)でしょ?(でしょ?) いつでも側にいてくれるから</a></p>
 
-<p><font color="lime">スキ·キライ あれ?似てない?<br />
-おたがい違う性格もいいね</font><font color="darkorange">(だから)</font><font color="silver">いいね</font><br />
-<font color="darkorange">それも正しいよね</font><br />
-【<font color="silver">鸟</font><font color="lime">花</font>】(ピュアガールズだ!)<br />
-<font color="darkorange">純粋宣言</font> yeah!yeah!yeah!</p>
+<p><a class="hanayo">スキ·キライ あれ?似てない?<br />
+おたがい違う性格もいいね</a><a class="honoka">(だから)</a><a class="kotori">いいね</a><br />
+<a class="honoka">それも正しいよね</a><br />
+【<a class="kotori">鸟</a><a class="hanayo">花</a>】(ピュアガールズだ!)<br />
+<a class="honoka">純粋宣言</a> yeah!yeah!yeah!</p>
 
 <p>歩こう(歩こう)歩こう(歩こう)<br />
 今日も(君と)元気いっぱい<br />
@@ -25,16 +25,16 @@ layout: post
 取りあえず今は目の前のこと<br />
 でしょ?(yeah!)でしょ?(yeah!)寄り道の準備、だ!</p>
 
-<p><font color="silver">安心や安全は退屈なんだよね<br />
-しよっ?しよっ? 新しいなにか始めたいよやっぱり</font><br />
-<font color="lime">友情って冒険のなかまみたい<br />
-しよっ?(しよっ?)しよっ?(しよっ?) そこにいないと足りない気持ち</font></p>
+<p><a class="kotori">安心や安全は退屈なんだよね<br />
+しよっ?しよっ? 新しいなにか始めたいよやっぱり</a><br />
+<a class="hanayo">友情って冒険のなかまみたい<br />
+しよっ?(しよっ?)しよっ?(しよっ?) そこにいないと足りない気持ち</a></p>
 
-<p><font color="darkorange">クル·コナイ あれ?知らない?<br />
-意見が割れるときだっていいよ</font><font color="silver">(でもね)</font><font color="lime">いいよ</font><br /> 
-<font color="silver">みんな正しいよね</font><br />
-【<font color="darkorange">果</font><font color="lime">花</font>】(ピュアガールズさ!)<br />
-<font color="silver">純粋宣言</font> yeah!yeah!yeah!</p>
+<p><a class="honoka">クル·コナイ あれ?知らない?<br />
+意見が割れるときだっていいよ</a><a class="kotori">(でもね)</a><a class="hanayo">いいよ</a><br /> 
+<a class="kotori">みんな正しいよね</a><br />
+【<a class="honoka">果</a><a class="hanayo">花</a>】(ピュアガールズさ!)<br />
+<a class="kotori">純粋宣言</a> yeah!yeah!yeah!</p>
 
 <p>踊ろう(踊ろう)踊ろう(踊ろう)<br />
 嬉しい(時間)もっといっぱい<br />
@@ -46,9 +46,9 @@ layout: post
 その後はたぶん甘い誘惑<br />
 しよっ?(yeah!)しよっ?(yeah!)自分にご褒美、だ!</p>
 
-<p><font color="darkorange">歩こう歩こう 今日も元気いっぱい<br />
-語ろう語ろう おしゃべりとまらないから</font><br />
-【<font color="silver">鸟</font><font color="lime">花</font>】歩こう歩こう 今日も元気いっぱい<br />
+<p><a class="honoka">歩こう歩こう 今日も元気いっぱい<br />
+語ろう語ろう おしゃべりとまらないから</a><br />
+【<a class="kotori">鸟</a><a class="hanayo">花</a>】歩こう歩こう 今日も元気いっぱい<br />
 【3人】いっしょうけんめいがんばれ!</p>
 
 <p>踊ろう(踊ろう)踊ろう(踊ろう)<br />

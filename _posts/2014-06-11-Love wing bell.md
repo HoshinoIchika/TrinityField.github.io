@@ -2,14 +2,14 @@
 title: Love wing bell
 layout: post
 ---
-歌：<font color="gold">凛</font> <font color="lime">花陽</font> <font color="red">真姫</font> <font color="hotpink">にこ</font> <font color="purple">希</font> <font color="cyan">絵里</font>
+歌：<a class="rin">凛</a> <a class="hanayo">花陽</a> <a class="maki">真姫</a> <a class="nico">にこ</a> <a class="nozomi">希</a> <a class="eli">絵里</a>
 
-<p>【<font color="lime">花</font><font color="cyan">绘</font>】あこがれの瞬間を 迎える時が来たよ<br />
+<p>【<a class="hanayo">花</a><a class="eli">绘</a>】あこがれの瞬間を 迎える時が来たよ<br />
 　　　　いいのかな こんなにも 幸せ感じてるよ<br />
-【<font color="hotpink">妮</font><font color="red">姬</font>】光に誘われて 歩き出すこの道は<br />
+【<a class="nico">妮</a><a class="maki">姬</a>】光に誘われて 歩き出すこの道は<br />
 　　　　未来へと続いてる 希望に満ちてるね</p>
 
-<p>【<font color="gold">凛</font><font color="purple">希</font>】誰でも可愛くなれる? きっとなれるよ<br />
+<p>【<a class="rin">凛</a><a class="nozomi">希</a>】誰でも可愛くなれる? きっとなれるよ<br />
 　　　　こんな私でさえも…変身!</p>
 
 <p>【6人】だからねあげるよ元気 そのままの笑顔で<br />
@@ -20,12 +20,12 @@ layout: post
 さあ明日が見えてくる<br />
 Love wing…love wing…</p>
 
-<p>【<font color="hotpink">妮</font><font color="red">姬</font>】ためらい脱ぎ捨てる ピンと背筋をのばそう<br />
+<p>【<a class="nico">妮</a><a class="maki">姬</a>】ためらい脱ぎ捨てる ピンと背筋をのばそう<br />
 　　　　いいんだね じゃあここで不思議を楽しんじゃえ<br />
-【<font color="gold">凛</font><font color="purple">希</font>】光に照らされた 自分が知らない自分<br />
+【<a class="rin">凛</a><a class="nozomi">希</a>】光に照らされた 自分が知らない自分<br />
 　　　　今日だけでも一番 素敵でいたいな</p>
 
-<p>【<font color="lime">花</font><font color="cyan">绘</font>】みんなもね可愛くなろう! 絶対なれるよ<br />
+<p>【<a class="hanayo">花</a><a class="eli">绘</a>】みんなもね可愛くなろう! 絶対なれるよ<br />
 　　　　だって私でさえも…変身!</p>
 
 <p>【6人】そうだよ女の子には プリンセスの日が来る<br />
@@ -36,10 +36,10 @@ Love wing…love wing…</p>
 さあ明日はどんな私?<br />
 Love bell…love bell…</p>
 
-<p><font color="gold">だからねあげるよ元気</font><br />
-<font color="lime">そのままの笑顔で</font><br />
-<font color="gold">歌おう歌おう あげるよ元気</font><br />
-<font color="red">悩まないで夢をみよう</font><br />
+<p><a class="rin">だからねあげるよ元気</a><br />
+<a class="hanayo">そのままの笑顔で</a><br />
+<a class="rin">歌おう歌おう あげるよ元気</a><br />
+<a class="maki">悩まないで夢をみよう</a><br />
 大好きはたいせつなんだ 素晴らしいことできる<br />
 生まれ変わろう 次のステージ探しにいこう<br />
 さあ明日はどんな私?<br />

@@ -2,49 +2,49 @@
 title: soldier game
 layout: post
 ---
-歌：<font color="red">西木野真姫</font> <font color="blue">園田海未</font> <font color="cyan">絢瀬絵里</font>
+歌：<a class="maki">西木野真姫</a> <a class="umi">園田海未</a> <a class="eli">絢瀬絵里</a>
 
-<p><font color="red">Three,two,one,zero! ここで登場<br />
+<p><a class="maki">Three,two,one,zero! ここで登場<br />
 見てなさい 私の本気<br />
-スリルと美意識で勝つのよ必ず</font></p>
+スリルと美意識で勝つのよ必ず</a></p>
 
-<p><font color="blue">優しげな言葉ささやく<br />
-偽の可愛さじゃなくて</font><br />
-<font color="cyan">冷たく強く守らなきゃ<br />
-大切なモノ達</font><br />
+<p><a class="umi">優しげな言葉ささやく<br />
+偽の可愛さじゃなくて</a><br />
+<a class="eli">冷たく強く守らなきゃ<br />
+大切なモノ達</a><br />
 弱きモノ達</p>
 
 <p>私は誰でしょ? 知りたくなったでしょう?<br />
-<font color="blue">ならば恋かも</font><br />
+<a class="umi">ならば恋かも</a><br />
 私の中には秘密があるとして<br />
-<font color="red">それを</font> <font color="cyan">君は</font> どうするの<br />
+<a class="maki">それを</a> <a class="eli">君は</a> どうするの<br />
 It's soldier game<br />
 また会えた時 訊こうかな</p>
 
-<p><font color="cyan">Three,two,one,zero! つぎの作戦<br />
+<p><a class="eli">Three,two,one,zero! つぎの作戦<br />
 見てなさい 私は本気<br />
-シグナル受けとめて未来を頂く</font></p>
+シグナル受けとめて未来を頂く</a></p>
 
-<p><font color="red">微笑みよりも甘いのは<br />
-嘘が招いた涙よ</font><br />
-<font color="blue">儚さ脆さ隠してる<br />
-大切なモノなの</font><br />
+<p><a class="maki">微笑みよりも甘いのは<br />
+嘘が招いた涙よ</a><br />
+<a class="umi">儚さ脆さ隠してる<br />
+大切なモノなの</a><br />
 弱きモノなの</p>
 
 <p>私と来るでしょ? 触れたくなったでしょう?<br />
-<font color="cyan">すでに恋だよ</font><br />
+<a class="eli">すでに恋だよ</a><br />
 私といつかは戦うべき相手<br />
-<font color="blue">それは</font> <font color="red">君の</font> 理性かも<br />
+<a class="umi">それは</a> <a class="maki">君の</a> 理性かも<br />
 I'm soldier heart<br />
 負けないからね It's soldier game</p>
 
 <p>(カモーン！)</p>
 
 <p>いまが勝負よ!<br />
-<font color="cyan">私は誰でしょ? 知りたくなったでしょう?</font><br />
-<font color="red">ならば恋かも</font><br />
-<font color="blue">私の中には秘密があるとして</font><br />
-<font color="red">それを君は?</font></p>
+<a class="eli">私は誰でしょ? 知りたくなったでしょう?</a><br />
+<a class="maki">ならば恋かも</a><br />
+<a class="umi">私の中には秘密があるとして</a><br />
+<a class="maki">それを君は?</a></p>
 
 <p>私と来るでしょ? 触れたくなったでしょう?<br />
 すでに恋だよ<br />

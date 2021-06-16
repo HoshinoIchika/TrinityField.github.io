@@ -9,19 +9,19 @@ layout: post
 (Shadow gate, Shadow gate)<br />
 (Shadow gate, Shadow gate)</p>
 
-<p><font color="pink">何かが足りない そう思った時は<br />
-暗い階段見てごらん</font><br />
+<p><a class="riko">何かが足りない そう思った時は<br />
+暗い階段見てごらん</a><br />
 (Shadow gate, Shadow gate)<br />
-<font color="purple">光射さないその場所で開く<br />
-扉があるから</font><font color="pink">(You need me)</font></p>
+<a class="mari">光射さないその場所で開く<br />
+扉があるから</a><a class="riko">(You need me)</a></p>
 
-<p>【<font color="silver">善</font><font color="purple">鞠</font>】麝香の強さ まとう目に<br />
-<font color="pink">誘われてみて<br />
-秘めていた</font><br />
-【<font color="silver">善</font><font color="purple">鞠</font>】願望が こぼれかける夜は<br />
+<p>【<a class="yoshiko">善</a><a class="mari">鞠</a>】麝香の強さ まとう目に<br />
+<a class="riko">誘われてみて<br />
+秘めていた</a><br />
+【<a class="yoshiko">善</a><a class="mari">鞠</a>】願望が こぼれかける夜は<br />
 (Shadow gate, Shadow gate)<br />
-<font color="pink">刺激的かも<br />
-さあ、どうしたい?</font></p>
+<a class="riko">刺激的かも<br />
+さあ、どうしたい?</a></p>
 
 <p>私の影が 貴方の夢を飲みこみたがる<br />
 恋してもいいよ<br />
@@ -33,19 +33,19 @@ layout: post
 Oh baby shadow gate<br />
 (Shadow gate, Shadow gate)</p>
 
-<p><font color="purple">誰ても見える訳じゃないのよ<br />
-選んだ貴方だけ</font><br />
+<p><a class="mari">誰ても見える訳じゃないのよ<br />
+選んだ貴方だけ</a><br />
 (Shadow gate, Shadow gate)<br />
-<font color="silver">光拒んだその場所で開く<br />
-扉みつけたら</font><font color="purple">(You want me)</font></p>
+<a class="yoshiko">光拒んだその場所で開く<br />
+扉みつけたら</a><a class="mari">(You want me)</a></p>
 
-<p>【<font color="pink">梨</font><font color="silver">善</font>】呪文はいつかしてみたい<br />
-<font color="purple">キスの数なの<br />
-もしかして…</font><br />
-【<font color="pink">梨</font><font color="silver">善</font>】なんて思ってる不純な夜は<br />
+<p>【<a class="riko">梨</a><a class="yoshiko">善</a>】呪文はいつかしてみたい<br />
+<a class="mari">キスの数なの<br />
+もしかして…</a><br />
+【<a class="riko">梨</a><a class="yoshiko">善</a>】なんて思ってる不純な夜は<br />
 (Shadow gate, Shadow gate)<br />
-<font color="purple">刺激的だわ<br />
-さあ、どうしよか?</font></p>
+<a class="mari">刺激的だわ<br />
+さあ、どうしよか?</a></p>
 
 <p>私と貴方 裏と表の矛盾をかかえて<br />
 恋に変わるのよ<br />
@@ -56,8 +56,8 @@ Oh baby shadow gate<br />
 <p>(Shadow gate, Shadow gate)<br />
 (Oh baby~)</p>
 
-<p><font color="pink">その扉が消えるまえに 貴方にきっと会える</font><br />
-<font color="purple">そうね足音聞こえる</font> <font color="silver">さあ、今なの!</font></p>
+<p><a class="riko">その扉が消えるまえに 貴方にきっと会える</a><br />
+<a class="mari">そうね足音聞こえる</a> <a class="yoshiko">さあ、今なの!</a></p>
 
 <p>私の影が 貴方の夢を飲みこみたがる<br />
 恋してもいいよ<br />
@@ -65,19 +65,19 @@ Oh baby shadow gate<br />
 溜息の中 罠を仕掛けた<br />
 たぶん効いてるの しびれてきたでしょ?</p>
 
-<p>【<font color="pink">梨</font><font color="purple">鞠</font>】私と貴方<font color="silver">(Oh baby~)</font><br />
-　　　　裏と表の<font color="silver">(Shadow gate, Shadow gate)</font><br />
+<p>【<a class="riko">梨</a><a class="mari">鞠</a>】私と貴方<a class="yoshiko">(Oh baby~)</a><br />
+　　　　裏と表の<a class="yoshiko">(Shadow gate, Shadow gate)</a><br />
 　　　　矛盾をかかえて<br />
 【3人】恋に変わるのよ<br />
 (Shadow gate, Shadow gate)<br />
-綺麗な嘘なら 許される筈 <font color="saddlebrown">//此处善子会从上句“変わるのよ”一直接下来一个长音，此句到下句“貴方も”为止为梨子和鞠莉演唱，具体请听原曲，难度较高，是否进行此种处理请自行选择</font><br />
-だから貴方も <font color="pink">私が</font><font color="purple">夢見る</font><font color="silver">愛を</font>囁いて</p>
+綺麗な嘘なら 許される筈 <a class="notation">//此处善子会从上句“変わるのよ”一直接下来一个长音，此句到下句“貴方も”为止为梨子和鞠莉演唱，具体请听原曲，难度较高，是否进行此种处理请自行选择</a><br />
+だから貴方も <a class="riko">私が</a><a class="mari">夢見る</a><a class="yoshiko">愛を</a>囁いて</p>
 
 <p>(Shadow gate, Shadow gate)<br />
 Oh baby Shadow gate!<br />
 (Shadow gate, Shadow gate)<br />
 恋していいよ<br />
 (Shadow gate, Shadow gate)<br />
-【<font color="silver">善</font><font color="purple">鞠</font>】Oh baby Shadow gate!<font color="pink">(Shadow gate)</font><br />
+【<a class="yoshiko">善</a><a class="mari">鞠</a>】Oh baby Shadow gate!<a class="riko">(Shadow gate)</a><br />
 (Shadow gate, Shadow gate)<br />
 【3人】恋していいよ</p>

@@ -48,8 +48,8 @@ layout: post
 【B】スキのちからで【P&L】(みんな一緒)<br />
 【L】一緒に見よう【P&B】(みんな一緒)</p>
 
-<p><font color="darkorange">スキのちからで 飛んで飛んでみようか</font><br />
-<font color="silver">そこになにかが</font> <font color="lime">待っているから</font><br />
+<p><a class="honoka">スキのちからで 飛んで飛んでみようか</a><br />
+<a class="kotori">そこになにかが</a> <a class="hanayo">待っているから</a><br />
 スキのちからで 飛んで飛んでみたいって<br />
 言葉にすればそれは叶うよ<br />
 ユメのけしきを みんなみんな見たいと<br />

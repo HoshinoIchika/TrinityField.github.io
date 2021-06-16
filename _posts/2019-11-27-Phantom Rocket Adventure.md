@@ -4,43 +4,43 @@ layout: post
 ---
 歌：Guilty Kiss
 
-<p><font color="purple">窓辺にロケット 錯覚だったかな？</font>(Yes!)<br />
-<font color="purple">飛びたい心が きっと見せたんだ<br />
-いとしいあの人 連れ去っちゃいたいけど</font>(No!)<br />
-<font color="purple">ダメダメそれじゃ！知りたい本心を</font></p>
+<p><a class="mari">窓辺にロケット 錯覚だったかな？</a>(Yes!)<br />
+<a class="mari">飛びたい心が きっと見せたんだ<br />
+いとしいあの人 連れ去っちゃいたいけど</a>(No!)<br />
+<a class="mari">ダメダメそれじゃ！知りたい本心を</a></p>
 
-<p><font color="silver">恋が愛になる そんなことみんな<br />
-信じてるなんて ヘンだよね</font><br />
-<font color="pink">恋は恋のまま ずっと苦しい胸<br />
-持てあまして走る</font></p>
+<p><a class="yoshiko">恋が愛になる そんなことみんな<br />
+信じてるなんて ヘンだよね</a><br />
+<a class="riko">恋は恋のまま ずっと苦しい胸<br />
+持てあまして走る</a></p>
 
 <p>トキメキを飲みたがる<br />
 病に罹った時には<br />
 会いたくて眠れない<br />
 星よ溜息 Ah! 届けてよ</p>
 
-<p><font color="pink">幻想でもロケット 乗ってみたくなる</font>(Yes!)<br />
-<font color="pink">ふたりは 火星の砂で棒倒しゲーム Start!!</font><br />
-<font color="silver">曖昧なあの人 問い詰めちゃいたいのに</font>(No!)<br />
-<font color="silver">マダマダできない！その時はいつだ？</font></p>
+<p><a class="riko">幻想でもロケット 乗ってみたくなる</a>(Yes!)<br />
+<a class="riko">ふたりは 火星の砂で棒倒しゲーム Start!!</a><br />
+<a class="yoshiko">曖昧なあの人 問い詰めちゃいたいのに</a>(No!)<br />
+<a class="yoshiko">マダマダできない！その時はいつだ？</a></p>
 
-<p><font color="purple">愛は永遠って そんな言葉を<br />
+<p><a class="mari">愛は永遠って そんな言葉を<br />
 信じたくなる バカだよね<br />
 愛も恋のように 不意に壊れがち<br />
-宇宙の彼方消える</font></p>
+宇宙の彼方消える</a></p>
 
 <p>トキメキを飲み過ぎた<br />
 日常は なんで罪なの？<br />
 会いたさがこじれてく<br />
 悪い願いが Ah! 止まらない</p>
 
-<p><font color="purple">地球外でキス</font>【<font color="pink">梨</font><font color="silver">善</font>】誰も誰もワカラナイ<br />
-<font color="purple">キスを何回も</font>　　　　誰も誰もワカラナイ</p>
+<p><a class="mari">地球外でキス</a>【<a class="riko">梨</a><a class="yoshiko">善</a>】誰も誰もワカラナイ<br />
+<a class="mari">キスを何回も</a>　　　　誰も誰もワカラナイ</p>
 
 <p>恋が愛になる そんなことみんな<br />
 信じてるなんて ヘンだよね<br />
 恋は恋のまま ずっと苦しい胸<br />
-持てあまして<font color="purple">走る</font></p>
+持てあまして<a class="mari">走る</a></p>
 
 <p>トキメキを飲みたがる<br />
 病に罹った時には<br />

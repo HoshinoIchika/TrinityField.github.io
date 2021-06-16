@@ -6,14 +6,14 @@ layout: post
 
 <p>No,とめないで あなたから熱くなれ</p>
 
-<p>【<font color="cyan">绘</font><font color="silver">鸟</font><font color="lime">花</font>】「まだ夢を見てるの あどけない夢」<br />
+<p>【<a class="eli">绘</a><a class="kotori">鸟</a><a class="hanayo">花</a>】「まだ夢を見てるの あどけない夢」<br />
 　　　　　耳にささやいたら<br />
-【<font color="darkorange">果</font><font color="red">姬</font><font color="purple">希</font>】目を閉じて溜息 あなたのせいよ<br />
+【<a class="honoka">果</a><a class="maki">姬</a><a class="nozomi">希</a>】目を閉じて溜息 あなたのせいよ<br />
 　　　　　海にとける ムーンライトあびて</p>
 
-<p>【<font color="blue">海</font><font color="gold">凛</font><font color="hotpink">妮</font>】飛びこむ前の愛しさは<br />
+<p>【<a class="umi">海</a><a class="rin">凛</a><a class="nico">妮</a>】飛びこむ前の愛しさは<br />
 　　　　　伝えたりしない…ひ·み·つ<br />
-<font color="lime">話せば泡となるような</font><br />
+<a class="hanayo">話せば泡となるような</a><br />
 わたしは人魚なの</p>
 
 <p>波が連れてきた<br />
@@ -21,21 +21,21 @@ layout: post
 波と踊るから<br />
 激しく鳴らしてよ音の魔法 今年のフェスタ</p>
 
-<p><font color="darkorange">動揺してるの?</font><br />
-<font color="purple">緊張してるの?</font><br />
-<font color="hotpink">なんだかわかる</font><br />
-<font color="silver">振りむいたらわかる</font><br />
-<font color="red">あなたから</font><br />
+<p><a class="honoka">動揺してるの?</a><br />
+<a class="nozomi">緊張してるの?</a><br />
+<a class="nico">なんだかわかる</a><br />
+<a class="kotori">振りむいたらわかる</a><br />
+<a class="maki">あなたから</a><br />
 熱くなれ</p>
 
-<p>【<font color="darkorange">果</font><font color="red">姬</font><font color="purple">希</font>】「なぜこっちに来ないの 意識してるの」<br />
+<p>【<a class="honoka">果</a><a class="maki">姬</a><a class="nozomi">希</a>】「なぜこっちに来ないの 意識してるの」<br />
 　　　　　少しいじめてみる<br />
-【<font color="blue">海</font><font color="gold">凛</font><font color="hotpink">妮</font>】苦しげな言い訳が あなたらしくて<br />
+【<a class="umi">海</a><a class="rin">凛</a><a class="nico">妮</a>】苦しげな言い訳が あなたらしくて<br />
 　　　　　さらに心 テンションあがる</p>
 
-<p>【<font color="cyan">绘</font><font color="silver">鸟</font><font color="lime">花</font>】裸足で書いた砂の記号<br />
+<p>【<a class="eli">绘</a><a class="kotori">鸟</a><a class="hanayo">花</a>】裸足で書いた砂の記号<br />
 　　　　　さかさまにすれば I love you<br />
-<font color="silver">気づいた時はどうするの</font><br />
+<a class="kotori">気づいた時はどうするの</a><br />
 わたしを見ているの</p>
 
 <p>つぎは抱きしめて<br />
@@ -43,35 +43,35 @@ layout: post
 つぎに抱きしめて欲しいの<br />
 優しいのね 知りたいのは強引なしぐさ</p>
 
-<p><font color="gold">動揺してるよ?</font><br />
-<font color="hotpink">緊張してるよ?</font><br />
-<font color="purple">なんどもすねる</font><br />
-<font color="lime">寄りそってもすねる</font><br />
-<font color="blue">わたしには</font><br />
+<p><a class="rin">動揺してるよ?</a><br />
+<a class="nico">緊張してるよ?</a><br />
+<a class="nozomi">なんどもすねる</a><br />
+<a class="hanayo">寄りそってもすねる</a><br />
+<a class="umi">わたしには</a><br />
 甘えてよ</p>
 
-<p><font color="blue">ごきげんよう</font><br />
-<font color="purple">楽しかったよ！</font><br />
-<font color="darkorange">ありがとう！</font><br />
-<font color="gold">また、会えるよね？</font><br />
-<font color="lime">寂しいよ…</font><br />
-<font color="red">これっきり、かもね</font><br />
-<font color="cyan">ダ スヴィダーニァ</font><br />
-<font color="silver">もう会えないの…</font><br />
-<font color="hotpink">じゃあね</font></p>
+<p><a class="umi">ごきげんよう</a><br />
+<a class="nozomi">楽しかったよ！</a><br />
+<a class="honoka">ありがとう！</a><br />
+<a class="rin">また、会えるよね？</a><br />
+<a class="hanayo">寂しいよ…</a><br />
+<a class="maki">これっきり、かもね</a><br />
+<a class="eli">ダ スヴィダーニァ</a><br />
+<a class="kotori">もう会えないの…</a><br />
+<a class="nico">じゃあね</a></p>
 
 <p>波が連れてきた<br />
 夏の恋は<br />
-【<font color="blue">海</font><font color="red">姬</font>】二度とこない切ないフェスタ<br />
-<font color="cyan">波と踊るから<br />
-激しく</font><br />
+【<a class="umi">海</a><a class="maki">姬</a>】二度とこない切ないフェスタ<br />
+<a class="eli">波と踊るから<br />
+激しく</a><br />
 鳴らしてよ音の魔法 今年のフェスタ</p>
 
-<p><font color="blue">動揺してるの?</font><br />
-<font color="red">緊張してるの?</font><br />
-<font color="silver">なんだかわかる</font><br />
-<font color="lime">振りむいたらわかる</font><br />
-<font color="cyan">鳴らしてよ</font><br />
+<p><a class="umi">動揺してるの?</a><br />
+<a class="maki">緊張してるの?</a><br />
+<a class="kotori">なんだかわかる</a><br />
+<a class="hanayo">振りむいたらわかる</a><br />
+<a class="eli">鳴らしてよ</a><br />
 夏の恋<br />
 鳴らしてよ</p>
 

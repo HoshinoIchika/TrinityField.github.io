@@ -4,15 +4,15 @@ layout: post
 ---
 歌：Aqours
 
-<p><font color="purple">イマはイマで昨日と違うよ</font><br />
-<font color="gold">明日への途中じゃなく イマはイマだね</font><br />
-<font color="pink">この瞬間のことが</font> <font color="red">重なっては消えてく</font><br />
-<font color="magenta">ココロに刻むんだ</font> WATER BLUE</p>
+<p><a class="mari">イマはイマで昨日と違うよ</a><br />
+<a class="hanamaru">明日への途中じゃなく イマはイマだね</a><br />
+<a class="riko">この瞬間のことが</a> <a class="dia">重なっては消えてく</a><br />
+<a class="ruby">ココロに刻むんだ</a> WATER BLUE</p>
 
-<p><font color="darkorange">悔やみたくなかった気持ちの先に</font><br />
-<font color="limegreen">広がったセカイを泳いで来たのさ</font><br />
-「あきらめない！」 <font color="deepskyblue">言うだけでは叶わない</font><br />
-「動け！」 <font color="silver">動けば変わるんだと知ったよ</font></p>
+<p><a class="chika">悔やみたくなかった気持ちの先に</a><br />
+<a class="kanan">広がったセカイを泳いで来たのさ</a><br />
+「あきらめない！」 <a class="you">言うだけでは叶わない</a><br />
+「動け！」 <a class="yoshiko">動けば変わるんだと知ったよ</a></p>
 
 <p>【三年生】ずっとここにいたいと思ってるけど<br />
 【一年生】きっと旅立ってくって分かってるんだよ<br />
@@ -24,17 +24,17 @@ layout: post
 次の輝きへと海を渡ろう<br />
 夢が見たい想いは いつでも僕たちを<br />
 つないでくれるから笑って行こう<br />
-<font color="darkorange">イマを重ね そして</font> ミライへ向かおう！﻿</p>
+<a class="chika">イマを重ね そして</a> ミライへ向かおう！﻿</p>
 
-<p><font color="silver"><u>時代[とき]</u>は今日も過ぎてく とめられないと</font><br />
-<font color="pink">気がついた僕らは どこへ向かうの？</font><br />
-<font color="purple">大丈夫！ いつだって思い出せるよ</font><br />
+<p><a class="yoshiko"><u>時代[とき]</u>は今日も過ぎてく とめられないと</a><br />
+<a class="riko">気がついた僕らは どこへ向かうの？</a><br />
+<a class="mari">大丈夫！ いつだって思い出せるよ</a><br />
 【G】駆け抜けてきた すばらしい季節を</p>
 
-<p><font color="limegreen">ずっとここにいたいね 好きだよみんな</font><br />
-<font color="gold">でもね旅立ってくって分かってるんだよ</font><br />
-<font color="red">たくさんがんばってきた時間が愛しい</font><br />
-<font color="limegreen">最高の</font> 【A】ツナガリを いつまでも大事にしよう</p>
+<p><a class="kanan">ずっとここにいたいね 好きだよみんな</a><br />
+<a class="hanamaru">でもね旅立ってくって分かってるんだよ</a><br />
+<a class="dia">たくさんがんばってきた時間が愛しい</a><br />
+<a class="kanan">最高の</a> 【A】ツナガリを いつまでも大事にしよう</p>
 
 <p>【9人】MY NEW WORLD<br />
 またココロが躍るような日々を<br />
@@ -42,9 +42,9 @@ layout: post
 夢は夢のように過ごすだけじゃなくて<br />
 痛みかかえながら求めるものさ</p>
 
-<p><font color="darkorange">イマはイマで昨日と違うよ</font><br />
-<font color="deepskyblue">明日への途中じゃなく イマはイマだね</font><br />
-<font color="magenta">この瞬間のことが重なっては消えてく</font><br />
+<p><a class="chika">イマはイマで昨日と違うよ</a><br />
+<a class="you">明日への途中じゃなく イマはイマだね</a><br />
+<a class="ruby">この瞬間のことが重なっては消えてく</a><br />
 【C】ココロに刻むんだ 【9人】WATER BLUE</p>
 
 <p>NEW WORLD<br />

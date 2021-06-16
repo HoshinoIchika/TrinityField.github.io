@@ -4,27 +4,27 @@ layout: post
 ---
 歌：μ's
 
-<p><font color="saddlebrown">//若无特殊说明，本曲所有未标注演唱者的括号内的内容均由该行的其余所有人演唱</font></p>
+<p><a class="notation">//若无特殊说明，本曲所有未标注演唱者的括号内的内容均由该行的其余所有人演唱</a></p>
 
 <p>(Oh yeah! Oh yeah! Oh yeah!)<br />
 (一進一跳!)<br />
 (Oh yeah! Oh yeah! Oh yeah!)<br />
-<font color="darkorange">(ほら負けないよね)</font></p>
+<a class="honoka">(ほら負けないよね)</a></p>
 
-<p><font color="red">悔しいなまだ No brand</font><br />
-<font color="silver">知られてないよ No brand</font><br />
-<font color="hotpink">なにもかもこれから 熱い気分</font></p>
+<p><a class="maki">悔しいなまだ No brand</a><br />
+<a class="kotori">知られてないよ No brand</a><br />
+<a class="nico">なにもかもこれから 熱い気分</a></p>
 
-<p><font color="purple">楽しいよでも No brand</font>(Do you know?)<br />
-<font color="blue">張りきってるんだ No brand</font>(Do you know?)<br />
-<font color="gold">だから</font>(おいで) <font color="gold">ここで出会うために</font>(Yes,I know!)</p>
+<p><a class="nozomi">楽しいよでも No brand</a>(Do you know?)<br />
+<a class="umi">張りきってるんだ No brand</a>(Do you know?)<br />
+<a class="rin">だから</a>(おいで) <a class="rin">ここで出会うために</a>(Yes,I know!)</p>
 
-<p><font color="lime">目指す場所は</font><font color="darkorange">(高い)</font><br />
-<font color="cyan">いまより高く</font><font color="lime">(どこまで?)</font><br />
-<font color="darkorange">チャンスの前髪を</font><br />
-<font color="cyan">(持って)</font><font color="darkorange">はなさないから</font><br />
-<font color="lime">(ぎゅっと)</font><font color="darkorange">はなさないから</font><br />
-【<font color="lime">花</font><font color="cyan">绘</font>】(Oh yeah!)<font color="darkorange">奇跡の虹を</font><br />
+<p><a class="hanayo">目指す場所は</a><a class="honoka">(高い)</a><br />
+<a class="eli">いまより高く</a><a class="hanayo">(どこまで?)</a><br />
+<a class="honoka">チャンスの前髪を</a><br />
+<a class="eli">(持って)</a><a class="honoka">はなさないから</a><br />
+<a class="hanayo">(ぎゅっと)</a><a class="honoka">はなさないから</a><br />
+【<a class="hanayo">花</a><a class="eli">绘</a>】(Oh yeah!)<a class="honoka">奇跡の虹を</a><br />
 【9人】渡るんだ</p>
 
 <p>壁は Hi Hi Hi 壊せるものさ Hi Hi Hi 倒せるものさ<br />
@@ -34,20 +34,20 @@ Hi Hi Hi 壊せるものさ Hi Hi Hi 倒せるものさ<br />
 (Oh yeah! Oh yeah! Oh yeah!)<br />
 (うん負けないから!)</p>
 
-<p><font color="purple">傷つけあっちゃ No good</font><br />
-<font color="blue">仲<u>違[たが]</u>いは No good</font><br />
-<font color="gold">だいすきの誤解は つらい気分</font></p>
+<p><a class="nozomi">傷つけあっちゃ No good</a><br />
+<a class="umi">仲<u>違[たが]</u>いは No good</a><br />
+<a class="rin">だいすきの誤解は つらい気分</a></p>
 
-<p><font color="lime">苦しい胸は No good</font>(hurry-up!)<br />
-<font color="cyan">あきらめたら No good</font>(hurry-up!)<br />
-<font color="darkorange">そうさ</font>(つよく) <font color="darkorange">なれば叶う想い</font>(Yes,I go!)</p>
+<p><a class="hanayo">苦しい胸は No good</a>(hurry-up!)<br />
+<a class="eli">あきらめたら No good</a>(hurry-up!)<br />
+<a class="honoka">そうさ</a>(つよく) <a class="honoka">なれば叶う想い</a>(Yes,I go!)</p>
 
-<p><font color="silver">願う場所は</font><font color="hotpink">(遠い)</font><br />
-<font color="red">まだまだ遠く</font><font color="silver">(どこかな?)</font><br />
-<font color="hotpink">ジャンプで近くなれ</font><br />
-<font color="red">(今日の)</font><font color="hotpink">背伸びのキミと</font><br />
-<font color="silver">(ぐっと)</font><font color="hotpink">背伸びのボクで</font><br />
-【<font color="red">姬</font><font color="silver">鸟</font>】(Oh yeah!)<font color="hotpink">あの日の誓い</font><br />
+<p><a class="kotori">願う場所は</a><a class="nico">(遠い)</a><br />
+<a class="maki">まだまだ遠く</a><a class="kotori">(どこかな?)</a><br />
+<a class="nico">ジャンプで近くなれ</a><br />
+<a class="maki">(今日の)</a><a class="nico">背伸びのキミと</a><br />
+<a class="kotori">(ぐっと)</a><a class="nico">背伸びのボクで</a><br />
+【<a class="maki">姬</a><a class="kotori">鸟</a>】(Oh yeah!)<a class="nico">あの日の誓い</a><br />
 【9人】探すんだ</p>
 
 <p>闇を Hi Hi Hi 吹き飛ばそうよ Hi Hi Hi 追い払おうよ<br />
@@ -59,9 +59,9 @@ Hi Hi Hi 吹き飛ばそうよ Hi Hi Hi 追い払おうよ<br />
 <p>(Oh yeah! Oh yeah! Oh yeah! Oh yeah!)<br />
 (Oh yeah! Oh yeah! Oh yeah! Oh yeah!)</p>
 
-<p><font color="darkorange">壁は</font><br />
-Hi Hi Hi <font color="darkorange">壊せるものさ</font> Hi Hi Hi <font color="darkorange">倒せるものさ</font><br />
-<font color="darkorange">自分からもっとチカラを出してよ</font><br />
+<p><a class="honoka">壁は</a><br />
+Hi Hi Hi <a class="honoka">壊せるものさ</a> Hi Hi Hi <a class="honoka">倒せるものさ</a><br />
+<a class="honoka">自分からもっとチカラを出してよ</a><br />
 Hi Hi Hi 壊せるものさ Hi Hi Hi 倒せるものさ<br />
 勇気で未来を見せて<br />
 そうだよ覚悟はできた</p>

@@ -2,20 +2,20 @@
 title: ？←HEARTBEAT
 layout: post
 ---
-歌：<font color="hotpink">矢澤にこ</font> <font color="purple">東條希</font> <font color="cyan">絢瀬絵里</font>
+歌：<a class="nico">矢澤にこ</a> <a class="nozomi">東條希</a> <a class="eli">絢瀬絵里</a>
 
-<p><font color="hotpink">ランナウェイだ ランランナウェイだ<br />
-なんなんなんで突然？</font><br />
-<font color="purple">ランナウェイだ ランランナウェイだ<br />
-いきなり人気者</font><br />
-【<font color="hotpink">妮</font><font color="purple">希</font>】ああ…まさかの大ブレイク<br />
+<p><a class="nico">ランナウェイだ ランランナウェイだ<br />
+なんなんなんで突然？</a><br />
+<a class="nozomi">ランナウェイだ ランランナウェイだ<br />
+いきなり人気者</a><br />
+【<a class="nico">妮</a><a class="nozomi">希</a>】ああ…まさかの大ブレイク<br />
 　　　　笑顔で切り抜けて ランランランナウェイ！</p>
 
-<p><font color="cyan">おかしいな もう一回目を閉じて深呼吸<br />
-おかしいね ホントは夢見てるのかな</font><br />
-<font color="hotpink">お互いをつねろう</font><br />
-<font color="purple">痛いほどつねろう</font><br />
-【<font color="hotpink">妮</font><font color="purple">希</font>】消えないねこの街も追いかける人もね<br />
+<p><a class="eli">おかしいな もう一回目を閉じて深呼吸<br />
+おかしいね ホントは夢見てるのかな</a><br />
+<a class="nico">お互いをつねろう</a><br />
+<a class="nozomi">痛いほどつねろう</a><br />
+【<a class="nico">妮</a><a class="nozomi">希</a>】消えないねこの街も追いかける人もね<br />
 　　　　消えない…消えないっ</p>
 
 <p>【3人】ありがとうって思うヒマがないほど<br />
@@ -24,18 +24,18 @@ layout: post
 ハテナから先へとなかなか進めない<br />
 さあ、どうしよう？</p>
 
-<p><font color="purple">ランナウェイだ ランランナウェイだ<br />
-なんなんなんで突然？</font><br />
-<font color="cyan">ランナウェイだ ランランナウェイだ<br />
-いきなり人気者</font><br />
-【<font color="cyan">绘</font><font color="purple">希</font>】ああ…運命変わりそう<br />
+<p><a class="nozomi">ランナウェイだ ランランナウェイだ<br />
+なんなんなんで突然？</a><br />
+<a class="eli">ランナウェイだ ランランナウェイだ<br />
+いきなり人気者</a><br />
+【<a class="eli">绘</a><a class="nozomi">希</a>】ああ…運命変わりそう<br />
 　　　　落ち着いてられないよ ランランランナウェイ！</p>
 
-<p><font color="hotpink">うれしいな でもねいきなりの逃亡タイム<br />
-うれしいと 実際に感じる余裕がない</font><br />
-<font color="purple">明日から変装かい？</font><br />
-<font color="cyan">サングラス必要かい？</font><br />
-【<font color="cyan">绘</font><font color="purple">希</font>】走ろうかこの街をいつもの場所へと<br />
+<p><a class="nico">うれしいな でもねいきなりの逃亡タイム<br />
+うれしいと 実際に感じる余裕がない</a><br />
+<a class="nozomi">明日から変装かい？</a><br />
+<a class="eli">サングラス必要かい？</a><br />
+【<a class="eli">绘</a><a class="nozomi">希</a>】走ろうかこの街をいつもの場所へと<br />
 　　　　走ろう…走ろうっ</p>
 
 <p>【3人】大好きって思ってくれること<br />

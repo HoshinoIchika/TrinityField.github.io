@@ -4,7 +4,7 @@ layout: post
 ---
 歌：μ's
 
-<p><font color="saddlebrown">//若无特殊说明，本曲所有括号内的内容均由该行的其余所有人演唱</font></p>
+<p><a class="notation">//若无特殊说明，本曲所有括号内的内容均由该行的其余所有人演唱</a></p>
 
 <p>スーパーラブ! みんなでスーパーライブ!<br />
 LIVE! Are you ready? Go!</p>
@@ -73,22 +73,22 @@ LIVE! Are you ready? Go!</p>
 ひとつになれるそんな気がしたら<br />
 からだ動かそうよ Super LOVE=Super LIVE!</p>
 
-<p><font color="darkorange">Super LOVE,Super LIVE!</font>(Come on!)<br />
-<font color="silver">Super LOVE,Super LIVE!</font>(Come on!)<br />
-<font color="blue">Super LOVE,Super LIVE!</font>(Come on!)<br />
-<font color="lime">Super LOVE,Super LIVE!</font>(Come on!)<br />
-<font color="gold">Super LOVE,Super LIVE!</font>(Come on!)<br />
-<font color="red">Super LOVE,Super LIVE!</font>(Come on!)<br />
-<font color="hotpink">Super LOVE,Super LIVE!</font>(Come on!)<br />
-<font color="cyan">Super LOVE,Super LIVE!</font>(Come on!)<br />
-<font color="purple">Super LOVE,Super LIVE!</font>(Come on!)<br />
+<p><a class="honoka">Super LOVE,Super LIVE!</a>(Come on!)<br />
+<a class="kotori">Super LOVE,Super LIVE!</a>(Come on!)<br />
+<a class="umi">Super LOVE,Super LIVE!</a>(Come on!)<br />
+<a class="hanayo">Super LOVE,Super LIVE!</a>(Come on!)<br />
+<a class="rin">Super LOVE,Super LIVE!</a>(Come on!)<br />
+<a class="maki">Super LOVE,Super LIVE!</a>(Come on!)<br />
+<a class="nico">Super LOVE,Super LIVE!</a>(Come on!)<br />
+<a class="eli">Super LOVE,Super LIVE!</a>(Come on!)<br />
+<a class="nozomi">Super LOVE,Super LIVE!</a>(Come on!)<br />
 Everybody jump!!</p>
 
-<p><font color="darkorange">愛するって歌うことかな<br />
-想いをみんなへ伝えたい願いのこと</font><br />
-<font color="gold">いっぱい声をだすんだ</font><br />
-<font color="hotpink">大きな声だすんだ</font><br />
-<font color="darkorange">それが僕らの表現さ</font></p>
+<p><a class="honoka">愛するって歌うことかな<br />
+想いをみんなへ伝えたい願いのこと</a><br />
+<a class="rin">いっぱい声をだすんだ</a><br />
+<a class="nico">大きな声だすんだ</a><br />
+<a class="honoka">それが僕らの表現さ</a></p>
 
 <p>生きるって笑うことかな<br />
 泣いたあとには軽くなるこころだから<br />

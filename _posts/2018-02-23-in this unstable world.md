@@ -2,48 +2,48 @@
 title: in this unstable world
 layout: post
 ---
-歌：<font color="silver">津島善子</font>
+歌：<a class="yoshiko">津島善子</a>
 
-<p><font color="silver">ヒトはヒトツの存在とは限らない<br />
+<p><a class="yoshiko">ヒトはヒトツの存在とは限らない<br />
 white wing black wing<br />
-昨日と違う私が 違う答え出してたんだ</font></p>
+昨日と違う私が 違う答え出してたんだ</a></p>
 
-<p><font color="silver">noがyesなら yesはno？<br />
+<p><a class="yoshiko">noがyesなら yesはno？<br />
 どっちも気分次第<br />
-Ah きっと知らない自分が もっといるの</font></p>
+Ah きっと知らない自分が もっといるの</a></p>
 
-<p><font color="silver">この退屈セカイを渡るには<br />
+<p><a class="yoshiko">この退屈セカイを渡るには<br />
 力を合わせなきゃ駄目よ<br />
 ほら私と貴方とワタシなら<br />
 やがて奇跡が起きちゃうって！<br />
 だけど今は我慢しようか<br />
-雌伏の時さ unstable world</font></p>
+雌伏の時さ unstable world</a></p>
 
-<p><font color="silver">ヒトは記憶でヒトだと信じ込んで<br />
+<p><a class="yoshiko">ヒトは記憶でヒトだと信じ込んで<br />
 good deed bad deed<br />
-真の姿がみんなと違うことを 嫌悪して</font></p>
+真の姿がみんなと違うことを 嫌悪して</a></p>
 
-<p><font color="silver">goはgoだよ stopじゃない<br />
+<p><a class="yoshiko">goはgoだよ stopじゃない<br />
 さあ迷わず飛んじゃえば<br />
 nonstop and flyだよ stopじゃない<br />
 さあ迷わず飛んじゃえば<br />
-Ah 本当の自分わかるんだって 本当さ</font></p>
+Ah 本当の自分わかるんだって 本当さ</a></p>
 
-<p><font color="silver">まだ聖なるセカイ夢見てるの？<br />
+<p><a class="yoshiko">まだ聖なるセカイ夢見てるの？<br />
 美しさは脆いものよ<br />
 たぶん貴方とアナタと私達<br />
-無垢なままでいられない</font></p>
+無垢なままでいられない</a></p>
 
-<p><font color="silver">聖なるセカイ夢見てるの？<br />
+<p><a class="yoshiko">聖なるセカイ夢見てるの？<br />
 白い翼を背にしたいの？<br />
 でも貴方とアナタと私達<br />
-無垢なままでいられない</font></p>
+無垢なままでいられない</a></p>
 
-<p><font color="silver">この退屈セカイを渡るには<br />
+<p><a class="yoshiko">この退屈セカイを渡るには<br />
 力を合わせなきゃ駄目よ<br />
 ほら私と貴方とワタシなら<br />
 やがて奇跡が起きちゃうって！<br />
 だけど今は我慢しようか<br />
 雌伏の時 タイミング待ってる<br />
 いつかどこか私と貴方<br />
-出会う筈でしょ unstable world</font></p>
+出会う筈でしょ unstable world</a></p>

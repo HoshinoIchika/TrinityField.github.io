@@ -4,46 +4,46 @@ layout: post
 ---
 歌：Guilty Kiss
 
-<p><font color="silver">常識とは？なんだって？？<br />
+<p><a class="yoshiko">常識とは？なんだって？？<br />
 ここは大宇宙よ<br />
-星の数だけ いろんな恋始まっては消えてく</font><br />
-<font color="purple">生きとし生けるもの<br />
+星の数だけ いろんな恋始まっては消えてく</a><br />
+<a class="mari">生きとし生けるもの<br />
 好きと感じたら<br />
-他のことはどうでもよくなるから</font></p>
+他のことはどうでもよくなるから</a></p>
 
-<p><font color="pink">あなたが誰かなんて<br />
+<p><a class="riko">あなたが誰かなんて<br />
 ああ聞いたりしない<br />
-心にイナヅマ走る</font><br />
+心にイナヅマ走る</a><br />
 ビリンビリンビリンって</p>
 
 <p>運命なんだと思えば<br />
 ためらいもないでしょ？So, Get my love!!<br />
 熱くなって触れあって<br />
 そこから先は…<br />
-<font color="silver">まだわからない</font>【<font color="pink">梨</font><font color="purple">鞠</font>】(I don't care)<br />
-<font color="silver">わからないままで</font>　　　(Just leave it!)<br />
-<font color="silver">近づけば甘い罠？</font><br />
+<a class="yoshiko">まだわからない</a>【<a class="riko">梨</a><a class="mari">鞠</a>】(I don't care)<br />
+<a class="yoshiko">わからないままで</a>　　　(Just leave it!)<br />
+<a class="yoshiko">近づけば甘い罠？</a><br />
 【3人】Love Pulsar</p>
 
-<p><font color="purple">正論だね！もうたくさん！！<br />
+<p><a class="mari">正論だね！もうたくさん！！<br />
 広い大宇宙で<br />
-恋の安定望むの つまらないそんなの</font><br />
-<font color="pink">為せば成る 為しちゃいな<br />
+恋の安定望むの つまらないそんなの</a><br />
+<a class="riko">為せば成る 為しちゃいな<br />
 好きは最優先だ<br />
-他のことはどうにかなるってものさ</font></p>
+他のことはどうにかなるってものさ</a></p>
 
-<p><font color="silver">わたしが今あなたと<br />
+<p><a class="yoshiko">わたしが今あなたと<br />
 ああ一緒にいたい<br />
-身体にイカヅチ落ちた</font><br />
+身体にイカヅチ落ちた</a><br />
 ドキンドキンドキンって</p>
 
 <p>本心言ってよ ずるいよ<br />
 黙って逃げるの？So, Get my love!!<br />
 痛くなった胸もっと<br />
 見せたい見たい…<br />
-<font color="purple">ほらとまらない</font>【<font color="pink">梨</font><font color="silver">善</font>】(I don't care)<br />
-<font color="purple">とまらないままで</font>　　　(Just leave it!)<br />
-<font color="purple">あなたと宇宙そらを飛ぶよ</font><br />
+<a class="mari">ほらとまらない</a>【<a class="riko">梨</a><a class="yoshiko">善</a>】(I don't care)<br />
+<a class="mari">とまらないままで</a>　　　(Just leave it!)<br />
+<a class="mari">あなたと宇宙そらを飛ぶよ</a><br />
 【3人】Love Pulsar</p>
 
 <p>運命なんだと思えば<br />
@@ -55,7 +55,7 @@ layout: post
 黙って逃げるの？So, Get my love!!<br />
 痛くなった胸もっと<br />
 見せたい見たい…<br />
-<font color="pink">ほらとまらない</font>【<font color="silver">善</font><font color="purple">鞠</font>】(I don't care)<br />
-<font color="pink">とまらないままで</font>　　　(Just leave it!)<br />
-<font color="pink">あなたと宇宙そらを飛ぶよ</font><br />
+<a class="riko">ほらとまらない</a>【<a class="yoshiko">善</a><a class="mari">鞠</a>】(I don't care)<br />
+<a class="riko">とまらないままで</a>　　　(Just leave it!)<br />
+<a class="riko">あなたと宇宙そらを飛ぶよ</a><br />
 【3人】Love Pulsar</p>

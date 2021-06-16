@@ -13,12 +13,12 @@ layout: post
 不思議だよ 特別な夢さ<br />
 (Wonder feeling)</p><br />
 
-<p>【<font color="darkorange">果</font><font color="silver">鸟</font><font color="cyan">绘</font>】元気あげたいな 明日もHappy<br />
+<p>【<a class="honoka">果</a><a class="kotori">鸟</a><a class="eli">绘</a>】元気あげたいな 明日もHappy<br />
 　　　　　いっぱい楽しんで ときめきたいよ<br />
-【<font color="red">姬</font><font color="hotpink">妮</font><font color="purple">希</font>】元気出し過ぎて 転んだあとも<br />
+【<a class="maki">姬</a><a class="nico">妮</a><a class="nozomi">希</a>】元気出し過ぎて 転んだあとも<br />
 　　　　　さっと起き上がり 笑顔でしょ!</p>
 
-<p>【<font color="blue">海</font><font color="gold">凛</font><font color="lime">花</font>】どんなに つらいコトがあっても<br />
+<p>【<a class="umi">海</a><a class="rin">凛</a><a class="hanayo">花</a>】どんなに つらいコトがあっても<br />
 　　　　　泣かずにがんばらなきゃ輝けないね!</p>
 
 <p>【9人】Wonder zone<br />
@@ -32,12 +32,12 @@ layout: post
 不思議だよ 特別な夢さ<br />
 (Wonder feeling)</p>
 
-<p>【<font color="red">姬</font><font color="hotpink">妮</font><font color="purple">希</font>】勇気忘れずに 進めばLucky<br />
+<p>【<a class="maki">姬</a><a class="nico">妮</a><a class="nozomi">希</a>】勇気忘れずに 進めばLucky<br />
 　　　　　みんな出会えるよ しあわせになれ<br />
-【<font color="blue">海</font><font color="gold">凛</font><font color="lime">花</font>】勇気消えそうで 不安なときは<br />
+【<a class="umi">海</a><a class="rin">凛</a><a class="hanayo">花</a>】勇気消えそうで 不安なときは<br />
 　　　　　うんと背伸びして 前向いて!</p>
 
-<p>【<font color="darkorange">果</font><font color="silver">鸟</font><font color="cyan">绘</font>】なんども確かめたくなるよ<br />
+<p>【<a class="honoka">果</a><a class="kotori">鸟</a><a class="eli">绘</a>】なんども確かめたくなるよ<br />
 　　　　　となりにいてくれるキミに合図!</p>
 
 <p>【9人】Wonder sign<br />
@@ -46,9 +46,9 @@ layout: post
 キミとあつく動きだそう 急いできてよ<br />
 ぐっと大きな夢をはじめよう</p>
 
-<p><font color="silver">Wonder zone<br />
-強い私へとなれるミライ</font><br />
-【<font color="lime">花</font><font color="purple">希</font>】いっしょに見つけよう I'm OK!<br />
+<p><a class="kotori">Wonder zone<br />
+強い私へとなれるミライ</a><br />
+【<a class="hanayo">花</a><a class="nozomi">希</a>】いっしょに見つけよう I'm OK!<br />
 【9人】キミにつよく呼ばれたよ 走ってきたよ<br />
 きっと大きな夢がはじまる</p>
 

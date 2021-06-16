@@ -4,14 +4,14 @@ layout: post
 ---
 歌：μ's
 
-<p><font color="darkorange">心にFanfare 鳴り響く出会い</font><br />
-<font color="silver">いつまでも</font> <font color="blue">熱いままの君だと</font><br />
-【<font color="silver">鸟</font><font color="blue">海</font>】僕は信じてるよ</p>
+<p><a class="honoka">心にFanfare 鳴り響く出会い</a><br />
+<a class="kotori">いつまでも</a> <a class="umi">熱いままの君だと</a><br />
+【<a class="kotori">鸟</a><a class="umi">海</a>】僕は信じてるよ</p>
 
-<p><font color="lime">安心より</font> <font color="red">冒険だと</font><br />
-<font color="gold">笑いながら Jumping high</font><br />
-<font color="hotpink">とまらない</font> <font color="purple">時間の中</font><br />
-<font color="cyan">輝きを求め続けてる</font></p>
+<p><a class="hanayo">安心より</a> <a class="maki">冒険だと</a><br />
+<a class="rin">笑いながら Jumping high</a><br />
+<a class="nico">とまらない</a> <a class="nozomi">時間の中</a><br />
+<a class="eli">輝きを求め続けてる</a></p>
 
 <p>がんばってがんばってその先で<br />
 素敵なことが起こるよ(Hi!)<br />
@@ -22,14 +22,14 @@ I'm OK, I'm OK! あきらめない<br />
 I'm OK, I'm OK! 叫びたい<br />
 「行こうよ！みんなでもっとね！」</p>
 
-<p><font color="hotpink">流れるMy music あふれだす願い</font><br />
-<font color="purple">ひとつずつ</font> <font color="cyan">語ろうそして進もう</font><br />
-【<font color="purple">希</font><font color="cyan">绘</font>】新しい未来へ</p>
+<p><a class="nico">流れるMy music あふれだす願い</a><br />
+<a class="nozomi">ひとつずつ</a> <a class="eli">語ろうそして進もう</a><br />
+【<a class="nozomi">希</a><a class="eli">绘</a>】新しい未来へ</p>
 
-<p><font color="silver">発見へと</font> <font color="blue">旅立ちへと</font><br />
-<font color="darkorange">希望が燃える Brand new day</font><br />
-<font color="gold">おもしろい</font> <font color="red">場所に立とう</font><br />
-<font color="lime">消えないねときめきの予報が</font></p>
+<p><a class="kotori">発見へと</a> <a class="umi">旅立ちへと</a><br />
+<a class="honoka">希望が燃える Brand new day</a><br />
+<a class="rin">おもしろい</a> <a class="maki">場所に立とう</a><br />
+<a class="hanayo">消えないねときめきの予報が</a></p>
 
 <p>だいじょうぶだいじょうぶ楽しもう<br />
 無敵さ元気な僕たち(Hi!)<br />

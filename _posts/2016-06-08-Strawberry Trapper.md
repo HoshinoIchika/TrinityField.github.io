@@ -4,21 +4,21 @@ layout: post
 ---
 歌：Guilty Kiss
 
-<p><font color="silver">Ready？</font><br />
+<p><a class="yoshiko">Ready？</a><br />
 待ってないよ ...LOVE!!</p>
 
-<p>(Wow Wo)<font color="pink">見つけた！キミは淋しい瞳だった</font><br />
-(Wow Wo)<font color="silver">鼓動が鳴ってる 「手に入れなさい」と</font><br />
-(Wow Wo)<font color="purple">冷静なほど 熱さを楽しめるの<br />
-高まる思いは抑えて</font></p>
+<p>(Wow Wo)<a class="riko">見つけた！キミは淋しい瞳だった</a><br />
+(Wow Wo)<a class="yoshiko">鼓動が鳴ってる 「手に入れなさい」と</a><br />
+(Wow Wo)<a class="mari">冷静なほど 熱さを楽しめるの<br />
+高まる思いは抑えて</a></p>
 
-<p>静かに <font color="silver">集めるキミの情報</font><br />
-確かに <font color="purple">価値ある Sensitive mind</font><br />
-<font color="pink">背後に歩み寄る スリルがたまらない<br />
-狙い定めたら 逃がさないから</font><br />
+<p>静かに <a class="yoshiko">集めるキミの情報</a><br />
+確かに <a class="mari">価値ある Sensitive mind</a><br />
+<a class="riko">背後に歩み寄る スリルがたまらない<br />
+狙い定めたら 逃がさないから</a><br />
 逃がさないから</p>
 
-<p><font color="pink">My Target!!</font></p>
+<p><a class="riko">My Target!!</a></p>
 
 <p>(Trap in Dice)恋の罠から<br />
 (Trap in Night)始まりたい<br />
@@ -28,18 +28,18 @@ layout: post
 奪いたいキミのこと<br />
 待ってないよ...LOVE!!</p>
 
-<p>(Wow Wo)<font color="pink">怯える顔が</font> (Wow Wo)<font color="silver">見たいのなんてさ</font><br />
-(Wow Wo)<font color="purple">企むときはきっとワルイ顔ね</font><br />
-<font color="pink">いただきたいのは その心よ<br />
-脆くて危うい優しさ</font></p>
+<p>(Wow Wo)<a class="riko">怯える顔が</a> (Wow Wo)<a class="yoshiko">見たいのなんてさ</a><br />
+(Wow Wo)<a class="mari">企むときはきっとワルイ顔ね</a><br />
+<a class="riko">いただきたいのは その心よ<br />
+脆くて危うい優しさ</a></p>
 
-<p>静かな <font color="silver">孤独を愛するキミ</font><br />
-確かな <font color="pink">輝き放つの</font><br />
-<font color="purple">気づかれないうちに 私のモノにしたい<br />
-狙い定めたら 逃がさないから</font><br />
+<p>静かな <a class="yoshiko">孤独を愛するキミ</a><br />
+確かな <a class="riko">輝き放つの</a><br />
+<a class="mari">気づかれないうちに 私のモノにしたい<br />
+狙い定めたら 逃がさないから</a><br />
 逃がさないから</p>
 
-<p><font color="purple">My Target!!</font></p>
+<p><a class="mari">My Target!!</a></p>
 
 <p>(Trick in Dice)恋に賭けたら<br />
 (Trick in Night)後に引けない<br />
@@ -47,18 +47,18 @@ layout: post
 (運命と)わかる出会い素敵だわ<br />
 特別を感じたら</p>
 
-<p><font color="pink">ヨハネ、召喚！</font></p>
+<p><a class="riko">ヨハネ、召喚！</a></p>
 
-<p><font color="silver">「手に入れて」秘めたる声は<br />
+<p><a class="yoshiko">「手に入れて」秘めたる声は<br />
 berryの香りTrap in one night<br />
-赤いberry 甘く強く</font><br />
+赤いberry 甘く強く</a><br />
 滴って</p>
 
-<p><font color="purple">(Trick in Dice)</font><font color="silver">恋に賭けたら</font><br />
-<font color="purple">(Trick in Night)</font><font color="pink">後に引けない</font><br />
-<font color="purple">(Trick in Heart)</font><font color="silver">勝つだけでしょ</font><br />
+<p><a class="mari">(Trick in Dice)</a><a class="yoshiko">恋に賭けたら</a><br />
+<a class="mari">(Trick in Night)</a><a class="riko">後に引けない</a><br />
+<a class="mari">(Trick in Heart)</a><a class="yoshiko">勝つだけでしょ</a><br />
 人生はルーレット<br />
-<font color="purple">(Lock on!!!)</font></p>
+<a class="mari">(Lock on!!!)</a></p>
 
 <p>(Trap in Dice)恋の罠から<br />
 (Trap in Night)始まりたい<br />

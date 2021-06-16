@@ -13,9 +13,9 @@ Shangri-La from stage,on stage!</p>
 　　&nbsp;&nbsp;&nbsp;だからもっとね楽しもうよ<br />
 　　&nbsp;&nbsp;&nbsp;Shangri-La Shower</p>
 
-<p><font color="purple">夏はみんなの熱気でじりじり</font><br />
-<font color="gold">声が大胆なファンファーレ奏でる</font><br />
-<font color="blue">作ろうね! 新規の</font><br />
+<p><a class="nozomi">夏はみんなの熱気でじりじり</a><br />
+<a class="rin">声が大胆なファンファーレ奏でる</a><br />
+<a class="umi">作ろうね! 新規の</a><br />
 【L】素敵な思い出を…<br />
 【P&B】I wanna story!</p>
 
@@ -36,9 +36,9 @@ Shangri-La on stage!【B】(Shangri-La from stage,on stage!)</p>
 　　&nbsp;&nbsp;&nbsp;不思議パワーで盛りあがれ<br />
 　　&nbsp;&nbsp;&nbsp;Shangri-La Shower</p>
 
-<p><font color="red">夏はみんなと一緒にわくわく</font><br />
-<font color="hotpink">誰も明日のことは知らない</font><br />
-<font color="cyan">遊ぼうね! ライトよ</font><br />
+<p><a class="maki">夏はみんなと一緒にわくわく</a><br />
+<a class="nico">誰も明日のことは知らない</a><br />
+<a class="eli">遊ぼうね! ライトよ</a><br />
 【B】夜空を埋め尽くせ…<br />
 【P&L】You wanna story!</p>
 
@@ -50,14 +50,14 @@ Carnival 感じ続けて<br />
 私、君と君のパッション離さないよ<br />
 Say yes,Come on!!</p>
 
-<p><font color="silver">夏はみんなの熱気でじりじり</font><br />
-<font color="lime">声が大胆なファンファーレ奏でる</font><br />
-<font color="darkorange">作ろうね!新規の</font><br />
+<p><a class="kotori">夏はみんなの熱気でじりじり</a><br />
+<a class="hanayo">声が大胆なファンファーレ奏でる</a><br />
+<a class="honoka">作ろうね!新規の</a><br />
 【P】素敵な思い出を…<br />
 【B&L】I wanna story!</p>
 
-<p><font color="silver">Festival</font> <font color="darkorange">終わらない奇跡は</font><br />
-<font color="lime">Festival</font> <font color="darkorange">私たちの夢</font>【B&L】(Hey!)<br />
+<p><a class="kotori">Festival</a> <a class="honoka">終わらない奇跡は</a><br />
+<a class="hanayo">Festival</a> <a class="honoka">私たちの夢</a>【B&L】(Hey!)<br />
 【P】だっていつまでも Dancing Dancing! Dance my beat!<br />
 【9人】Festival 終わりたくないから<br />
 Festival 踊り続けて<br />

@@ -6,48 +6,48 @@ layout: post
 
 <p>隠して→開いて→隠して まだこれは恋じゃないの<br />
 開いて→隠して→開いて 覚悟決めて追いかけて<br />
-<font color="blue">始まりたい…</font><br />
+<a class="umi">始まりたい…</a><br />
 WILD STARS</p>
 
-<p><font color="silver">気まぐれな光で あなたを見つけるよ</font><br />
-<font color="hotpink">刺激にさらわれてしまえ こんな夜は</font><br />
-<font color="darkorange">退屈を抱えた 僕の胸を揺らす</font><br />
-<font color="red">突然の嵐は熱い野生の風だった</font></p>
+<p><a class="kotori">気まぐれな光で あなたを見つけるよ</a><br />
+<a class="nico">刺激にさらわれてしまえ こんな夜は</a><br />
+<a class="honoka">退屈を抱えた 僕の胸を揺らす</a><br />
+<a class="maki">突然の嵐は熱い野生の風だった</a></p>
 
-<p><font color="lime">出会うための場所を</font><br />
-<font color="gold">ずっとずっと探してた</font><br />
-<font color="cyan">ここに君と</font> <font color="purple">私</font> 【<font color="cyan">绘</font><font color="purple">希</font>】来たよ<br />
+<p><a class="hanayo">出会うための場所を</a><br />
+<a class="rin">ずっとずっと探してた</a><br />
+<a class="eli">ここに君と</a> <a class="nozomi">私</a> 【<a class="eli">绘</a><a class="nozomi">希</a>】来たよ<br />
 【9人】今からふたり 今から輝くよ</p>
 
 <p>隠して→開いて→隠して まだこれは恋じゃないの<br />
 開いて→隠して→開いて 覚悟決めて追いかけて<br />
-<font color="blue">始まりたい…</font><br />
+<a class="umi">始まりたい…</a><br />
 WILD STARS</p>
 
-<p><font color="blue">星座を抜けだして あなたと踊りたい</font><br />
-<font color="purple">優しいその笑顔 私だけに見せて</font><br />
-<font color="cyan">瞳が燃え上がる 誰にも譲れない</font><br />
-<font color="darkorange">感じた衝撃に僕はかなり無茶な気分</font></p>
+<p><a class="umi">星座を抜けだして あなたと踊りたい</a><br />
+<a class="nozomi">優しいその笑顔 私だけに見せて</a><br />
+<a class="eli">瞳が燃え上がる 誰にも譲れない</a><br />
+<a class="honoka">感じた衝撃に僕はかなり無茶な気分</a></p>
 
-<p><font color="hotpink">出会いたいと願う</font><br />
-<font color="red">きっときっと伝わるさ</font><br />
-<font color="gold">そして君と</font> <font color="lime">私</font> 【<font color="gold">凛</font><font color="lime">花</font>】来たよ<br />
+<p><a class="nico">出会いたいと願う</a><br />
+<a class="maki">きっときっと伝わるさ</a><br />
+<a class="rin">そして君と</a> <a class="hanayo">私</a> 【<a class="rin">凛</a><a class="hanayo">花</a>】来たよ<br />
 【9人】今だよふたり 今だよ輝いて</p>
 
 <p>動いて→開いて→動いて さあこれが恋になるの<br />
 開いて→動いて→開いて 恋の扉の前だと<br />
-<font color="silver">囁いたら…</font><br />
+<a class="kotori">囁いたら…</a><br />
 WILD LOVE</p>
 
-<p><font color="blue">孤独の空を離れたい</font><br />
-<font color="hotpink">あなたとならできると解る</font><br />
-<font color="red">闇は消えるよ</font><br />
-<font color="lime">闇の向こうに</font><br />
-<font color="gold">眩しい場所がある</font> <font color="purple">ある</font> <font color="darkorange">ある</font><br />
-<font color="silver">見える</font></p>
+<p><a class="umi">孤独の空を離れたい</a><br />
+<a class="nico">あなたとならできると解る</a><br />
+<a class="maki">闇は消えるよ</a><br />
+<a class="hanayo">闇の向こうに</a><br />
+<a class="rin">眩しい場所がある</a> <a class="nozomi">ある</a> <a class="honoka">ある</a><br />
+<a class="kotori">見える</a></p>
 
 <p>動いて→開いて→動いて さあこれが恋になるの<br />
 開いて→動いて→開いて 恋の扉の前だと<br />
-<font color="silver">囁いたら</font><br />
-<font color="blue">どうする?</font><br />
+<a class="kotori">囁いたら</a><br />
+<a class="umi">どうする?</a><br />
 WILD STARS</p>

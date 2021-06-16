@@ -35,12 +35,12 @@ layout: post
 【一年生】ふざけて駆けあし転びそうだ<br />
 【二年生】待って 待ってどこか寄って帰る？</p>
 
-<p><font color="darkorange">すれ違ってもわからないくらい</font><br />
-<font color="blue">君も僕も大人に</font><br />
-<font color="silver">なった頃が想像できない</font><br />
+<p><a class="honoka">すれ違ってもわからないくらい</a><br />
+<a class="umi">君も僕も大人に</a><br />
+<a class="kotori">なった頃が想像できない</a><br />
 【二年生】だってずっと一緒だから</p>
 
 <p>【9人】木漏れ日のなか呼んでみたけど<br />
 風が不意にかき消す<br />
 一瞬なんだか切なさへと景色が揺れ動いた<br />
-【二年生】景色が揺れ動いた <font color="saddlebrown">//原曲为二年生，live为全员，请自行选择</font></p>
+【二年生】景色が揺れ動いた <a class="notation">//原曲为二年生，live为全员，请自行选择</a></p>

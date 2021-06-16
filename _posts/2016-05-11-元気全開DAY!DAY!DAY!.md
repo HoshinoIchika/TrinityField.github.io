@@ -8,17 +8,17 @@ layout: post
 ねえねえ みんなもね爽快？<br />
 やあやあ なんでもできそうだ！？</p>
 
-<p><font color="darkorange">思いついたことがあるから<br />
+<p><a class="chika">思いついたことがあるから<br />
 早く会いたいな 話したいな<br />
-待ちきれなくて早起きだ</font><br />
-<font color="deepskyblue">朝の空気は緑と潮の香り<br />
-うんとうんと吸いこんで</font></p>
+待ちきれなくて早起きだ</a><br />
+<a class="you">朝の空気は緑と潮の香り<br />
+うんとうんと吸いこんで</a></p>
 
-<p>【<font color="darkorange">千</font><font color="magenta">露</font>】坂道駆け足<br />
-<font color="deepskyblue">ああ誰かの背中が</font><br />
-【<font color="darkorange">千</font><font color="magenta">露</font>】遠くに見えるよ おはよう！<br />
-<font color="deepskyblue">(おはヨーソロー！)</font><br />
-【<font color="darkorange">千</font><font color="magenta">露</font>】手を上げたらダッシュだ 気づいてるね？</p>
+<p>【<a class="chika">千</a><a class="ruby">露</a>】坂道駆け足<br />
+<a class="you">ああ誰かの背中が</a><br />
+【<a class="chika">千</a><a class="ruby">露</a>】遠くに見えるよ おはよう！<br />
+<a class="you">(おはヨーソロー！)</a><br />
+【<a class="chika">千</a><a class="ruby">露</a>】手を上げたらダッシュだ 気づいてるね？</p>
 
 <p>今日はどんな日かな<br />
 (どんな日だ？)<br />
@@ -27,30 +27,30 @@ layout: post
 ねえ聞いてよっ<br />
 楽しくなっちゃいそうな<br />
 アイディアがあるからさ<br />
-放課後集まってよ<font color="magenta">(断るの無し！)</font><br />
+放課後集まってよ<a class="ruby">(断るの無し！)</a><br />
 意味深な声で ま·た·ねっ</p>
 
 <p>やあやあ 朝から全開！<br />
 ねえねえ みんなもね爽快？<br />
 やあやあ なんでもできそうだ！？</p>
 
-<p><font color="magenta">お昼食べて眠くなったから<br />
+<p><a class="ruby">お昼食べて眠くなったから<br />
 少し目を閉じた 寝ないよ寝ない<br />
-休むだけだよほんのちょっとね</font><br />
-<font color="deepskyblue">窓の外のざわめきは子守歌<br />
-…なんだなんだ起きなきゃ</font></p>
+休むだけだよほんのちょっとね</a><br />
+<a class="you">窓の外のざわめきは子守歌<br />
+…なんだなんだ起きなきゃ</a></p>
 
-<p>【<font color="deepskyblue">曜</font><font color="magenta">露</font>】伸び～した後ろで　<br />
-<font color="darkorange">ああ誰かが呼んでる</font><br />
-【<font color="deepskyblue">曜</font><font color="magenta">露</font>】寝ぐせをこまかす こんちわ！<br />
-<font color="darkorange">(こんちか！)</font><br />
-【<font color="deepskyblue">曜</font><font color="magenta">露</font>】照れ笑いでピンチだ<br />
+<p>【<a class="you">曜</a><a class="ruby">露</a>】伸び～した後ろで　<br />
+<a class="chika">ああ誰かが呼んでる</a><br />
+【<a class="you">曜</a><a class="ruby">露</a>】寝ぐせをこまかす こんちわ！<br />
+<a class="chika">(こんちか！)</a><br />
+【<a class="you">曜</a><a class="ruby">露</a>】照れ笑いでピンチだ<br />
 【3人】気づかれたか？</p>
 
-<p><font color="darkorange">なにから話そうか</font><br />
-<font color="magenta">(なにから)</font><br />
-<font color="deepskyblue">その時に決めよう</font><br />
-<font color="magenta">(話そう？)</font></p>
+<p><a class="chika">なにから話そうか</a><br />
+<a class="ruby">(なにから)</a><br />
+<a class="you">その時に決めよう</a><br />
+<a class="ruby">(話そう？)</a></p>
 
 <p>今日はどんな日かな<br />
 (どんな日だ？)<br />
@@ -59,7 +59,7 @@ layout: post
 ねえ聞いてよっ<br />
 楽しくなっちゃいそうな<br />
 アイディアがあるからさ<br />
-放課後集まってよ<font color="magenta">(断るの無し！)</font><br />
+放課後集まってよ<a class="ruby">(断るの無し！)</a><br />
 意味深な声で ま·た·ねっ</p>
 
 <p>やあやあ 朝から全開！<br />

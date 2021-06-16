@@ -5,48 +5,48 @@ layout: post
 歌：μ's
 
 <p>どんな明日が待ってるんだろう？なんてね<br />
-<font color="darkorange">(僕は)</font>僕たちは少しずつ手探りしてた<br />
+<a class="honoka">(僕は)</a>僕たちは少しずつ手探りしてた<br />
 励ましあって ぶつかりあった時でさえ<br />
-<font color="darkorange">(わかってた)</font>おんなじ夢を見てると</p>
+<a class="honoka">(わかってた)</a>おんなじ夢を見てると</p>
 
-<p>目指すのは <font color="cyan">あの太陽</font><br />
-おおきな <font color="silver">輝きをつかまえる</font><br />
-いつかの <font color="darkorange">願いへと近づいて</font><br />
+<p>目指すのは <a class="eli">あの太陽</a><br />
+おおきな <a class="kotori">輝きをつかまえる</a><br />
+いつかの <a class="honoka">願いへと近づいて</a><br />
 光の中で歌うんだ Sensation!</p>
 
 <p>奇跡それは今さ ここなんだ<br />
 みんなの想いが導いた場所なんだ<br />
 だから本当に今を楽しんで<br />
 みんなで叶える物語 夢のStory<br />
-<font color="blue">「まぶしいな！」</font><font color="red">「いいな！」</font><font color="purple">「おいでよ！」</font><br />
-<font color="lime">「うれしいな！」</font><font color="hotpink">「いいな！」</font><font color="gold">「もっとね！」</font><br />
+<a class="umi">「まぶしいな！」</a><a class="maki">「いいな！」</a><a class="nozomi">「おいでよ！」</a><br />
+<a class="hanayo">「うれしいな！」</a><a class="nico">「いいな！」</a><a class="rin">「もっとね！」</a><br />
 ひとつになれこころ…KiRa-KiRa!!</p>
 
 <p>今日も応援を感謝してるよ！ってね<br />
-<font color="cyan">(君と)</font>君たちと語りたい 喜びの頂点<br />
+<a class="eli">(君と)</a>君たちと語りたい 喜びの頂点<br />
 言葉だけじゃ伝えきれないよ どうする？<br />
-<font color="silver">(こんなとき)</font>歌うよ歌うしかない</p>
+<a class="kotori">(こんなとき)</a>歌うよ歌うしかない</p>
 
-<p><font color="lime">一人ずつ</font> <font color="purple">飛び出して</font><br />
-<font color="hotpink">二度とない</font> <font color="gold">瞬間をつかまえる</font><br />
-<font color="red">いつかの</font> <font color="blue">願いごと憶えてる？</font><br />
+<p><a class="hanayo">一人ずつ</a> <a class="nozomi">飛び出して</a><br />
+<a class="nico">二度とない</a> <a class="rin">瞬間をつかまえる</a><br />
+<a class="maki">いつかの</a> <a class="umi">願いごと憶えてる？</a><br />
 光の中で踊ろうよ Sensation!</p>
 
 <p>僕と君で来たよ ここまで<br />
 みんなの想いが届いたよありがとう<br />
 ついに一緒に来たよ楽しもう<br />
 みんなで叶える物語 本気Story<br />
-【<font color="darkorange">果</font><font color="lime">花</font><font color="purple">希</font>】「まぶしいね！」【<font color="blue">海</font><font color="cyan">绘</font><font color="red">姬</font>】「いいね！」【<font color="silver">鸟</font><font color="gold">凛</font><font color="hotpink">妮</font>】「こっちだ！」<br />
-【<font color="silver">鸟</font><font color="gold">凛</font><font color="hotpink">妮</font>】「うれしいね！」【<font color="blue">海</font><font color="cyan">绘</font><font color="red">姬</font>】「いいね！」【<font color="darkorange">果</font><font color="lime">花</font><font color="purple">希</font>】「もっとだ！」<br />
+【<a class="honoka">果</a><a class="hanayo">花</a><a class="nozomi">希</a>】「まぶしいね！」【<a class="umi">海</a><a class="eli">绘</a><a class="maki">姬</a>】「いいね！」【<a class="kotori">鸟</a><a class="rin">凛</a><a class="nico">妮</a>】「こっちだ！」<br />
+【<a class="kotori">鸟</a><a class="rin">凛</a><a class="nico">妮</a>】「うれしいね！」【<a class="umi">海</a><a class="eli">绘</a><a class="maki">姬</a>】「いいね！」【<a class="honoka">果</a><a class="hanayo">花</a><a class="nozomi">希</a>】「もっとだ！」<br />
 【9人】終わらないで夢は<br />
 …KiRa-KiRa…KiRa-KiRa!!!</p>
 
 <p>Hi! Hi! 夢は夢は終わらない</p>
 
-<p>【<font color="lime">花</font><font color="purple">希</font>】一人ずつ <font color="darkorange">飛び出して</font><br />
-【<font color="blue">海</font><font color="cyan">绘</font><font color="red">姬</font>】二度とない <font color="darkorange">瞬間をつかまえる</font><br />
-【<font color="silver">鸟</font><font color="gold">凛</font><font color="hotpink">妮</font>】いつかの <font color="darkorange">願いごと憶えてる？</font><br />
-<font color="darkorange">光の中で踊ろうよ Sensation!</font><br />
+<p>【<a class="hanayo">花</a><a class="nozomi">希</a>】一人ずつ <a class="honoka">飛び出して</a><br />
+【<a class="umi">海</a><a class="eli">绘</a><a class="maki">姬</a>】二度とない <a class="honoka">瞬間をつかまえる</a><br />
+【<a class="kotori">鸟</a><a class="rin">凛</a><a class="nico">妮</a>】いつかの <a class="honoka">願いごと憶えてる？</a><br />
+<a class="honoka">光の中で踊ろうよ Sensation!</a><br />
 【9人】(Hi!Hi!)</p>
 
 <p>僕と君で来たよ ここまで<br />

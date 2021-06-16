@@ -4,70 +4,70 @@ layout: post
 ---
 歌：μ's
 
-<p><font color="blue">瞳に蒼い炎</font><br />
-<font color="silver">強がるキミ=LONELIEST BABY</font><br />
-<font color="cyan">So, comin' comin' back!<br />
-すねたままじゃ</font><br />
-【<font color="silver">鸟</font><font color="blue">海</font><font color="cyan">绘</font>】上手くいかないよ?<br />
+<p><a class="umi">瞳に蒼い炎</a><br />
+<a class="kotori">強がるキミ=LONELIEST BABY</a><br />
+<a class="eli">So, comin' comin' back!<br />
+すねたままじゃ</a><br />
+【<a class="kotori">鸟</a><a class="umi">海</a><a class="eli">绘</a>】上手くいかないよ?<br />
 　　　　　こっち向いて…お願い!</p>
 
-<p><font color="red">なんだかつらいone day</font><br />
-<font color="hotpink">孤独に揺れるone day</font><br />
-【<font color="gold">凛</font><font color="hotpink">妮</font><font color="red">姬</font>】Oh yeah, oh yeah! 教えてmy boy<br />
-<font color="gold">待ってるの 夜空に向けて</font><br />
-【<font color="gold">凛</font><font color="hotpink">妮</font><font color="red">姬</font>】Call me, call me!! 飛ばして合図は“L.O.V.E”</p>
+<p><a class="maki">なんだかつらいone day</a><br />
+<a class="nico">孤独に揺れるone day</a><br />
+【<a class="rin">凛</a><a class="nico">妮</a><a class="maki">姬</a>】Oh yeah, oh yeah! 教えてmy boy<br />
+<a class="rin">待ってるの 夜空に向けて</a><br />
+【<a class="rin">凛</a><a class="nico">妮</a><a class="maki">姬</a>】Call me, call me!! 飛ばして合図は“L.O.V.E”</p>
 
-<p><font color="lime">恋してる気持ちで抱きしめたいから</font><br />
-<font color="purple">ここで</font> <font color="darkorange">私は</font><br />
-【<font color="darkorange">果</font><font color="lime">花</font><font color="purple">希</font>】キミだけを見つめてる</p>
+<p><a class="hanayo">恋してる気持ちで抱きしめたいから</a><br />
+<a class="nozomi">ここで</a> <a class="honoka">私は</a><br />
+【<a class="honoka">果</a><a class="hanayo">花</a><a class="nozomi">希</a>】キミだけを見つめてる</p>
 
 <p>【9人】ずっとダイスキダイスキ<br />
-<font color="blue">(伝えたい)</font>ダイスキダイスキ<br />
+<a class="umi">(伝えたい)</a>ダイスキダイスキ<br />
 いつでも Hi! (Hi!) Hi! (Hi!) 負けないで<br />
 祈ってるんだ Ah…! (Let's fight!)<br />
 ダイスキダイスキ<br />
-<font color="silver">(Love you love you)</font>ダイスキダイスキ<br />
-忘れないで疲れた時には<font color="cyan">(Call me!)</font><br />
+<a class="kotori">(Love you love you)</a>ダイスキダイスキ<br />
+忘れないで疲れた時には<a class="eli">(Call me!)</a><br />
 ほんの少し私のこと<br />
 思い出して Baby!</p>
 
-<p><font color="red">本気を宿す誓い</font><br />
-<font color="hotpink">誰にも告げないのね</font><br />
-<font color="gold">So, goin' goin' now!<br />
-無口すぎて</font><br />
-【<font color="gold">凛</font><font color="hotpink">妮</font><font color="red">姬</font>】誤解されちゃうよ?<br />
+<p><a class="maki">本気を宿す誓い</a><br />
+<a class="nico">誰にも告げないのね</a><br />
+<a class="rin">So, goin' goin' now!<br />
+無口すぎて</a><br />
+【<a class="rin">凛</a><a class="nico">妮</a><a class="maki">姬</a>】誤解されちゃうよ?<br />
 　　　　　なんか言って…お願い!</p>
 
-<p><font color="darkorange">雨に泣けるone day</font><br />
-<font color="purple">切なく濡れるone day</font><br />
-【<font color="darkorange">果</font><font color="lime">花</font><font color="purple">希</font>】Oh yeah, oh yeah! 会いたいmy boy<br />
-<font color="lime">待ってるよ 心で呼んで</font><br />
-【<font color="darkorange">果</font><font color="lime">花</font><font color="purple">希</font>】Call me, call me!! 今すぐ合図は“L.O.V.E”</p>
+<p><a class="honoka">雨に泣けるone day</a><br />
+<a class="nozomi">切なく濡れるone day</a><br />
+【<a class="honoka">果</a><a class="hanayo">花</a><a class="nozomi">希</a>】Oh yeah, oh yeah! 会いたいmy boy<br />
+<a class="hanayo">待ってるよ 心で呼んで</a><br />
+【<a class="honoka">果</a><a class="hanayo">花</a><a class="nozomi">希</a>】Call me, call me!! 今すぐ合図は“L.O.V.E”</p>
 
-<p><font color="cyan">恋したら許してしまうの全てを</font><br />
-<font color="silver">本当…</font> <font color="blue">私は</font><br />
-【<font color="silver">鸟</font><font color="blue">海</font><font color="cyan">绘</font>】キミだけのものだから</p>
+<p><a class="eli">恋したら許してしまうの全てを</a><br />
+<a class="kotori">本当…</a> <a class="umi">私は</a><br />
+【<a class="kotori">鸟</a><a class="umi">海</a><a class="eli">绘</a>】キミだけのものだから</p>
 
 <p>【9人】ずっとアイラブアイラブ<br />
-<font color="red">(変わらない)</font>アイラブアイラブユー<br />
+<a class="maki">(変わらない)</a>アイラブアイラブユー<br />
 ときどき Hi! (Hi!) Hi! (Hi!) 弱いのも<br />
 愛しいの Ah…! (I know!)<br />
 アイラブアイラブ<br />
-<font color="hotpink">(Love you love you)</font>アイラブアイラブユー<br />
-愛しいから休みたい時には<font color="gold">(Call me!)</font><br />
+<a class="nico">(Love you love you)</a>アイラブアイラブユー<br />
+愛しいから休みたい時には<a class="rin">(Call me!)</a><br />
 そっとキミを守りたいの<br />
 I wanna hold you, Baby!</p>
 
-<p><font color="lime">Hi! (Hi!) Hi! (Hi!) どうしてなんだろう?</font><br />
-【<font color="darkorange">果</font><font color="purple">希</font>】強気なトコも弱気なトコも<br />
-<font color="gold">Hi! (Hi!) Hi! (Hi!) ダイスキなんだよ!</font><br />
-【<font color="hotpink">妮</font><font color="red">姬</font>】全部スキだ 孤独なmy boy<br />
-<font color="blue">キミの誓いキミの心 キミはキミはLonely boy</font><br />
-<font color="silver">熱いキミが熱くキミが 目指す場所どこだろう?</font></p>
+<p><a class="hanayo">Hi! (Hi!) Hi! (Hi!) どうしてなんだろう?</a><br />
+【<a class="honoka">果</a><a class="nozomi">希</a>】強気なトコも弱気なトコも<br />
+<a class="rin">Hi! (Hi!) Hi! (Hi!) ダイスキなんだよ!</a><br />
+【<a class="nico">妮</a><a class="maki">姬</a>】全部スキだ 孤独なmy boy<br />
+<a class="umi">キミの誓いキミの心 キミはキミはLonely boy</a><br />
+<a class="kotori">熱いキミが熱くキミが 目指す場所どこだろう?</a></p>
 
-<p><font color="cyan">ずっとアイラブアイラブ(変わらない)アイラブアイラブユー</font><br />
-<font color="cyan">ときどき Hi!</font> (Hi!) <font color="cyan">Hi!</font> (Hi!) <font color="cyan">弱いのも</font><br />
-<font color="cyan">愛しいの Ah…!</font><br />
+<p><a class="eli">ずっとアイラブアイラブ(変わらない)アイラブアイラブユー</a><br />
+<a class="eli">ときどき Hi!</a> (Hi!) <a class="eli">Hi!</a> (Hi!) <a class="eli">弱いのも</a><br />
+<a class="eli">愛しいの Ah…!</a><br />
 ずっとダイスキダイスキ<br />
 (伝えたい)ダイスキダイスキ<br />
 いつでも Hi! (Hi!) Hi! (Hi!) 負けないで<br />

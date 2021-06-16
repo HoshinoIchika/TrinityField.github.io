@@ -7,19 +7,19 @@ layout: post
 <p>Dan-dan ココロ Dan-dan アツク<br />
 夢いっぱい叶えてみせる<br />
 Dan-dan ススム Dan-dan ハジケル<br />
-<font color="silver">未来をしっかり見て!</font><br />
+<a class="kotori">未来をしっかり見て!</a><br />
 (Hi hi,ススメ!まだまだLet's go!! Hi hi,ススメ!ほらほらLet's go!!)</p>
 
-<p>【<font color="darkorange">果</font><font color="blue">海</font><font color="cyan">绘</font>】大事なことはなんだっけ?【其余6人】(なんだっけ?)<br />
+<p>【<a class="honoka">果</a><a class="umi">海</a><a class="eli">绘</a>】大事なことはなんだっけ?【其余6人】(なんだっけ?)<br />
 　　　　　ちいさな努力が<u>明日[あす]</u>を作るんだ<br />
-【<font color="lime">花</font><font color="gold">凛</font><font color="purple">希</font>】いまを愛してぶつかろう!【其余6人】(ぶつかろう!)<br />
+【<a class="hanayo">花</a><a class="rin">凛</a><a class="nozomi">希</a>】いまを愛してぶつかろう!【其余6人】(ぶつかろう!)<br />
 　　　　　そんな勢いでずっと一生懸命なんだよって<br />
 【其余6人】(一生懸命なんだよずっと!)</p>
 
-<p>【<font color="silver">鸟</font><font color="hotpink">妮</font><font color="red">姬</font>】もっと近くで語りあいたいな<br />
+<p>【<a class="kotori">鸟</a><a class="nico">妮</a><a class="maki">姬</a>】もっと近くで語りあいたいな<br />
 　　　　　頷いた君とどこまで<br />
-【<font color="darkorange">果</font><font color="blue">海</font><font color="cyan">绘</font>】走ろうか【<font color="lime">花</font><font color="gold">凛</font><font color="purple">希</font>】(果てまで)<br />
-【<font color="silver">鸟</font><font color="hotpink">妮</font><font color="red">姬</font>】走ればいいさ<br />
+【<a class="honoka">果</a><a class="umi">海</a><a class="eli">绘</a>】走ろうか【<a class="hanayo">花</a><a class="rin">凛</a><a class="nozomi">希</a>】(果てまで)<br />
+【<a class="kotori">鸟</a><a class="nico">妮</a><a class="maki">姬</a>】走ればいいさ<br />
 【其余6人】(限界しらない All right?)</p>
 
 <p>【9人】これからの Wonderful Rush<br />
@@ -30,35 +30,35 @@ Dan-dan ススム Dan-dan ハジケル<br />
 遥か遠くの虹だけど…<br />
 そう、きっとつかんで!(O…Hi!!)</p>
 
-<p>【<font color="lime">花</font><font color="gold">凛</font><font color="purple">希</font>】Dan-dan ココロ Dan-dan アツク<br />
-【<font color="darkorange">果</font><font color="blue">海</font><font color="cyan">绘</font>】夢いっぱい叶えてみせる<br />
-【<font color="silver">鸟</font><font color="hotpink">妮</font><font color="red">姬</font>】Dan-dan ススム Dan-dan ハジケル<br />
+<p>【<a class="hanayo">花</a><a class="rin">凛</a><a class="nozomi">希</a>】Dan-dan ココロ Dan-dan アツク<br />
+【<a class="honoka">果</a><a class="umi">海</a><a class="eli">绘</a>】夢いっぱい叶えてみせる<br />
+【<a class="kotori">鸟</a><a class="nico">妮</a><a class="maki">姬</a>】Dan-dan ススム Dan-dan ハジケル<br />
 【其余6人】(Hi hi,ススメ!まだまだLet's go!! Hi hi,ススムヨ!)<br />
-<font color="silver">未来をつかまえて!</font><br />
-<font color="hotpink">人生気分で上下左右</font><br />
-<font color="red">運命ときに急展開</font><br />
-<font color="lime">最低↓</font><font color="darkorange">最高↑</font><font color="purple">最大↑</font><font color="blue">最新↑</font><br />
-【<font color="gold">凛</font><font color="cyan">绘</font>】Let's go! 遠くに Super jump!!</p>
+<a class="kotori">未来をつかまえて!</a><br />
+<a class="nico">人生気分で上下左右</a><br />
+<a class="maki">運命ときに急展開</a><br />
+<a class="hanayo">最低↓</a><a class="honoka">最高↑</a><a class="nozomi">最大↑</a><a class="umi">最新↑</a><br />
+【<a class="rin">凛</a><a class="eli">绘</a>】Let's go! 遠くに Super jump!!</p>
 
-<p>【<font color="darkorange">果</font><font color="blue">海</font><font color="cyan">绘</font>】なんでだろうね不思議だよ<br />
+<p>【<a class="honoka">果</a><a class="umi">海</a><a class="eli">绘</a>】なんでだろうね不思議だよ<br />
 　　　　　楽しいと感じるこの時は<br />
 　　　　　瞬間のようで永遠のようだね<br />
-<font color="cyan">一緒に跳ぼう</font><br />
+<a class="eli">一緒に跳ぼう</a><br />
 Dan-da-Dan-Dan!</p>
 
-<p><font color="blue">大事だよ</font>【<font color="darkorange">果</font><font color="cyan">绘</font>】(なんだっけ?)<br />
-<font color="lime">ちいさな努力</font>【<font color="gold">凛</font><font color="purple">希</font>】(そうだった!)<br />
-<font color="hotpink">いまが好きで</font>【<font color="silver">鸟</font><font color="red">姬</font>】(愛なんだ?)<br />
-<font color="darkorange">ぶつかるんだ</font>【<font color="blue">海</font><font color="cyan">绘</font>】(そうなんだ!)<br />
-<font color="purple">勢いよくね</font>【<font color="gold">凛</font><font color="lime">花</font>】(大胆に?)<br />
-<font color="red">一生懸命</font>【<font color="silver">鸟</font><font color="hotpink">妮</font>】(そうだった!)<br />
-<font color="cyan">勢いつけて</font>【<font color="darkorange">果</font><font color="blue">海</font>】(大胆に?)<br />
+<p><a class="umi">大事だよ</a>【<a class="honoka">果</a><a class="eli">绘</a>】(なんだっけ?)<br />
+<a class="hanayo">ちいさな努力</a>【<a class="rin">凛</a><a class="nozomi">希</a>】(そうだった!)<br />
+<a class="nico">いまが好きで</a>【<a class="kotori">鸟</a><a class="maki">姬</a>】(愛なんだ?)<br />
+<a class="honoka">ぶつかるんだ</a>【<a class="umi">海</a><a class="eli">绘</a>】(そうなんだ!)<br />
+<a class="nozomi">勢いよくね</a>【<a class="rin">凛</a><a class="hanayo">花</a>】(大胆に?)<br />
+<a class="maki">一生懸命</a>【<a class="kotori">鸟</a><a class="nico">妮</a>】(そうだった!)<br />
+<a class="eli">勢いつけて</a>【<a class="honoka">果</a><a class="umi">海</a>】(大胆に?)<br />
 【9人】一生懸命だ!</p>
 
-<p>【<font color="lime">花</font><font color="gold">凛</font><font color="purple">希</font>】もっと気持ちを分かりあいたくて<br />
+<p>【<a class="hanayo">花</a><a class="rin">凛</a><a class="nozomi">希</a>】もっと気持ちを分かりあいたくて<br />
 　　　　　隣にいる君いつでも<br />
-<font color="gold">いっしょに</font><font color="purple">(いるから)</font><br />
-<font color="lime">いっしょがいいね</font><br />
+<a class="rin">いっしょに</a><a class="nozomi">(いるから)</a><br />
+<a class="hanayo">いっしょがいいね</a><br />
 【其余6人】(心配いらない All right?)</p>
 
 <p>【9人】はじまりの Wonderful Stage<br />
@@ -69,23 +69,23 @@ Dan-da-Dan-Dan!</p>
 遙か遠くの虹だから…<br />
 さあ、出発だよ!</p>
 
-<p><font color="red">Wonderful…</font></p>
+<p><a class="maki">Wonderful…</a></p>
 
-<p><font color="hotpink">Wao! どうしようか?<br />
+<p><a class="nico">Wao! どうしようか?<br />
 Dreams Come True<br />
-当然 Let's go! </font><br />
+当然 Let's go! </a><br />
 Three, two, one, ZERO!!</p>
 
 <p>Hi hi, Super jump! Oh yeah, Super jump!!<br />
 Life is wonder まだまだ Let's go!!<br />
 Hi hi, Super jump! Oh yeah, Super jump!!<br />
-【<font color="silver">鸟</font><font color="hotpink">妮</font><font color="red">姬</font>】Life is wonder Wonderful Rush</p>
+【<a class="kotori">鸟</a><a class="nico">妮</a><a class="maki">姬</a>】Life is wonder Wonderful Rush</p>
 
-<p><font color="silver">もっと近くで語りあいたいな<br />
-頷いた君とどこまで走ろうか</font><font color="red">(果てまで)<br />
-走ればいいさ</font><br />
-<font color="hotpink">(限界それなに? No thank you, OK!)</font><br />
-<font color="silver">Oh yeah</font><br />
+<p><a class="kotori">もっと近くで語りあいたいな<br />
+頷いた君とどこまで走ろうか</a><a class="maki">(果てまで)<br />
+走ればいいさ</a><br />
+<a class="nico">(限界それなに? No thank you, OK!)</a><br />
+<a class="kotori">Oh yeah</a><br />
 【其余6人】(心配いらない All right!!)</p>
 
 <p>【9人】これからの Wonderful Rush<br />

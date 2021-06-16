@@ -14,9 +14,9 @@ layout: post
 【三年生】性格がわかる 納得のチョイス<br />
 　　　　　虹を見つめて 決めちゃう? どれどれ?</p>
 
-<p><font color="darkorange">夏の香りORANGE SMILE</font><br />
-<font color="blue">静かなBLUE SEA</font><br />
-<font color="silver">白い羽よ羽ばたけ…</font><br />
+<p><a class="honoka">夏の香りORANGE SMILE</a><br />
+<a class="umi">静かなBLUE SEA</a><br />
+<a class="kotori">白い羽よ羽ばたけ…</a><br />
 【二年生】これが私達だね!<br />
 　　　　　よろしくよろしくしましょうっ (ねっ!)</p>
 
@@ -35,9 +35,9 @@ layout: post
 【二年生】お似合いって言われたい 迷うねだから<br />
 　　　　　アイスキャンディー買うよ 決めちゃえ! どの色?</p>
 
-<p><font color="lime">若葉萌ゆる緑の街</font><br />
-<font color="gold">見守るYELLOW STAR</font><br />
-<font color="red">照らせ情熱SUNSHINE RED…</font><br />
+<p><a class="hanayo">若葉萌ゆる緑の街</a><br />
+<a class="rin">見守るYELLOW STAR</a><br />
+<a class="maki">照らせ情熱SUNSHINE RED…</a><br />
 【一年生】これが私達だもん!<br />
 　　　　　よろしくよろしくしましょうっ (ねっ!)</p>
 
@@ -56,14 +56,14 @@ layout: post
 【二年生】しましょうしましょうっ<br />
 【9人】(ねっ!)</p>
 
-<p><font color="hotpink">桃の花が揺れる頃の</font><br />
-<font color="purple">謎掛けPURPLE EYE</font><br />
-<font color="cyan">AQUA BLUEへと溶けるSNOW…</font><br />
+<p><a class="nico">桃の花が揺れる頃の</a><br />
+<a class="nozomi">謎掛けPURPLE EYE</a><br />
+<a class="eli">AQUA BLUEへと溶けるSNOW…</a><br />
 【三年生】これが私達なの!<br />
 　　　　　よろしくよろしく<br />
-<font color="hotpink">(よろしくちゃーん)</font><br />
-<font color="gold">(寒くないかにゃー？)</font><br />
-<font color="silver">(ちゅんちゅん)</font><br />
+<a class="nico">(よろしくちゃーん)</a><br />
+<a class="rin">(寒くないかにゃー？)</a><br />
+<a class="kotori">(ちゅんちゅん)</a><br />
 【三年生】しましょうっ(ねっ!)</p>
 
 <p>【9人】透明な空に描く みんなの未来描く<br />

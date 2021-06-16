@@ -4,55 +4,55 @@ layout: post
 ---
 歌：Printemps
 
-<p><font color="silver">先に乗るねと微笑んだ電車のなかでは<br />
+<p><a class="kotori">先に乗るねと微笑んだ電車のなかでは<br />
 くちびる少しふるえているの<br />
-切なく走る想い</font></p>
+切なく走る想い</a></p>
 
-<p><font color="darkorange">気持ちだけでも伝えたい<br />
-それができるなら</font><br />
-<font color="lime">硝子に指で名まえをひとつ<br />
-吐息で書いたりしない</font></p>
+<p><a class="honoka">気持ちだけでも伝えたい<br />
+それができるなら</a><br />
+<a class="hanayo">硝子に指で名まえをひとつ<br />
+吐息で書いたりしない</a></p>
 
 <p>青く透明な私になりたい<br />
 友達のままであなたの前で<br />
-<font color="darkorange">隠しきれない</font><br />
-<font color="lime">胸のときめき</font><br />
-<font color="silver">誰にも気付かれたくないよ</font><br />
+<a class="honoka">隠しきれない</a><br />
+<a class="hanayo">胸のときめき</a><br />
+<a class="kotori">誰にも気付かれたくないよ</a><br />
 こころ透明な私を返して<br />
 友達なのにあなたが好きだと<br />
-<font color="silver">隠しきれない</font><br />
-<font color="lime">忘れられない</font><br />
+<a class="kotori">隠しきれない</a><br />
+<a class="hanayo">忘れられない</a><br />
 秘密かかえて窓にもたれた</p>
 
-<p><font color="lime">流れる景色変わるころ一筋の涙<br />
+<p><a class="hanayo">流れる景色変わるころ一筋の涙<br />
 あくびのふりで誤魔化してみる<br />
-上向いて外を眺め</font></p>
+上向いて外を眺め</a></p>
 
-<p><font color="darkorange">側にいるからつらくなる<br />
-優しすぎるのと</font><br />
-<font color="silver">あの娘が話すあなたの癖を<br />
-知ってる事がつらい</font></p>
+<p><a class="honoka">側にいるからつらくなる<br />
+優しすぎるのと</a><br />
+<a class="kotori">あの娘が話すあなたの癖を<br />
+知ってる事がつらい</a></p>
 
 <p>いつか結ばれる夢を見たくなる<br />
 恋人達は引き合うものだと<br />
-<font color="lime">勝手な願い</font><br />
-<font color="silver">苦しい望み</font><br />
-<font color="darkorange">誰にも気付かれたくないの</font><br />
+<a class="hanayo">勝手な願い</a><br />
+<a class="kotori">苦しい望み</a><br />
+<a class="honoka">誰にも気付かれたくないの</a><br />
 こころ結ばれる夢が見たかった<br />
 恋人達のしあわせ手にする<br />
-<font color="silver">勝手な願い</font><br />
-<font color="lime">ごめんねきっと</font><br />
+<a class="kotori">勝手な願い</a><br />
+<a class="hanayo">ごめんねきっと</a><br />
 私だけのひそかな Love marginal</p>
 
-<p><font color="lime">最初出会ったあの日がいまも消えない</font><br />
-<font color="silver">どうして記憶の中で輝いてるの?</font></p>
+<p><a class="hanayo">最初出会ったあの日がいまも消えない</a><br />
+<a class="kotori">どうして記憶の中で輝いてるの?</a></p>
 
-<p><font color="lime">(大好き)</font></p>
+<p><a class="hanayo">(大好き)</a></p>
 
-<p><font color="darkorange">青く透明な私になりたい<br />
-友達のままであなたの前で</font><br />
-<font color="silver">隠しきれない</font><br />
-<font color="lime">胸のときめき</font><br />
+<p><a class="honoka">青く透明な私になりたい<br />
+友達のままであなたの前で</a><br />
+<a class="kotori">隠しきれない</a><br />
+<a class="hanayo">胸のときめき</a><br />
 誰にも気付かれたくないよ<br />
 こころ透明な私を返して<br />
 友達なのにあなたが好きだと<br />

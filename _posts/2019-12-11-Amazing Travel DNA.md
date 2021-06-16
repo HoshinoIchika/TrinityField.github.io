@@ -9,42 +9,42 @@ layout: post
 楽しいと思いませんか？<br />
 旅は、ここから！</p>
 
-<p><font color="gold">そろそろ時間 合図しました<br />
-荷物はなにも持たなくたって</font><br />
-<font color="red">大丈夫だと微笑みかける<br />
-ああ はじまりたがってます</font></p>
+<p><a class="hanamaru">そろそろ時間 合図しました<br />
+荷物はなにも持たなくたって</a><br />
+<a class="dia">大丈夫だと微笑みかける<br />
+ああ はじまりたがってます</a></p>
 
-<p><font color="limegreen">絶対がないセカイ<br />
-自分の“スキ”を探しに</font><br />
-<font color="gold">行きたいんですか</font><br />
-<font color="red">行きたいんですね</font><br />
-<font color="limegreen">わかる</font> 私もです</p>
+<p><a class="kanan">絶対がないセカイ<br />
+自分の“スキ”を探しに</a><br />
+<a class="hanamaru">行きたいんですか</a><br />
+<a class="dia">行きたいんですね</a><br />
+<a class="kanan">わかる</a> 私もです</p>
 
 <p>Amazing Travel 忙しいの？<br />
 それはただのあきらめです だから<br />
-飛びだしますよ<font color="gold">(ほら手を取って)</font><br />
+飛びだしますよ<a class="hanamaru">(ほら手を取って)</a><br />
 新しい経験へと<br />
 Amazing Travel 私達の<br />
 知らない場所が まだあるってことが<br />
 楽しいと思いませんか？<br />
 旅は、ここから！</p>
 
-<p><font color="limegreen">ふわふわ浮かぶ 雲の切れ間に<br />
-虹がかかって橋に見えたら</font><br />
-<font color="red">気持ちのままに動いてみたい<br />
-ああ ときめきたがってます</font></p>
+<p><a class="kanan">ふわふわ浮かぶ 雲の切れ間に<br />
+虹がかかって橋に見えたら</a><br />
+<a class="dia">気持ちのままに動いてみたい<br />
+ああ ときめきたがってます</a></p>
 
-<p><font color="gold">安心だけのセカイ<br />
-退屈…眠いだけです</font><br />
-<font color="limegreen">行きたいんですか</font><br />
-<font color="red">行きたいんですね</font><br />
-<font color="gold">おなじ</font> 私もです</p>
+<p><a class="hanamaru">安心だけのセカイ<br />
+退屈…眠いだけです</a><br />
+<a class="kanan">行きたいんですか</a><br />
+<a class="dia">行きたいんですね</a><br />
+<a class="hanamaru">おなじ</a> 私もです</p>
 
 <p>目覚めた冒険DNA 誰でも持ってますよ</p>
 
 <p>Amazing Transit 風の向きが<br />
 変わるたびに 目的地も変えて<br />
-自由の意味を<font color="limegreen">(噛みしめながら)</font><br />
+自由の意味を<a class="kanan">(噛みしめながら)</a><br />
 今日のリストはノープラン<br />
 Amazing Transit 私達は<br />
 いつか離れ またどこか遠くで<br />
@@ -54,16 +54,16 @@ Amazing Transit 私達は<br />
 <p>(A·Z·A·L·E·A!)<br />
 (A·Z·A·L·E·A!)</p>
 
-<p><font color="red">絶対がないセカイ<br />
-自分の“スキ”を探しに</font><br />
-<font color="gold">行きたいんですか</font><br />
-<font color="limegreen">行きたいんですね</font><br />
-<font color="red">わかる</font> 私もです</p>
+<p><a class="dia">絶対がないセカイ<br />
+自分の“スキ”を探しに</a><br />
+<a class="hanamaru">行きたいんですか</a><br />
+<a class="kanan">行きたいんですね</a><br />
+<a class="dia">わかる</a> 私もです</p>
 
 
 <p>Amazing Travel 忙しいの？<br />
 それはただのあきらめです<br />
-だから飛びだしますよ<font color="red">(ほら手を取って)</font><br />
+だから飛びだしますよ<a class="dia">(ほら手を取って)</a><br />
 新しい経験へと<br />
 Amazing Travel 私達の<br />
 知らない場所が まだあるってことが<br />

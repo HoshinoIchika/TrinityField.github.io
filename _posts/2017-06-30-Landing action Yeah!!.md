@@ -23,13 +23,13 @@ layout: post
 待ってるだけじゃ伝わらない<br />
 だから…来たのさ!</p>
 
-<p><font color="darkorange">なにをしたらココロ ひとつになれる</font><br />
-<font color="deepskyblue">笑顔見たいんだよ メチャクチャでも踊ろう</font><br />
-<font color="red">ずっと変わらないモノ? 楽しい思い出の</font><br />
-<font color="limegreen">なかに閉じ込める いまの光かな</font></p>
+<p><a class="chika">なにをしたらココロ ひとつになれる</a><br />
+<a class="you">笑顔見たいんだよ メチャクチャでも踊ろう</a><br />
+<a class="dia">ずっと変わらないモノ? 楽しい思い出の</a><br />
+<a class="kanan">なかに閉じ込める いまの光かな</a></p>
 
-<p><font color="magenta">一緒にJump!</font> <font color="gold">もっと高くねJump!</font><br />
-<font color="silver">やっと会えたと 歌いだしちゃえば</font><br />
+<p><a class="ruby">一緒にJump!</a> <a class="hanamaru">もっと高くねJump!</a><br />
+<a class="yoshiko">やっと会えたと 歌いだしちゃえば</a><br />
 カラダがキモチがYeah!!</p>
 
 <p>元気だよ楽しもうよ ここがいいねって<br />
@@ -39,9 +39,9 @@ layout: post
 だから…来たのさ!</p>
 
 <p>Landing action<br />
-<font color="pink">ここにおいでって呼ばれたくて</font><br />
+<a class="riko">ここにおいでって呼ばれたくて</a><br />
 Landing action<br />
-<font color="purple">次の場所はどこだろう?</font></p>
+<a class="mari">次の場所はどこだろう?</a></p>
 
 <p>聞こえたよ ここにおいでって<br />
 誰の声かはわからない でも聞こえたよ<br />

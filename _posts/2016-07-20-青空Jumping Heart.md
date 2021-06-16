@@ -25,14 +25,14 @@ layout: post
 【9人】夢をつかまえに行くよ<br />
 どんなことがおこるのか わからないのも楽しみさ</p>
 
-<p><font color="darkorange">Open Mind 伝えなきゃ伝わらない</font><br />
-【C】最初からカンペキに <font color="deepskyblue">できる筈はないから</font><br />
-<font color="magenta">とりあえず元気に</font> 【C】飛びだそう<br />
+<p><a class="chika">Open Mind 伝えなきゃ伝わらない</a><br />
+【C】最初からカンペキに <a class="you">できる筈はないから</a><br />
+<a class="ruby">とりあえず元気に</a> 【C】飛びだそう<br />
 【C】僕たちのスタートライン ゴールは遠いかな</p>
 
-<p><font color="limegreen">まぶしいセカイで 呼ぶ声が聞こえた</font><br />
-【G】(もっと)<font color="red">聞いてみたくて</font><br />
-【G】(Let's go!)<font color="gold">光の向こうへ</font><br />
+<p><a class="kanan">まぶしいセカイで 呼ぶ声が聞こえた</a><br />
+【G】(もっと)<a class="dia">聞いてみたくて</a><br />
+【G】(Let's go!)<a class="hanamaru">光の向こうへ</a><br />
 【9人】ほら、いっしょにね！</p>
 
 <p>【二年生、三年生】変えたいな！My Future【一年生】(さあっどこへ)<br />
@@ -44,9 +44,9 @@ layout: post
 【9人】夢をつかまえに行くよ<br />
 みんなとなら 説明はできないけどだいじょうぶさ</p>
 
-<p>【其余8人】Jumping Heart <font color="pink">だってはじめたいことが</font><br />
-【其余8人】Charging Heart <font color="silver">いま見つかったばっかり</font><br />
-<font color="purple">ゴールはどこ？</font>【二年生】どこだろう？ <font color="purple">わからない！</font><br />
+<p>【其余8人】Jumping Heart <a class="riko">だってはじめたいことが</a><br />
+【其余8人】Charging Heart <a class="yoshiko">いま見つかったばっかり</a><br />
+<a class="mari">ゴールはどこ？</a>【二年生】どこだろう？ <a class="mari">わからない！</a><br />
 【G】わからない でもね楽しそうだよ</p>
 
 <p>【9人】はじめたい！My Story<br />

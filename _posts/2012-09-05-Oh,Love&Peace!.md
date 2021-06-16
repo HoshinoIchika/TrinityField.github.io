@@ -8,9 +8,9 @@ layout: post
 【三年生】理屈じゃないひたむきな気持ち<br />
 【二年生、三年生】自由と勇気のルールを持ってるかい?</p>
 
-<p><font color="red">前進怖れずに</font><br />
-<font color="gold">喜びを分かち合って</font><br />
-<font color="lime">ふたつだけでも必ず守りたいね</font></p>
+<p><a class="maki">前進怖れずに</a><br />
+<a class="rin">喜びを分かち合って</a><br />
+<a class="hanayo">ふたつだけでも必ず守りたいね</a></p>
 
 <p>Oh,Love&Peace<br />
 優しい風になれ心<br />
@@ -27,9 +27,9 @@ Oh,Love&Peace<br />
 【一年生】振り向いて深呼吸しよう<br />
 【一年生、三年生】自由と勇気はみんなを愛してる</p>
 
-<p><font color="silver">自分を嫌わずに</font><br />
-<font color="darkorange">純粋を笑わないで</font><br />
-<font color="blue">恥ずかしくても言いたいことがあるよ</font></p>
+<p><a class="kotori">自分を嫌わずに</a><br />
+<a class="honoka">純粋を笑わないで</a><br />
+<a class="umi">恥ずかしくても言いたいことがあるよ</a></p>
 
 <p>Oh,You may dream<br />
 楽しい物語つくろう<br />
@@ -43,13 +43,13 @@ Oh,You may dream<br />
 夜明けは近い You may dream<br />
 (lalala...)</p>
 
-<p><font color="lime">ほんの少しの勇気<br />
-それがあれば</font><br />
-<font color="cyan">いつか必ず変わるよ</font><br />
-<font color="blue">(誰でも最初は)</font><br />
-<font color="lime">ちっぽけな自由からはじまるよ<br />
-意識が</font> <font color="cyan">上を</font> <font color="blue">向いて</font><font color="lime">(向いて)</font><br />
-【<font color="lime">花</font><font color="blue">海</font><font color="cyan">绘</font>】やがて大きな Freedom</p>
+<p><a class="hanayo">ほんの少しの勇気<br />
+それがあれば</a><br />
+<a class="eli">いつか必ず変わるよ</a><br />
+<a class="umi">(誰でも最初は)</a><br />
+<a class="hanayo">ちっぽけな自由からはじまるよ<br />
+意識が</a> <a class="eli">上を</a> <a class="umi">向いて</a><a class="hanayo">(向いて)</a><br />
+【<a class="hanayo">花</a><a class="umi">海</a><a class="eli">绘</a>】やがて大きな Freedom</p>
 
 <p>【9人】Oh,Love&Peace<br />
 優しい風になれ心<br />

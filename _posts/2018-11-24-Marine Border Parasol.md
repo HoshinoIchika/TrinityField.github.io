@@ -2,17 +2,17 @@
 title: Marine Border Parasol
 layout: post
 ---
-歌：<font color="darkorange">高海千歌</font> <font color="pink">桜内梨子</font> <font color="deepskyblue">渡辺曜</font>
+歌：<a class="chika">高海千歌</a> <a class="riko">桜内梨子</a> <a class="you">渡辺曜</a>
 
-<p><font color="pink">悩みなき人はいない<br />
-水の中 ゆれる太陽</font><br />
-<font color="darkorange">つかまえたつもりでも<br />
-キラキラこぼれてしまう</font></p>
+<p><a class="riko">悩みなき人はいない<br />
+水の中 ゆれる太陽</a><br />
+<a class="chika">つかまえたつもりでも<br />
+キラキラこぼれてしまう</a></p>
 
-<p>【<font color="darkorange">千</font><font color="pink">梨</font>】岬へ飛んでくカモメ<br />
-<font color="deepskyblue">マリンカラーの絵になって</font><br />
-【<font color="darkorange">千</font><font color="pink">梨</font>】空にすーっと溶けちゃった<br />
-<font color="deepskyblue">自由ってこういうコトさ</font></p>
+<p>【<a class="chika">千</a><a class="riko">梨</a>】岬へ飛んでくカモメ<br />
+<a class="you">マリンカラーの絵になって</a><br />
+【<a class="chika">千</a><a class="riko">梨</a>】空にすーっと溶けちゃった<br />
+<a class="you">自由ってこういうコトさ</a></p>
 
 <p>【3人】パラソル 海辺の道を<br />
 いつも変わらないけれど<br />
@@ -23,15 +23,15 @@ layout: post
 どこでまた会えるかは<br />
 潮風が知ってる</p>
 
-<p><font color="deepskyblue">サンダルを手に持って<br />
-冷たい砂 踏んでいると</font><br />
-<font color="darkorange">灼けそうな暑い日が<br />
-懐かしい気がしてるよ</font></p>
+<p><a class="you">サンダルを手に持って<br />
+冷たい砂 踏んでいると</a><br />
+<a class="chika">灼けそうな暑い日が<br />
+懐かしい気がしてるよ</a></p>
 
-<p>【<font color="darkorange">千</font><font color="deepskyblue">曜</font>】それでもみんな感じてる<br />
-<font color="pink">これが終わりじゃないと</font><br />
-【<font color="darkorange">千</font><font color="deepskyblue">曜</font>】夏はまたくるから<br />
-<font color="pink">違う夏がくるね</font></p>
+<p>【<a class="chika">千</a><a class="you">曜</a>】それでもみんな感じてる<br />
+<a class="riko">これが終わりじゃないと</a><br />
+【<a class="chika">千</a><a class="you">曜</a>】夏はまたくるから<br />
+<a class="riko">違う夏がくるね</a></p>
 
 <p>【3人】パラレル いまの僕らで<br />
 よかった 他の選択肢<br />
@@ -42,19 +42,19 @@ layout: post
 いつかまた会えること<br />
 潮風が知ってる</p>
 
-<p><font color="darkorange">あの水平線を</font><br />
-<font color="pink">また見たいよね</font><br />
-<font color="deepskyblue">暑い夏を</font><br />
+<p><a class="chika">あの水平線を</a><br />
+<a class="riko">また見たいよね</a><br />
+<a class="you">暑い夏を</a><br />
 熱く駆け抜けた</p>
 
-<p><font color="pink">「すごーい、2人共 海の音が聞こえた」</font><br />
-<font color="deepskyblue">「アハハ、千歌ちゃん、梨子ちゃん、早くしないと行っちゃうよ。<br />
-全速前進!ヨーソロー!!」</font></p>
+<p><a class="riko">「すごーい、2人共 海の音が聞こえた」</a><br />
+<a class="you">「アハハ、千歌ちゃん、梨子ちゃん、早くしないと行っちゃうよ。<br />
+全速前進!ヨーソロー!!」</a></p>
 
-<p>【<font color="pink">梨</font><font color="deepskyblue">曜</font>】それでもみんな感じてる<br />
-<font color="darkorange">これが終わりじゃないと</font><br />
-【<font color="pink">梨</font><font color="deepskyblue">曜</font>】夏はまたくるから<br />
-<font color="darkorange">違う夏がくるね</font></p>
+<p>【<a class="riko">梨</a><a class="you">曜</a>】それでもみんな感じてる<br />
+<a class="chika">これが終わりじゃないと</a><br />
+【<a class="riko">梨</a><a class="you">曜</a>】夏はまたくるから<br />
+<a class="chika">違う夏がくるね</a></p>
 
 <p>【3人】パラソル 海辺の道は<br />
 いつも変わらないけれど<br />
@@ -67,7 +67,7 @@ layout: post
 
 <p>パラソル (Yeah!)<br />
 パラソル (Yeah!)<br />
-<font color="darkorange">「もう一回 もう一回！」</font><br />
+<a class="chika">「もう一回 もう一回！」</a><br />
 パラソル (Yeah!)<br />
-<font color="darkorange">「私、曜ちゃんと梨子ちゃんのこと、だーいすき!!<br />
-二人と出会えたことが、キセキだよーー!!!」</font></p>
+<a class="chika">「私、曜ちゃんと梨子ちゃんのこと、だーいすき!!<br />
+二人と出会えたことが、キセキだよーー!!!」</a></p>

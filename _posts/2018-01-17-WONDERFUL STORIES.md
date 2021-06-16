@@ -7,18 +7,18 @@ layout: post
 <p>【其余6人】夢を駆けてきた【一年生】(僕たちの)<br />
 　　　　　&nbsp;&nbsp;WONDERFUL STORIES<br />
 【一年生】全力で 【其余6人】輝いた<br />
-<font color="darkorange">ストーリー、さ！</font></p>
+<a class="chika">ストーリー、さ！</a></p>
 
-<p><font color="darkorange">いつも いつも 追いかけていた<br />
-届きそうで届かない</font>【其余8人】(ミライを)<br />
-<font color="darkorange">だから だから 君に会えたよ</font><br />
+<p><a class="chika">いつも いつも 追いかけていた<br />
+届きそうで届かない</a>【其余8人】(ミライを)<br />
+<a class="chika">だから だから 君に会えたよ</a><br />
 【9人】一緒にいてくれてありがとう</p>
 
 <p>【三年生】足りないって気分 悔しかったんだ<br />
 【二年生】(もっと欲しくなる)<br />
 【一年生】特別な何か探す冒険<br />
 【9人】そしてここに来て<br />
-<font color="darkorange">やっとみつけた！</font></p>
+<a class="chika">やっとみつけた！</a></p>
 
 <p>【其余6人】本当は持ってたんだよ【一年生】(僕たちは)<br />
 　　　　　&nbsp;&nbsp;みんな持ってた　　　　　　　　胸に<br />
@@ -29,16 +29,16 @@ layout: post
 あたらしい夢が聞こえる<br />
 遠くへまた 行こうよ DREAMING DAYS</p>
 
-<p><font color="deepskyblue">どこに どこに 答えあるんだろう</font><br />
-<font color="pink">誰に訊いてもわからない</font><font color="darkorange">(ミライさ)</font><br />
-<font color="gold">ひとり</font> <font color="magenta">ひとり</font> 【<font color="gold">丸</font><font color="magenta">露</font>】それぞれの道<br />
-<font color="silver">やがて選ぶと知ってたのかい？</font></p>
+<p><a class="you">どこに どこに 答えあるんだろう</a><br />
+<a class="riko">誰に訊いてもわからない</a><a class="chika">(ミライさ)</a><br />
+<a class="hanamaru">ひとり</a> <a class="ruby">ひとり</a> 【<a class="hanamaru">丸</a><a class="ruby">露</a>】それぞれの道<br />
+<a class="yoshiko">やがて選ぶと知ってたのかい？</a></p>
 
-<p><font color="limegreen">ダメだっていいと励ましあって</font><br />
+<p><a class="kanan">ダメだっていいと励ましあって</a><br />
 【二年生】(だってやっちゃったよ)<br />
-<font color="purple">ムリだっていつか言わなくなった</font><br />
+<a class="mari">ムリだっていつか言わなくなった</a><br />
 【一年生】(えいってやっちゃったよ)<br />
-<font color="red">輝いて生きてみたいなって</font><br />
+<a class="dia">輝いて生きてみたいなって</a><br />
 【一年生】そう願う【二年生】こころで<br />
 【三年生】やっとみつけた！</p>
 
@@ -51,14 +51,14 @@ layout: post
 あたらしい夢を呼んでるんだ<br />
 遠くでまた会おうよいつか</p>
 
-<p><font color="saddlebrown">//这一部分，未标注演唱者的均为其余所有人</font><br />
-<font color="darkorange">青い鳥</font>(探してた)<br />
-<font color="darkorange">見つけたんだ</font>(でも)<br />
-<font color="darkorange">カゴにはね</font>(入れないで)<br />
-<font color="darkorange">自由に飛ばそう</font>(YES!!)<br />
-<font color="darkorange">答えはいつでも</font> この胸にある<br />
-<font color="darkorange">気がついて</font> 光があるよ<br />
-<font color="darkorange">そうだね</font> 本当は</p>
+<p><a class="notation">//这一部分，未标注演唱者的均为其余所有人</a><br />
+<a class="chika">青い鳥</a>(探してた)<br />
+<a class="chika">見つけたんだ</a>(でも)<br />
+<a class="chika">カゴにはね</a>(入れないで)<br />
+<a class="chika">自由に飛ばそう</a>(YES!!)<br />
+<a class="chika">答えはいつでも</a> この胸にある<br />
+<a class="chika">気がついて</a> 光があるよ<br />
+<a class="chika">そうだね</a> 本当は</p>
 
 <p>【其余6人】持ってたんだよ【一年生】(僕たちは)<br />
 　　　　　&nbsp;&nbsp;みんな持ってた　　　　　胸に<br />
